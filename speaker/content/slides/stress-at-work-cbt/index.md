@@ -22,7 +22,7 @@ background-image: url(cover.jpg)
 ---
 # About Me
 
-- Slides are at https://ross-larson-blog.github.io/talks/
+- Slides are at https://ross-larson-blog.github.io/slides/
 - Ask questions anytime
 
 ---
@@ -30,6 +30,6 @@ background-image: url(cover.jpg)
 
 .qrcode.db.fr.w-40pct.ml-4[]
 
-Slides are at https://ross-larson-blog.github.io/talks/ or you can scan the QR code.
+Slides are at https://ross-larson-blog.github.io/slides/ or you can scan the QR code.
 
 Contact:

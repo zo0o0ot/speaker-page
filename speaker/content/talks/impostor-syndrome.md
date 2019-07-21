@@ -1,5 +1,5 @@
 ---
-title: 'Impostor Syndrome'
+title: "Impostor Syndrome- I Have No Idea What I'm Doing"
 date: "2017-08-08T13:00:00-05:00"
 url: "/talks/impostor-syndrome/"
 event: "That Conference 2017"
@@ -18,6 +18,6 @@ In this talk, you will learn what Impostor Syndrome is, why it matters in today'
 
 After listening to this talk, you will gain insights about yourself and your co-workers, and you will learn how to be a better person, employee, and advocate for others.
 
-This presentation was created with Google Slides, so you if you want, can look at my presenter notes [here](https://docs.google.com/presentation/d/1DEBp-54hT5i1xmMMLYl8a-PC5Cv1HugREmaogPSh1Ms/edit?usp=sharing).
+This presentation was created with Google Slides. A PDF version is available on this page, but you if you want, can look at my presenter notes [here](https://docs.google.com/presentation/d/1DEBp-54hT5i1xmMMLYl8a-PC5Cv1HugREmaogPSh1Ms/edit?usp=sharing).
 
 I created a Medium article with some of the resources I collected while researching this session. Feel free to check that out [here](https://medium.com/@rosslarsonWI/resources-for-impostor-syndrome-empathy-and-advoacy-dc40d8c3594e).

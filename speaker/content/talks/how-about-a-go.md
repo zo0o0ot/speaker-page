@@ -7,7 +7,7 @@ location: "Kalahari - Wisconsin Dells, WI"
 site: "https://github.com/zo0o0ot/how-about-a-go"
 video: "https://youtu.be/XdnU4GbZoW8"
 slides: ""
-thumbnail: "/talks/thatconf2017.jpg"
+thumbnail: "/talks/that18.png"
 image: "/talks/present-notes.png"
 description: "An introduction to Golang from a beginner's perspective."
 ---
@@ -19,6 +19,8 @@ No Go experience is necessary.
 You will learn more about Go, and leave with a better idea of whether Go is a language that you should learn and use in either personal or business projects. I will also give suggestions for five “first projects” for people new to Go.
 
 Although the talk itself was not recorded, I did do an interview with Clark Sell about Golang at That Conference, and the video of that conversation is linked to the talk here.
+
+[![The Go gopher](/talks/go-gopher.gif)](https://golang.org/)
 
 *One issue with providing this presentation after the fact is that it was written in golang, using the [go present tool](https://halyph.com/blog/2015/05/18/golang-presentation-tool.html), which allowed me to run code snippets live during the presentation. However, the attempts that I've made to export it to a more portable format like PDF have all failed.*
 

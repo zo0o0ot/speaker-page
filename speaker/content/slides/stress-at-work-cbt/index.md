@@ -38,7 +38,7 @@ Testing THAT slide 3.
 
 ---
 class: title, smokescreen, shelf, no-footer
-background-image: url(cover.jpg)
+background-image: url(leo-serrat-533922-unsplash.jpg)
 
 # Stress at Work
 
@@ -47,7 +47,7 @@ background-image: url(cover.jpg)
 ---
 # About Me
 
-- Slides are at rosslarson.com/slides/
+- Slides are at http://rosslarson.com/slides/
 - Ask questions anytime
 
 ---
@@ -55,6 +55,39 @@ background-image: url(cover.jpg)
 
 .qrcode.db.fr.w-40pct.ml-4[]
 
-Slides are at rosslarson.com/slides/ or you can scan the QR code.
+Slides are at http://rosslarson.com/slides/ or you can scan the QR code.
 
-Contact:
+Contact: hello@rosslarson.com
+
+---
+
+class: img-caption
+![Image](stress-stockPhoto.jpg)
+
+A note on photos in this presentation.
+
+???
+
+Looking at stock photos of stressed people is depressing, so I'm making the executive decision to only have this one and to have baby animal pictures for the rest of the presentation.
+
+---
+
+class: img-caption
+![Image](pangolin1.jpg)
+
+Got it?
+
+???
+
+I'm doing this for your own good.  Trust me.
+
+---
+
+class: img-caption
+![Image](alpaca1.jpg)
+
+Good.
+
+???
+
+Excellent.  Let's move on.

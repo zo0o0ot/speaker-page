@@ -30,7 +30,7 @@ Golang is cross-platform, so on Windows/Mac/Linux, you can install golang and th
 
 In case you're not in the mood to do that, the raw markdown for the presentation is below:
 
-```
+```markdown
 
 # http://godoc.org/golang.org/x/tools/present
 # Present files have the following format. 

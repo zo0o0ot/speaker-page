@@ -37,7 +37,7 @@ background-size: cover
 Testing THAT slide 3.
 
 ---
-class: title
+class: title, smokescreen, shelf, no-footer
 background-image: url(cover.jpg)
 
 # Stress at Work
@@ -47,7 +47,7 @@ background-image: url(cover.jpg)
 ---
 # About Me
 
-- Slides are at https://ross-larson-blog.github.io/slides/
+- Slides are at rosslarson.com/slides/
 - Ask questions anytime
 
 ---
@@ -55,6 +55,6 @@ background-image: url(cover.jpg)
 
 .qrcode.db.fr.w-40pct.ml-4[]
 
-Slides are at https://ross-larson-blog.github.io/slides/ or you can scan the QR code.
+Slides are at rosslarson.com/slides/ or you can scan the QR code.
 
 Contact:

@@ -18,7 +18,8 @@ background-size: cover
 
 ???
 
-Testing THAT slide 1. The image doesn't appear to scale correctly unless I also apply "background-size: cover" to the slide.
+Welcome to THAT Conference. 
+-The image doesn't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
 
 ---
 background-image: url(That-Conference-Sponsors-Slide.png)
@@ -91,3 +92,85 @@ Good.
 ???
 
 Excellent.  Let's move on.
+
+---
+class: img-caption
+
+![Image](puppy4.jpg)
+
+# Let's talk about stress.
+
+???
+
+Before we get too far, I'd like to talk about stress for a bit.  We're not going to be very good at dealing with stress if we haven't defined what it is.
+
+---
+
+class: img-caption
+
+![Image](hpfluffy1.jpg)
+
+# The Three Types of Stress
+
+???
+
+There are three types of stress.  Some of them are worse than others.
+
+---
+
+class: img-left
+
+# Acute Stress
+
+
+![Image](meerkat1.jpg)
+
+--
+- Demands and pressures of the recent past
+
+--
+- Anticipated demands and pressures of the near future
+
+--
+- Thrilling and exciting in small doses
+
+
+???
+
+It comes from demands and pressures of the recent past and anticipated demands and pressures of the near future. Acute stress is thrilling and exciting in small doses, but too much is exhausting. It causes....
+---
+class: img-right
+
+# Health Effects
+
+![Image](kitten4.jpg)
+
+- Emotional distress
+
+???
+Emotional distress — some combination of anger or irritability, anxiety and depression, the three stress emotions.
+
+--
+- Muscular problems
+
+???
+
+Muscular problems including tension headache, back pain, jaw pain and the muscular tensions that lead to pulled muscles and tendon and ligament problems.
+
+--
+- Stomach, gut, and bowel problems
+
+???
+
+Stomach, gut and bowel problems such as heartburn, acid stomach, flatulence, diarrhea, constipation and irritable bowel syndrome.
+
+--
+- Other stuff
+
+???
+
+Transient overarousal leads to elevation in blood pressure, rapid heartbeat, sweaty palms, heart palpitations, dizziness, migraine headaches, cold hands or feet, shortness of breath and chest pain. 
+
+Acute stress can crop up in anyone's life, and it is highly treatable and manageable.
+
+---

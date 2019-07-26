@@ -13,6 +13,14 @@ themes:
 classes:
 - feature-qrcode
 ---
+class: title, smokescreen, shelf, no-footer
+background-image: url(leo-serrat-533922-unsplash.jpg)
+
+# Stress at Work
+
+## Changing the Narrative with Cognitive Therapy
+
+---
 background-image: url(That-Conference-Branding-Slide.png)
 background-size: cover
 
@@ -57,6 +65,7 @@ class: img-left
 - TEALS volunteer
 - Admin, [Madison, WI Slack](madisoncommunity.org)
 - Human being
+- Survivor
 
 @rosslarsonWI
 hello@rosslarson.com
@@ -73,7 +82,16 @@ Slides are at https://rosslarson.com/slides/ or you can scan the QR code.
 
 - Ask questions anytime
 
-Contact: hello@rosslarson.com
+---
+background-image: url(agenda-slide2.jpg)
+
+# Agenda
+
+- Learn about stress, then about workplace stress.
+- Learn about Cognitive Behavioral Therapy
+- Work through a stressful situation
+- Work through a situation that gives you anxiety
+- Leave with no problems!
 
 ---
 class: img-caption
@@ -132,7 +150,7 @@ There are three types of stress.  Some of them are worse than others.
 We're going to start small and get bigger as we go on.
 
 ---
-class: img-left, no-footer
+class: img-left-full
 
 # Acute Stress
 
@@ -159,7 +177,7 @@ anticipated demands and pressures of the near future.
 Acute stress is thrilling and exciting in small doses, but too much is exhausting. It causes....
 
 ---
-class: img-right, no-footer
+class: img-left-full
 
 # Health Effects
 
@@ -256,7 +274,7 @@ Now let's try to focus on stress at work.  Generally stress either comes from wo
 ---
 background-image: url(stress-pie-chart.png)
 
-Chart courtesy of [stress.org/workplace-stress](https://www.stress.org/workplace-stress)
+Chart courtesy of [stress.org/workplace-stress](https://www.stress.org/workplace-stress):
 
 ???
 
@@ -284,7 +302,7 @@ background-image: url(penguin1.jpg)
 
 ???
 
-How about Cognitive Behavioral Therapy?  It's not the only option, but it can be a good one. Let's learn some more.
+How about Cognitive Behavioral Therapy?  I want to stress that it's not the only option, but it can be a good one. Let's learn some more.
 
 Cognitive behavioral therapy (CBT) is a form of psychological treatment.
 
@@ -312,15 +330,185 @@ class: img-right
 - People suffering from psychological problems can learn better ways of coping with them, thereby relieving their symptoms and becoming more effective in their lives.
 
 ---
+class: img-left
+![CBT Chart](the-cbt-chart.jpg)
 
-# CBT Treatment:
+# How stuff interacts
 
-- Thing one
+It gets a bit jumbled up, honestly.
 
-- Thing two
+???
 
-- Thing three
+CBT sounds really simple and straightforward, but remember, we're debugging these systems in production.
+
+Your thoughts, moods, reactions, and behaviors all interact with each other. You may find some of them easier to work with than others.  That is natural. Moods and physical reactions don't just magically change.
+
+---
+class: img-left
+![American Marten](american-marten1.jpg)  
+# CBT Treatment Strategies include:
+
+- Facing your fears instead of trying to avoid them.
+
+- Using role playing to prepare for potentially problematic interactions with others.
+
+- Learning to calm your mind and relax your body.
+
 ---
 class: img-left
 ![Dog Doctor](dogDoctor.jpg)
 # Usually you pick out methods WITH A THERAPIST.
+
+To be clear, I am not a therapist.
+
+???
+
+CBT places an emphasis on helping individuals learn to be their own therapists. Through exercises in the session as well as “homework” exercises outside of sessions, patients/clients are helped to develop coping skills, whereby they can learn to change their own thinking, problematic emotions and behavior.
+
+---
+class: img-caption
+![Otter](otter1.jpg)
+# But, I have worksheets!
+
+???
+
+I have worksheets! They actually come from therapistaid.com which may be the worst domain name I've ever heard of, even though it has some great therapy worksheets. They badly need some hyphens.
+
+---
+class: img-caption
+![Seal](seal1.jpg)
+
+# Working Through The Cognitive Model
+
+???
+
+Our first exercise will help us understand the cognitive model a little better.
+
+---
+class: img-left
+
+![CBT Worksheet 1](cbt-model-example1.png)
+
+# Four steps:
+
+- Situation
+
+- Thought
+
+- Feeling
+
+- Behavior
+
+Then, think of an alternative!
+
+???
+
+Our first exercise is the cognitive model. Using the first stressful situation you thought of, start by writing how the the situation starts.
+
+Try to write out the thoughts that immediately come to mind in reaction to this situation.
+
+Next, describe the feelings, followed by the behaviors that may have been influenced by your thoughts and feelings.
+
+Think about it for a while, and see if you can come up with some alternative thoughts.  See if your group has any suggestions!
+
+Raise your hand if your group has any questions.
+
+---
+class: img-caption
+![Goat](goat1.jpg)
+# Sharing Time!
+
+???
+
+Would anyone like to share? I'll share my example afterwards.
+
+---
+class: img-caption
+![Serval](serval1.jpg)
+# (Some of) My irrational thoughts
+
+???
+
+I have trouble with loud noises sometimes.
+
+---
+class: img-caption
+![Puppy](puppy6.jpg)
+
+# Challenging Anxious Thoughts
+
+---
+class: img-left
+![Anxiety Worksheet](cbt-challenge-anxiety.png)
+
+- Describe your anxious situation
+
+- Think about the outcomes
+
+- See if it matters
+
+---
+class: img-caption
+![Red Panda](redpanda1.jpg)
+# More Sharing Time!
+
+???
+
+Would anyone like to share? I'll share my example afterwards.
+
+---
+class: img-caption
+![Cats in the office](catsInCallCenter.gif)
+# The MCSA Situation
+
+---
+class: img-left
+![I passed!](Ross-MCSA1.jpg)
+# Result of my behavior:
+
+## MCSA:
+
+## Web Applications!
+
+---
+class: img-left
+
+![Japanese Red Squirrel](japanese-red-squirrel1.jpg)
+
+# Using CBT concepts to make better requests.
+
+When you make a request:
+
+- Describe the situation
+
+- Mention your reactions/thoughts/feelings
+
+- Request the desired behavior
+
+???
+
+You can use these same tools to ask for things more effectively. Make sure your request addresses the situation, talks about the effect, and leads you to request the change or desired action.
+
+---
+
+class: img-caption
+![Oscelot](oscelot1.jpg)
+# Questions?
+
+---
+class: img-right
+
+![Meerkats](meerkats2.jpg)
+# Thanks!
+
+Slides are at:
+
+https://rosslarson.com/slides/
+
+- @rosslarsonWI
+
+- hello@rosslarson.com
+
+???
+
+Thanks for coming!

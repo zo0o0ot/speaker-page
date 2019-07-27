@@ -27,7 +27,8 @@ background-size: cover
 ???
 
 Welcome to THAT Conference
--Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
+
+- Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
 
 ---
 background-image: url(That-Conference-Sponsors-Slide.png)
@@ -104,9 +105,9 @@ class: img-caption
 
 ???
 
-Most stock photos about workplace stress look like this.  It's a person with a hand on their face surrounded by piles of paper.
+Most stock photos about workplace stress look like this.  It's a person, wearing a suit, with a hand on their face, surrounded by piles of paper.
 
-Looking at stock photos of stressed people is depressing, so I'm making the executive decision to only have this one and to have baby animal pictures for the rest of the presentation.
+Looking at stock photos of stressed people is depressing, so I'm making the executive decision to only have this one and to have animal pictures for the rest of the presentation.
 
 ---
 class: img-caption
@@ -338,7 +339,7 @@ Core principles of CBT:
 
 ---
 class: img-left
-![CBT Chart](the-cbt-chart.jpg)
+![CBT Chart](the-cbt-chart.jpg# h-100pct)
 
 # How stuff interacts
 
@@ -371,6 +372,8 @@ To be clear, I am not a therapist.
 ???
 
 CBT places an emphasis on helping individuals learn to be their own therapists. Through exercises in the session as well as “homework” exercises outside of sessions, patients/clients are helped to develop coping skills, whereby they can learn to change their own thinking, problematic emotions and behavior.
+
+I'm not saying going to therapy is wrong.  I've been to therapy plenty of times in the last year.
 
 ---
 class: img-caption

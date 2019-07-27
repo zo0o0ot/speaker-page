@@ -200,7 +200,7 @@ Muscular problems including tension headache, back pain, jaw pain and the muscul
 
 ???
 
-Stomach, gut and bowel problems such as heartburn, acid stomach, flatulence, diarrhea, constipation and irritable bowel syndrome.
+Stomach, gut and bowel problems such as heartburn, flatulence, diarrhea, constipation and irritable bowel syndrome.
 
 --
 - Other stuff
@@ -241,8 +241,6 @@ class: img-caption
 
 Another form of episodic acute stress comes from ceaseless worry. "Worry warts" see disaster around every corner and pessimistically forecast catastrophe in every situation. The world is a dangerous, unrewarding, punitive place where something awful is always about to happen. These "awfulizers" also tend to be over aroused and tense, but are more anxious and depressed than angry and hostile.
 
-???
-
 ---
 class: img-caption, no-footer
 ![Sad Panda](panda1.jpg)
@@ -259,6 +257,10 @@ class: title, smokescreen, shelf, no-footer
 
  # If you are experiencing chronic stress
  ## Consider seeking professional help.  Please.
+
+???
+
+If you're experiencing chronic stress, please consider seeking professional health, like a licensed therapist. Please.
 
 ---
 class: img-caption
@@ -322,6 +324,8 @@ class: img-right
 - But, you can learn to do better!
 
 ???
+
+Core principles of CBT:
 
 - Psychological problems are based, in part, on faulty or unhelpful ways of thinking.
 

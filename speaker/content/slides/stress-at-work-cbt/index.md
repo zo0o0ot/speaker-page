@@ -68,7 +68,10 @@ class: img-left
 - Survivor
 
 @rosslarsonWI
+
 hello@rosslarson.com
+
+THAT Slack : rosslarson
 
 ???
 
@@ -522,6 +525,7 @@ https://rosslarson.com/slides/
 
 - hello@rosslarson.com
 
+- THAT Slack: rosslarson
 ???
 
 Thanks for coming!

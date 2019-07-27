@@ -490,9 +490,18 @@ When you make a request:
 You can use these same tools to ask for things more effectively. Make sure your request addresses the situation, talks about the effect, and leads you to request the change or desired action.
 
 ---
-
 class: img-caption
-![Oscelot](oscelot1.jpg)
+![Leopard](leopard1.jpg)
+
+# Conclusions
+
+???
+
+Each of our lives is a story. We tell our story to ourselves, often without realizing it. I hope that some of the techniques that I've talked about today can help you take control of your own story and change the narrative. It's your story. Make sure that you're participating in it.
+
+---
+class: img-caption
+![Squirrel](squirrel1.jpg)
 # Questions?
 
 ---

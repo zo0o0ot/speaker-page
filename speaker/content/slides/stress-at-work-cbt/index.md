@@ -20,6 +20,10 @@ background-image: url(leo-serrat-533922-unsplash.jpg)
 
 ## Changing the Narrative with Cognitive Therapy
 
+???
+
+Make sure you're in the right room!
+
 ---
 background-image: url(That-Conference-Branding-Slide.png)
 background-size: cover

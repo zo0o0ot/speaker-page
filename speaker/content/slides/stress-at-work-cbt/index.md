@@ -1,6 +1,6 @@
 ---
 title: 'Stress at Work: Changing the Narrative with Cognitive Therapy'
-date: "2019-07-20T21:44:25-05:00"
+date: "2019-08-07T21:44:25-05:00"
 url: "/slides/stress-at-work-cbt/"
 image: "/slides/stress-at-work-cbt/that-t19.jpg"
 thumbnail: "/slides/stress-at-work-cbt/thatfull-t19.jpg"

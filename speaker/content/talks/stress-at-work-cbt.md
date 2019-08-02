@@ -32,3 +32,24 @@ Below are some links to resources that I found helpful in preparing for this tal
 - [Here](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral) is an informational page about Cognitive Behavioral Therapy from the American Psychological Association.
 
 - [Here](https://www.therapistaid.com/therapy-worksheets/cbt/none) is a link to a variety of Cognitive Behavioral Therapy exercises in a worksheet format. They come from therapistaid.com, which may be the worst domain name I've ever seen.
+
+- To find a therapist near you, click [here](https://www.psychologytoday.com/us/therapists)
+
+
+*Additional material that didn't make it into the talk, but is still interesting:*
+
+- [Men have no friends, and women bear the burden](https://www.harpersbazaar.com/culture/features/a27259689/toxic-masculinity-male-friendships-emotional-labor-men-rely-on-women/).  An article in Harper's Bazaar about how some men rely solely upon their significant other for emotional support, and the toll that can take on relationships.
+
+- [Stress Management: Know your triggers](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-management/art-20044151), courtesy of the Mayo Clinic.
+
+- The biggest mistake we make with negative emotions is trying not to feel them. Awareness deepens positive emotions and allows negative ones to dissipate. Trying to avoid your feelings causes suffering. (from a [tweet](https://twitter.com/farnamstreet/status/1151013641950552064) by [@farnamstreet](https://twitter.com/farnamstreet))
+
+- [How to Have Difficult Conversations When You Don’t Like Conflict](https://getpocket.com/explore/item/how-to-have-difficult-conversations-when-you-don-t-like-conflict?utm_source=pocket-newtab).  Originally from the Harvard Business Review, reposted into Pocket.
+
+- [What Doesn’t Kill You Makes You Stronger](https://www.thebestbrainpossible.com/what-doesnt-kill-you-makes-you-stronger/).  An article about the hope of post-traumatic growth from [The Best Brain Possible.](https://www.thebestbrainpossible.com/)
+
+- [How to grow from your pain](https://markmanson.net/how-to-grow-from-your-pain). An article about life after trauma from [Mark Manson](https://markmanson.net/), author of [The Subtle Art of Not Giving a F*ck](https://markmanson.net/books/subtle-art).
+
+- [How to Identify Stress](https://isma.org.uk/about-stress/how-to-identify-stress), courtesy of the [International Stress Management Association](https://isma.org.uk/). International Stress Awareness week will be November 4-8, 2019.
+
+- [Calmlet](http://www.calmlet.com/), an upcoming biofeedback device that can be helpful in being aware of your own body and mind.

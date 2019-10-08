@@ -1,10 +1,10 @@
 ---
-title: 'Stress at Work: Changing the Narrative with Cognitive Therapy'
-date: "2019-08-01T10:44:25-05:00"
-url: "/slides/stress-at-work-cbt/"
-image: "/slides/stress-at-work-cbt/that-t19.jpg"
-thumbnail: "/slides/stress-at-work-cbt/thatfull-t19.jpg"
-description: ""
+title: 'CWTIC - Stress at Work: Changing the Narrative with Cognitive Therapy'
+date: "2019-10-07T10:44:25-05:00"
+url: "/slides/stress-at-work-cbt-cwitc/"
+image: "/slides/stress-at-work-cbt-cwitc/stevenspoint.jpg"
+thumbnail: "/slides/stress-at-work-cbt-cwitc/cwitc-black.svg"
+description: "Slides for CWITC talk about Stress and Cognitive Behavioral Therapy - October 12, 2019 in Stevens Point, WI."
 ratio: "16:9"
 themes:
 - apron

@@ -7,7 +7,7 @@ location: "Mid-State Technical College - Stevens Point Campus, 1001 Center Point
 site: "https://cwitc.org/2019/sessions#stress-at-work-changing-the-narrative-with-cognitive-therapy"
 video: ""
 slides: "/slides/stress-at-work-cbt-cwitc/"
-thumbnail: "/slides/stress-at-work-cbt-cwitc/cwitc.png"
+thumbnail: "/slides/stress-at-work-cbt-cwitc/cwitc-black.svg"
 image: "/slides/stress-at-work-cbt-cwitc/stevenspoint.jpg"
 description: "Tools for dealing with stress at work, using Cognitive Behavioral Therapy."
 ---

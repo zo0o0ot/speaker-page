@@ -1,10 +1,10 @@
 ---
-title: 'CWTIC - Stress at Work: Changing the Narrative with Cognitive Therapy'
+title: 'CWITC - Stress at Work: Changing the Narrative with Cognitive Therapy'
 date: "2019-10-07T10:44:25-05:00"
 url: "/slides/stress-at-work-cbt-cwitc/"
 image: "/slides/stress-at-work-cbt-cwitc/stevenspoint.jpg"
 thumbnail: "/slides/stress-at-work-cbt-cwitc/cwitc-black.svg"
-description: "Slides for CWITC talk about Stress and Cognitive Behavioral Therapy - October 12, 2019 in Stevens Point, WI."
+description: "Slides for Central Wisconsin IT Conference talk about Stress and Cognitive Behavioral Therapy - October 12, 2019 in Stevens Point, WI."
 ratio: "16:9"
 themes:
 - apron
@@ -25,40 +25,6 @@ background-image: url(leo-serrat-533922-unsplash.jpg)
 Make sure you're in the right room!
 
 ---
-background-image: url(That-Conference-Branding-Slide.png)
-background-size: cover
-
-???
-
-Welcome to THAT Conference
-
-- Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
-
----
-background-image: url(That-Conference-Sponsors-Slide.png)
-background-size: cover
-
-???
-
-Sponsors are great.  Without them, That Conference would not be possible.  I'm thankful for them.
-
----
-background-image: url(That-Conference-2020.png)
-background-size: cover
-
-???
-
-Please consider coming back next year. Here are the dates!
-
----
-class: title, smokescreen, shelf, no-footer
-background-image: url(leo-serrat-533922-unsplash.jpg)
-
-# Stress at Work
-
-## Changing the Narrative with Cognitive Therapy
-
----
 class: img-left
 # About Me
 
@@ -74,8 +40,6 @@ class: img-left
 @rosslarsonWI
 
 hello@rosslarson.com
-
-THAT Slack : rosslarson
 
 ???
 
@@ -571,7 +535,6 @@ https://rosslarson.com/talks/
 
 - hello@rosslarson.com
 
-- THAT Slack: rosslarson
 ???
 
 Thanks for coming!

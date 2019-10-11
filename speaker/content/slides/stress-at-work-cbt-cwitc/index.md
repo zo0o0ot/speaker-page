@@ -25,6 +25,24 @@ background-image: url(leo-serrat-533922-unsplash.jpg)
 Make sure you're in the right room!
 
 ---
+background-image: url(Slide1.png)
+background-size: cover
+
+???
+
+Welcome to the Central Wisconsin IT Conference
+
+- Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
+
+---
+background-image: url(Slide2.png)
+background-size: cover
+
+???
+
+Sponsors are great.  Without them, CWITC would not be possible.  I'm thankful for them.
+
+---
 class: img-left
 # About Me
 
@@ -320,7 +338,7 @@ Core principles of CBT:
 
 ---
 class: img-left
-![American Marten](american-marten1.jpg)  
+![American Marten](american-marten1.jpg)
 # CBT Treatment Strategies include:
 
 - Facing your fears instead of trying to avoid them.
@@ -617,7 +635,7 @@ Believing that if you feel something, it must be true.
 - “I feel like I’m a bad developer, so I must be a bad developer.”
 
 ---
-# “Should” Statements. 
+# “Should” Statements.
 
 Believing things have to be a certain way.
 

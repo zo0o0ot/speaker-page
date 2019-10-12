@@ -1,6 +1,6 @@
 ---
 title: 'Stress at Work: Changing the Narrative with Cognitive Therapy - CWITC'
-date: "2019-10-07T20:30:12-05:00"
+date: "2019-10-12T11:15:00-05:00"
 url: "/talks/stress-at-work-cbt-cwitc/"
 event: "Central Wisconsin IT Conference"
 location: "Mid-State Technical College - Stevens Point Campus, 1001 Center Point Dr., Stevens Point, WI"

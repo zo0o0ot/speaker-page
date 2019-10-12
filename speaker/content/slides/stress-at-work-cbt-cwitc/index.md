@@ -1,6 +1,6 @@
 ---
 title: 'CWITC - Stress at Work: Changing the Narrative with Cognitive Therapy'
-date: "2019-10-07T10:44:25-05:00"
+date: "2019-10-12T11:15:00-05:00"
 url: "/slides/stress-at-work-cbt-cwitc/"
 image: "/slides/stress-at-work-cbt-cwitc/stevenspoint.jpg"
 thumbnail: "/slides/stress-at-work-cbt-cwitc/cwitc-black.svg"

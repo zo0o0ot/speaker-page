@@ -272,7 +272,7 @@ http://about.me/rosslarson
 
 * Create a static website with Hugo!
 .image images/gohugo.png
-: Hugo is an excellent static site generator.  I found out about it last year during "The Static Web Revolution" presentation by Steven Hicks at That Conference (https://www.thatconference.com/sessions/session/11195).
+: Hugo is an excellent static site generator.  I found out about it last year during "The Static Web Revolution" presentation by Steven Hicks at That Conference (https://old.thatconference.com/sessions/session/11195).
 
 * Create a Slack Bot!
 .image images/slack.png _ 900

@@ -13,7 +13,7 @@ classes:
 - feature-qrcode
 ---
 class: title, smokescreen, shelf, no-footer
-background-image: url(coding-web-gitpod-screenshot.png)
+background-image: url(gitpod/coding-web-gitpod-screenshot.png)
 
 # Coding in the Web
 ## An introduction to GitPod and GitHub Codespaces
@@ -22,7 +22,7 @@ background-image: url(coding-web-gitpod-screenshot.png)
 
 Make sure you're in the right room!
 ---
-background-image: url(That-Conference-Branding-Slide.png)
+background-image: url(that/That-Conference-Branding-Slide.png)
 background-size: cover
 
 ???
@@ -34,7 +34,7 @@ Welcome to THAT Conference
 - Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
 
 ---
-background-image: url(That-Conference-Sponsors-Slide.png)
+background-image: url(that/That-Conference-Sponsors-Slide.png)
 background-size: cover
 
 ???
@@ -44,7 +44,7 @@ Temporary Sponsors slide- 2021 slide TBD
 Sponsors are great.  Without them, That Conference would not be possible.  I'm thankful for them.
 
 ---
-background-image: url(That-Conference-2020.png)
+background-image: url(that/That-Conference-2020.png)
 background-size: cover
 
 ???

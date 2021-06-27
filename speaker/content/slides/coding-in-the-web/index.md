@@ -77,18 +77,13 @@ Hi. I'm Ross.
 
 I'm a father, a gamer, a sports fan, a geek, and other stuff.
 ---
-# About Me
-
-- General session info available at https://rosslarson.com/talks/
-- Slides are at https://rosslarson.com/slides/
-- Ask questions anytime
-
----
-# Slides and Contact Information
+# Slides and Session Information
 
 .qrcode.db.fr.w-40pct.ml-4[]
 
-Slides are at https://rosslarson.com/slides/ or you can scan the QR code.
+- General session info available at https://rosslarson.com/talks/
+- Slides are at https://rosslarson.com/slides/ or just use the QR code
+- Ask questions anytime
 
-Contact:
+
 

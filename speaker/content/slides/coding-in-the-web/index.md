@@ -3,7 +3,7 @@ title: Coding inside the web browser! Talking about GitHub Codespaces and GitPod
 date: "2021-06-27T19:33:20Z"
 url: "/slides/coding-in-the-web/"
 image: "/talks/that_conference_10yr_logo.svg"
-description: ""
+description: "Slides for THAT Conference 2021 talk about coding inside a web browser."
 ratio: "16:9"
 themes:
 - apron

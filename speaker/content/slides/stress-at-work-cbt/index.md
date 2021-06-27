@@ -67,7 +67,7 @@ class: img-left
 - Software Developer at Paradigm
 - Luther College Alumnus - Psychology / French majors
 - TEALS volunteer
-- Admin, [Madison, WI Slack](madisoncommunity.org)
+- Admin, [Madison, WI Slack](http://madisoncommunity.org)
 - Human being
 - Survivor
 

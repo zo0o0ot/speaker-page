@@ -104,7 +104,7 @@ History of web IDEs seems pretty sparse on the web, but things started about ten
 The earliest cloud IDEs I can find references to are eXo Cloud IDE and Cloud9 IDE between 2009-2011.
 Language support was rudimentary, performance was subpar, source code managment integration was usually missing, and debugging was very difficult, if not impossible.
 Because of the poor developer experience, few developers coded using web IDEs at the start.
-But, time passes, and things start to get better. Fast forward to now, and things are a bit better.
+But, time passes. Let's skip the middle and fast-forward to now.
 ---
 class: img-right
 ![that-animal](that/octopus_with_flag_that.png)

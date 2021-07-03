@@ -62,7 +62,9 @@ class: img-left
 - Software Developer at Paradigm
 - Luther College Alumnus
 - Admin, [Madison, WI Slack](http://madisoncommunity.org/)
-- Human being
+- Father
+- Gamer
+- Sports fan
 - Survivor
 
 @rosslarsonWI
@@ -85,5 +87,82 @@ I'm a father, a gamer, a sports fan, a geek, and other stuff.
 - Slides are at https://rosslarson.com/slides/ or just use the QR code
 - Ask questions anytime
 
+???
 
+Here's a QR Code if you want to follow along on your laptop or phone.
+Ask questions anytime.
+---
+class: img-left
+![that-animal](that/moose_with_lantern_that.png)
 
+# Writing code in the web browser.
+
+A history.
+???
+So, Coding in the web. It's a thing.
+History of web IDEs seems pretty sparse on the web, but things started about ten years ago.
+The earliest cloud IDEs I can find references to are eXo Cloud IDE and Cloud9 IDE between 2009-2011.
+Language support was rudimentary, performance was subpar, source code managment integration was usually missing, and debugging was very difficult, if not impossible.
+Because of the poor developer experience, few developers coded using web IDEs at the start.
+But, time passes, and things start to get better. Fast forward to now, and things are a bit better.
+---
+class: img-right
+![that-animal](that/octopus_with_flag_that.png)
+
+# Coding in the browser, with different goals
+
+- Language learning 
+- Code Interviews
+- Notebooks
+- Write and publish
+- Collaboration-first 
+- Fuller featured IDEs
+
+???
+
+There's a bunch of stuff now in different flavors, although you can tell people are still trying to figure out what people want.
+I'm going to divide them into roughly six categories.
+- Language learning 
+- Code Interviews
+- Notebooks
+- Write and publish
+- Collaboration-first 
+- Fuller featured IDEs
+---
+# Language learning 
+
+???
+
+Stuff made to either learn or test snippets of language.
+
+---
+# Code Interviews
+???
+
+Coding tools made to record behavior and test knowledge for evaluation
+---
+
+# Notebooks
+???
+
+Tools made to share data and the work used to reach the results - data science/visualization
+---
+
+# Write and publish
+???
+
+Tools whose main goal is to streamline the publishing process, often in a "playground" subdomain.
+---
+
+# Collaboration-first 
+???
+
+Tools that prioritize collaboration and mentoring over everything, potentially including video and audio communication
+---
+
+# Fuller featured IDEs
+
+???
+
+Bringing something like a traditional IDE into the web. 
+---

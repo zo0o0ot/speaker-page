@@ -8,4 +8,4 @@ ports:
   onOpen: open-preview
 
 tasks:
-  - command: 'cd speaker && hugo server --baseUrl $(gp url 1313) --appendPort=false'
+  - command: 'cd speaker/ && hugo server --baseUrl $(gp url 1313) --appendPort=false'

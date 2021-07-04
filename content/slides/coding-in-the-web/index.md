@@ -172,17 +172,25 @@ Coding tools made to record behavior and test knowledge for evaluation
 
 Basically, a next gen whiteboard for interviews.
 ---
-
+class: img-caption
+![jupyter](misc/jupyter-try.png)
 # Notebooks
 ???
 
-Tools made to share data and the work used to reach the results - data science/visualization
+Tools made to share data and the work used to reach the results 
+- data science/visualization
+- jupyter
+- R
+- Julia
+- Observable (JS)
 ---
-
-# Write and publish
+class: title, smokescreen, shelf, no-footer
+background-image: url(misc/glitch-eleventy.png)
+# Write and Publish
 ???
 
-Tools whose main goal is to streamline the publishing process, often in a "playground" subdomain.
+Tools whose main goal is to streamline the publishing process, often in a "playground" subdomain. Allows "remixes".
+- Glitch
 ---
 
 # Collaboration-first 

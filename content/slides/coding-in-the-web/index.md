@@ -162,10 +162,15 @@ Examples:
 - Codingground
 
 ---
+class: title, smokescreen, shelf, no-footer
+background-image: url(misc/coderpad-ide-screenshot.jpg)
+
 # Code Interviews
 ???
 
 Coding tools made to record behavior and test knowledge for evaluation
+
+Basically, a next gen whiteboard for interviews.
 ---
 
 # Notebooks

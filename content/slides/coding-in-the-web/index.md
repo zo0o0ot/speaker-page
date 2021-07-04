@@ -126,8 +126,9 @@ But, time passes, and things get better. Let's skip the middle and fast-forward 
 class: img-right
 ![that-animal](that/octopus_with_flag_that.png)
 
-# Coding in the browser, with different goals
+# Modern coding in the browser
 
+Different tools for different goals
 - Language learning 
 - Code Interviews
 - Notebooks
@@ -146,11 +147,19 @@ I'm going to divide them into roughly six categories.
 - Collaboration-first 
 - Fuller featured IDEs
 ---
+class: img-caption
+![trydotnet](misc/trydotnet-that.png)
 # Language learning 
 
 ???
 
-Stuff made to either learn or test snippets of language.
+Stuff made to either learn languages in a directed fashion or test snippets of language you make.
+
+Examples:
+- "Fiddle" tools 
+- Try dot net
+- REPLit.com
+- Codingground
 
 ---
 # Code Interviews

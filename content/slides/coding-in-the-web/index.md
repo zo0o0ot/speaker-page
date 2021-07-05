@@ -224,21 +224,21 @@ background-image: url(misc/google-cloud-shell.gif)
 - [CodeAnywhere](https://codeanywhere.com/)
 - [GoormIDE](https://ide.goorm.io/)
 ---
-class: 2-col
-# Repo Superchargers
+class: col-2
+# Repository Superchargers
 GitPod
-![jupyter](misc/jupyter-try.png)
+![gitpod](gitpod/gitpod-button-on-gitlab.png)
+![gitpod](gitpod/open-with-gitpod.svg)
 
-GitHub Codesp
-![jupyter](misc/jupyter-try.png)
+GitHub Codespaces
+![codespaces](github/codespaces.gif)
+![codespaces](github/open-with-codespaces.png)
 
 ???
 
-Tools that make working with open source repositories easier
+Tools that make working with open source repositories easier.
 
 - [GitPod](https://www.gitpod.io/)
 - [GitHub Codespaces](https://github.com/features/codespaces)
-
-???
 
 Here's what I'm going to talk about today.

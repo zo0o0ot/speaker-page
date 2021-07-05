@@ -135,7 +135,7 @@ Different tools for different goals
 - Write and publish
 - Collaboration-first 
 - Fuller featured IDEs
-
+- Repo superchargers
 ???
 
 There's a bunch of stuff now in different flavors, although you can tell people are still trying to figure out what people want.
@@ -221,4 +221,24 @@ background-image: url(misc/google-cloud-shell.gif)
 - [Google Cloud Shell](https://cloud.google.com/shell/)
 - [Codiad](http://codiad.com/)
 - [Koding](https://www.koding.com/)
+- [CodeAnywhere](https://codeanywhere.com/)
+- [GoormIDE](https://ide.goorm.io/)
 ---
+class: 2-col
+# Repo Superchargers
+GitPod
+![jupyter](misc/jupyter-try.png)
+
+GitHub Codesp
+![jupyter](misc/jupyter-try.png)
+
+???
+
+Tools that make working with open source repositories easier
+
+- [GitPod](https://www.gitpod.io/)
+- [GitHub Codespaces](https://github.com/features/codespaces)
+
+???
+
+Here's what I'm going to talk about today.

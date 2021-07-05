@@ -145,7 +145,7 @@ I'm going to divide them into roughly six categories.
 - Notebooks
 - Write and publish
 - Collaboration-first 
-- Fuller featured IDEs
+- Enterprise and Cloud Service IDEs
 ---
 class: img-caption
 ![trydotnet](misc/trydotnet-that.png)
@@ -156,7 +156,7 @@ class: img-caption
 Stuff made to either learn languages in a directed fashion or test snippets of language you make.
 
 Examples:
-- "Fiddle" tools 
+- ["Fiddle" tools](https://fiddles.io/) 
 - Try dot net
 - REPLit.com
 - Codingground
@@ -171,6 +171,9 @@ background-image: url(misc/coderpad-ide-screenshot.jpg)
 Coding tools made to record behavior and test knowledge for evaluation
 
 Basically, a next gen whiteboard for interviews.
+- [CodeBunk](https://codebunk.com/#)
+- [CoderPad](https://coderpad.io/)
+
 ---
 class: img-caption
 ![jupyter](misc/jupyter-try.png)
@@ -179,10 +182,10 @@ class: img-caption
 
 Tools made to share data and the work used to reach the results 
 - data science/visualization
-- jupyter
+- [Jupyter](https://jupyter.org/try)
 - R
 - Julia
-- Observable (JS)
+- [Observable (JS)](https://observablehq.com/)
 ---
 class: title, smokescreen, shelf, no-footer
 background-image: url(misc/glitch-eleventy.png)
@@ -190,18 +193,32 @@ background-image: url(misc/glitch-eleventy.png)
 ???
 
 Tools whose main goal is to streamline the publishing process, often in a "playground" subdomain. Allows "remixes".
-- Glitch
+- [Glitch](https://glitch.com)
 ---
+class: title, smokescreen, shelf, no-footer
+background-image: url(misc/duckly-landing-demo.gif)
 
 # Collaboration-first 
 ???
 
-Tools that prioritize collaboration and mentoring over everything, potentially including video and audio communication
+Tools that prioritize collaboration and mentoring over everything, audio/video, simultaneous control
+- [Duckly](https://duckly.com/)
 ---
-
-# Fuller featured IDEs
+class: title, smokescreen, shelf, no-footer
+background-image: url(misc/google-cloud-shell.gif)
+# Enterpise and Cloud Service IDEs
 
 ???
 
-Bringing something like a traditional IDE into the web. 
+- Web IDEs focusing on delivering features to enterprises
+- You may be able to configure the cloud provider you use for your virtual machine, or self-host
+- Cloud IDEs making it easier to buy cloud services (AWS Lambda functions, GCP)
+
+
+~~
+
+- [AWS Cloud 9](https://aws.amazon.com/cloud9/)
+- [Google Cloud Shell](https://cloud.google.com/shell/)
+- [Codiad](http://codiad.com/)
+- [Koding](https://www.koding.com/)
 ---

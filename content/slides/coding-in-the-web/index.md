@@ -227,7 +227,7 @@ background-image: url(misc/google-cloud-shell.gif)
 class: col-2
 # Repository Superchargers
 GitPod
-![gitpod](gitpod/gitpod-button-on-gitlab.png)
+![gitpod](gitpod/gitpod-opening-repo-5.gif)
 ![gitpod](gitpod/open-with-gitpod.svg)
 
 GitHub Codespaces
@@ -236,7 +236,7 @@ GitHub Codespaces
 
 ???
 
-Tools that make working with open source repositories easier.
+These are tools that make working with open source repositories easier. They open your repo in a customizable docker container that can allow you functionality that usually comes only on desktop IDEs.
 
 - [GitPod](https://www.gitpod.io/)
 - [GitHub Codespaces](https://github.com/features/codespaces)

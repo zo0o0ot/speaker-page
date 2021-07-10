@@ -188,7 +188,7 @@ Tools made to share data and the work used to reach the results
 - [Observable (JS)](https://observablehq.com/)
 ---
 class: title, smokescreen, shelf, no-footer
-background-image: url(misc/glitch-eleventy.png)
+background-image: url(misc/glitch-1.gif)
 # Write and Publish
 ???
 
@@ -242,3 +242,38 @@ These are tools that make working with open source repositories easier. They ope
 - [GitHub Codespaces](https://github.com/features/codespaces)
 
 Here's what I'm going to talk about today.
+---
+
+# How are GitPod and Codespaces similar?
+
+- Integration with GitHub repositories
+- Free tier available
+- Uses Visual Studio Code
+- Allows VS Code Extensions
+- iPad support
+- VNC Support
+
+---
+# How are GitPod and Codespaces different?
+
+
+| GitPod ![gitpod](gitpod/open-with-gitpod.svg)  | Codespaces  ![codespaces](github/open-with-codespaces.png)             |
+|------------------------------------------------|------------------------------------------------------------------------|
+| Open-Source                                    | Proprietary                                                            |
+| Support for GitHub, GitLab, and Bitbucket      | GitHub-only                                                            |
+| You can self-host on kubernetes                | Not available to self-host                                             |
+| Released product with pricing and free tier    | Beta.  Free, "for now".                                                |
+| col-2, col-3                  | Add a header, then any content desired.         |
+
+???
+
+- GitPod is [open-source](https://github.com/gitpod-io), and while [VS Code is open source](https://github.com/microsoft/vscode), not everything in Codespaces is.
+- GitPod has support for GitHub, GitLab, and Bitbucket. Codespaces is 
+
+
+
+
+
+
+---
+

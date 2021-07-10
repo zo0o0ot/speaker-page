@@ -246,6 +246,8 @@ Here's what I'm going to talk about today.
 
 # How are GitPod and Codespaces similar?
 
+- Broad language support, auto-complete, intellisense
+- Integrated debugger
 - Integration with GitHub repositories
 - Free tier available
 - Uses Visual Studio Code
@@ -257,23 +259,26 @@ Here's what I'm going to talk about today.
 # How are GitPod and Codespaces different?
 
 
-| GitPod ![gitpod](gitpod/open-with-gitpod.svg)  | Codespaces  ![codespaces](github/open-with-codespaces.png)             |
-|------------------------------------------------|------------------------------------------------------------------------|
-| Open-Source                                    | Proprietary                                                            |
-| Support for GitHub, GitLab, and Bitbucket      | GitHub-only                                                            |
-| You can self-host on kubernetes                | Not available to self-host                                             |
-| Released product with pricing and free tier    | Beta.  Free, "for now".                                                |
-| col-2, col-3                  | Add a header, then any content desired.         |
+| GitPod ![gitpod](gitpod/open-with-gitpod.svg)     | Codespaces  ![codespaces](github/open-with-codespaces.png)                    |
+|------------------------------------------------|----------------------------------------------------------------------------------|
+| Open-Source                                       | Proprietary                                                                   |
+| Support for GitHub, GitLab, and Bitbucket         | GitHub-only                                                                   |
+| You can self-host on kubernetes                   | Not available to self-host                                                    |
+| Open for sign-ups, use right away                 | Private beta with sign-up page                                                |
+| Released product with pricing and free tier       | Beta.  Free, "for now".                                                       |
+| Collaboration through shared workspace or snapshot| Visual Studio Live-share                                                      |
+| No integration with AI Copilot                    | Integrates with AI Copilot (beta), but you have to be in both beta programs   |
+| Local IDE connection in preview                   | Can connect to a local install of VS Code                                     |
+| "Prebuilds"                                       | No "Prebuilds"                                                                |
 
 ???
 
 - GitPod is [open-source](https://github.com/gitpod-io), and while [VS Code is open source](https://github.com/microsoft/vscode), not everything in Codespaces is.
-- GitPod has support for GitHub, GitLab, and Bitbucket. Codespaces is 
-
-
-
-
-
+- GitPod has support for GitHub, GitLab, and Bitbucket. Codespaces is limited to GitHub.
+- If you're motivated, you can self-host GitPod on kubernetes. It's not currently possible with Codespaces (though VS Codespaces did have that option).
+- GitPod has been around since 2018 with a userbase and published pricing. Codespaces is still in beta as of 2021, though it is free if you can get in via the [sign-in page](https://github.com/features/codespaces/signup).
+- Codespaces integrates with AI Copilot(beta), but you have to be accepted into both beta programs. I'm only in one.
+- There's a VS Code extension to allow you to GitHub Codespaces. GitPod is working on connecting to local IDEs with Gitpod Local Companion, but it is still in preview.
 
 ---
 

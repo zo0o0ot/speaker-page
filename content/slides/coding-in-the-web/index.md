@@ -284,4 +284,45 @@ Here's what I'm going to talk about today.
 I'm not sure if prebuilds are a topic of conversation here.
 
 ---
+class: img-caption
+![demo](misc/orville.gif)
+ # Demos!
+
+???
+Let's look at GitPod and Codespaces.
+TODO: Specific examples of environment advantages, like Hugo autostarting the server.
+---
+class: title, smokescreen, shelf, no-footer
+background-image: url(that/bigfoot-with-that-badge.png)
+
+# Should I use GitPod or Codespaces?
+
+
+???
+
+Should I use GitPod or Codespaces?
+---
+background-image: url(misc/both2.gif)
+background-size: cover
+
+???
+
+Which one should you use? Maybe both of them? I'd certainly suggest trying GitPod first, since you don't have to wait to do it. 
+
+However, Codespaces is nice, too. Since GitHub is a Microsoft product, any new GitHub features may come to Codespaces first, though they may come in beta signup form like AI Copilot.
+
+---
+class: img-caption
+![thinking](misc/thinking.gif)
+
+# Questions?
+
+---
+background-image: url(misc/thankyou.webp)
+background-size: cover
+
+???
+
+Thanks!
+
 

@@ -103,8 +103,7 @@ So, Coding in the web. It's a thing.
 History of web IDEs seems pretty sparse on the web, but things started about ten years ago.
 The earliest cloud IDEs I can find references to are eXo Cloud IDE and Cloud9 IDE between 2009-2011.
 ---
-class: img-right
-![that-animal](misc/angry-error.jpg)
+class: col-2
 
 # Early Drawbacks
 
@@ -112,6 +111,8 @@ class: img-right
 - Performance
 - SCM
 - Features/Debugging
+
+![that-animal](misc/angry-error.jpg)
 
 ???
 
@@ -123,8 +124,8 @@ class: img-right
 Because of the poor developer experience, few developers coded using web IDEs at the start.
 But, time passes, and things get better. Let's skip the middle and fast-forward to now.
 ---
-class: img-right
-![that-animal](that/octopus_with_flag_that.png)
+class: col-2
+
 
 # Modern coding in the browser
 
@@ -136,6 +137,8 @@ Different tools for different goals
 - Collaboration-first 
 - Fuller featured IDEs
 - Repo superchargers
+
+![that-animal](that/octopus_with_flag_that.png)
 ???
 
 There's a bunch of stuff now in different flavors, although you can tell people are still trying to figure out what people want.
@@ -247,6 +250,7 @@ Here's what I'm going to talk about today.
 # How are GitPod and Codespaces similar?
 
 - Broad language support, auto-complete, intellisense
+- Configurable color themes
 - Integrated debugger
 - Integration with GitHub repositories
 - Free tier available

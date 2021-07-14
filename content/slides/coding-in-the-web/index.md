@@ -281,7 +281,7 @@ Here's what I'm going to talk about today.
 - GitPod has support for GitHub, GitLab, and Bitbucket. Codespaces is limited to GitHub.
 - GitPod has been around since 2018 with a userbase and published pricing. Codespaces is still in beta as of 2021, though it is free if you can get in via the [sign-in page](https://github.com/features/codespaces/signup).
 - Collaboration in Codespaces is done with VS Live Share. Gitpod handles collaboration via shared workspaces, or by creating shareable snapshots.
-- Codespaces integrates with AI Copilot(beta), but you have to be accepted into both beta programs. I'm only in one.
+- Codespaces integrates with AI Copilot(beta) via a VS Code Extension, but you have to be accepted into both beta programs. I'm only in one. Also, it doesn't show up in the list of VS Code Extensions in GitPod
 - There's a VS Code extension to allow you to connect a local install of VS Code GitHub Codespaces. GitPod is working on connecting to local IDEs with Gitpod Local Companion, but it is still in preview.
 - If you're motivated, you can self-host GitPod on kubernetes. It's not currently possible with Codespaces (though VS Codespaces did have that option).
 

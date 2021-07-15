@@ -328,5 +328,12 @@ background-size: cover
 ???
 
 Thanks!
+---
+ # Credits
 
-
+- THAT Conference Cartoons courtesy of THAT Conference, © 2021 THAT® All rights reserved.
+- Gif of Yaphit doing tech support comes from "The Orville" created by Seth MacFarlane
+- "Both" gif is from "The Road To El Dorado", Directed by Bibo Bergeron and Don Paul
+- "Looking let me think" gif courtesy of TipsyElves.com
+- "Thank you" gif is from Super Mario World, Ending screen
+- Web IDE screenshots courtesy of their respective sites.

@@ -285,7 +285,7 @@ Here's what I'm going to talk about today.
 - There's a VS Code extension to allow you to connect a local install of VS Code GitHub Codespaces. Gitpod is working on connecting to local IDEs with Gitpod Local Companion, but it is still in preview.
 - If you're motivated, you can self-host Gitpod on kubernetes. It's not currently possible with Codespaces (though VS Codespaces did have that option).
 
-I'm not sure if prebuilds are a topic of conversation here.
+I'm not sure if prebuilds are a topic of conversation here. There may be a reason for a page 2 here, to make the slide less busy.
 
 ---
 class: img-caption
@@ -295,6 +295,7 @@ class: img-caption
 ???
 Let's look at Gitpod and Codespaces.
 TODO: Specific examples of environment advantages, like Hugo autostarting the server.
+TODO: Create Gitpod and Codespaces gif slides in case nothing works.
 ---
 class: title, smokescreen, shelf, no-footer
 background-image: url(that/bigfoot-with-that-badge.png)

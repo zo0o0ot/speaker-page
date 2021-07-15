@@ -1,5 +1,5 @@
 ---
-title: Coding inside the web browser! Talking about GitHub Codespaces and GitPod.
+title: Coding inside the web browser! Talking about GitHub Codespaces and Gitpod.
 date: "2021-06-27T19:33:20Z"
 url: "/slides/coding-in-the-web/"
 image: "/talks/that_conference_10yr_logo.svg"
@@ -16,7 +16,7 @@ class: title, smokescreen, shelf, no-footer
 background-image: url(gitpod/coding-web-gitpod-screenshot.png)
 
 # Coding in the Web
-## An introduction to GitPod and GitHub Codespaces
+## An introduction to Gitpod and GitHub Codespaces
 
 ???
 
@@ -229,7 +229,7 @@ background-image: url(misc/google-cloud-shell.gif)
 ---
 class: col-2
 # Repository Superchargers
-GitPod
+Gitpod
 ![gitpod](gitpod/gitpod-opening-repo-5.gif)
 ![gitpod](gitpod/open-with-gitpod.svg)
 
@@ -241,13 +241,13 @@ GitHub Codespaces
 
 These are tools that make working with open source repositories easier. They open your repo in a customizable docker container that can allow you functionality that usually comes only on desktop IDEs.
 
-- [GitPod](https://www.gitpod.io/)
+- [Gitpod](https://www.gitpod.io/)
 - [GitHub Codespaces](https://github.com/features/codespaces)
 
 Here's what I'm going to talk about today.
 ---
 
-# How are GitPod and Codespaces similar?
+# How are Gitpod and Codespaces similar?
 
 - Broad language support, auto-complete, intellisense
 - Configurable color themes
@@ -260,10 +260,10 @@ Here's what I'm going to talk about today.
 - VNC Support
 
 ---
-# How are GitPod and Codespaces different?
+# How are Gitpod and Codespaces different?
 
 
-| GitPod ![gitpod](gitpod/open-with-gitpod.svg)     | Codespaces  ![codespaces](github/open-with-codespaces.png)                    |
+| Gitpod ![gitpod](gitpod/open-with-gitpod.svg)     | Codespaces  ![codespaces](github/open-with-codespaces.png)                    |
 |------------------------------------------------|----------------------------------------------------------------------------------|
 | Open-Source                                       | Proprietary                                                                   |
 | Support for GitHub, GitLab, and Bitbucket         | GitHub-only                                                                   |
@@ -277,13 +277,13 @@ Here's what I'm going to talk about today.
 
 ???
 
-- GitPod is [open-source](https://github.com/gitpod-io), and while [VS Code is open source](https://github.com/microsoft/vscode), not everything in Codespaces is.
-- GitPod has support for GitHub, GitLab, and Bitbucket. Codespaces is limited to GitHub.
-- GitPod has been around since 2018 with a userbase and published pricing. Codespaces is still in beta as of 2021, though it is free if you can get in via the [sign-in page](https://github.com/features/codespaces/signup).
+- Gitpod is [open-source](https://github.com/gitpod-io), and while [VS Code is open source](https://github.com/microsoft/vscode), not everything in Codespaces is.
+- Gitpod has support for GitHub, GitLab, and Bitbucket. Codespaces is limited to GitHub.
+- Gitpod has been around since 2018 with a userbase and published pricing. Codespaces is still in beta as of 2021, though it is free if you can get in via the [sign-in page](https://github.com/features/codespaces/signup).
 - Collaboration in Codespaces is done with VS Live Share. Gitpod handles collaboration via shared workspaces, or by creating shareable snapshots.
-- Codespaces integrates with AI Copilot(beta) via a VS Code Extension, but you have to be accepted into both beta programs. I'm only in one. Also, it doesn't show up in the list of VS Code Extensions in GitPod
-- There's a VS Code extension to allow you to connect a local install of VS Code GitHub Codespaces. GitPod is working on connecting to local IDEs with Gitpod Local Companion, but it is still in preview.
-- If you're motivated, you can self-host GitPod on kubernetes. It's not currently possible with Codespaces (though VS Codespaces did have that option).
+- Codespaces integrates with AI Copilot(beta) via a VS Code Extension, but you have to be accepted into both beta programs. I'm only in one. Also, it doesn't show up in the list of VS Code Extensions in Gitpod
+- There's a VS Code extension to allow you to connect a local install of VS Code GitHub Codespaces. Gitpod is working on connecting to local IDEs with Gitpod Local Companion, but it is still in preview.
+- If you're motivated, you can self-host Gitpod on kubernetes. It's not currently possible with Codespaces (though VS Codespaces did have that option).
 
 I'm not sure if prebuilds are a topic of conversation here.
 
@@ -293,25 +293,25 @@ class: img-caption
  # Demos!
 
 ???
-Let's look at GitPod and Codespaces.
+Let's look at Gitpod and Codespaces.
 TODO: Specific examples of environment advantages, like Hugo autostarting the server.
 ---
 class: title, smokescreen, shelf, no-footer
 background-image: url(that/bigfoot-with-that-badge.png)
 
-# Should I use GitPod or Codespaces?
+# Should I use Gitpod or Codespaces?
 
 
 ???
 
-Should I use GitPod or Codespaces?
+Should I use Gitpod or Codespaces?
 ---
 background-image: url(misc/both2.gif)
 background-size: cover
 
 ???
 
-Which one should you use? Maybe both of them? I'd certainly suggest trying GitPod first, since you don't have to wait to do it. 
+Which one should you use? Maybe both of them? I'd certainly suggest trying Gitpod first, since you don't have to wait to do it. 
 
 However, Codespaces is nice, too. Since GitHub is a Microsoft product, any new GitHub features may come to Codespaces first, though they may come in beta signup form like AI Copilot.
 

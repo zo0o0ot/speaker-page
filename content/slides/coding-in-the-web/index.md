@@ -254,8 +254,8 @@ Here's what I'm going to talk about today.
 - Integrated debugger
 - Integration with GitHub repositories
 - Free tier available
-- Uses Visual Studio Code
-- Allows VS Code Extensions
+- Uses Visual Studio Code*
+- Allows VS Code Extensions*
 - iPad support
 - VNC Support
 
@@ -276,7 +276,7 @@ Here's what I'm going to talk about today.
 
 
 ???
-
+ # this should be two slides.
 - Gitpod is [open-source](https://github.com/gitpod-io), and while [VS Code is open source](https://github.com/microsoft/vscode), not everything in Codespaces is.
 - Gitpod has support for GitHub, GitLab, and Bitbucket. Codespaces is limited to GitHub.
 - Gitpod has been around since 2018 with a userbase and published pricing. Codespaces is still in beta as of 2021, though it is free if you can get in via the [sign-in page](https://github.com/features/codespaces/signup).

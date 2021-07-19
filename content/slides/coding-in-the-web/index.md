@@ -197,6 +197,7 @@ background-image: url(misc/glitch-1.gif)
 
 Tools whose main goal is to streamline the publishing process, often in a "playground" subdomain. Allows "remixes".
 - [Glitch](https://glitch.com)
+- [WebContainers](https://blog.stackblitz.com/posts/introducing-webcontainers/)
 ---
 class: title, smokescreen, shelf, no-footer
 background-image: url(misc/duckly-landing-demo.gif)
@@ -296,6 +297,26 @@ class: img-caption
 Let's look at Gitpod and Codespaces.
 TODO: Specific examples of environment advantages, like Hugo autostarting the server.
 TODO: Create Gitpod and Codespaces gif slides in case nothing works.
+
+---
+class: img-caption
+![demo](gitpod/gitpod-example.gif)
+
+# Gitpod
+
+???
+- Show off Hugo site.
+- Note that "tasks" allow running a hugo server automatically
+
+---
+class: img-caption
+![demo](github/codespaces-example.gif)
+
+# GitHub Codespaces
+
+???
+- Show off debugging.
+- Show off Copilot.
 ---
 class: title, smokescreen, shelf, no-footer
 background-image: url(that/bigfoot-with-that-badge.png)

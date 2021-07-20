@@ -3,7 +3,7 @@ title: Coding inside the web browser! Talking about GitHub Codespaces and Gitpod
 date: "2021-06-27T19:33:20Z"
 url: "/slides/coding-in-the-web/"
 image: "/talks/that_conference_10yr_logo.svg"
-description: "Slides for THAT Conference 2021 talk about coding inside a web browser."
+description: "Slides for THAT Conference 2021 session about coding inside a web browser."
 ratio: "16:9"
 themes:
 - apron
@@ -78,6 +78,10 @@ THAT Slack : rosslarson
 Hi. I'm Ross.
 
 I'm a father, a gamer, a sports fan, a geek, and other stuff.
+Important to note here: 
+The coding usually I do in my free time is:
+-  Hugo Static sites and 
+- .NET Core apps, usually webscrapers.
 ---
 # Slides and Session Information
 
@@ -100,16 +104,19 @@ class: img-left
 A history.
 ???
 So, Coding in the web. It's a thing.
-History of web IDEs seems pretty sparse on the web, but things started about ten years ago.
+
+The history of web IDEs seems pretty sparse on the web, but things started more than ten years ago.
+
 The earliest cloud IDEs I can find references to are eXo Cloud IDE and Cloud9 IDE between 2009-2011.
+
 ---
 class: col-2
 
 # Early Drawbacks
 
 - Language support
-- Performance
-- SCM
+- Performance and Crashes
+- Source Code Management
 - Features/Debugging
 
 ![that-animal](misc/angry-error.jpg)
@@ -118,35 +125,38 @@ class: col-2
 
 - Language support was rudimentary, 
 - performance was subpar, 
-- source code managment integration was usuoftenally missing, 
+- accidentally refreshing the page may cause things to crash or reset
+- source code managment integration was often missing, 
 - and debugging was very difficult, if not impossible.
 
-Because of the poor developer experience, few developers coded using web IDEs at the start.
+Because of the poor developer experience, especially for "non-web" languages, few developers coded using web IDEs at the start.
 But, time passes, and things get better. Let's skip the middle and fast-forward to now.
 ---
 class: col-2
 
-
 # Modern coding in the browser
 
 Different tools for different goals
-- Language learning 
+- Language Learning 
 - Code Interviews
 - Notebooks
-- Write and publish
+- Write and Publish
 - Collaboration-first 
-- Fuller featured IDEs
-- Repo superchargers
+- Enterprise and Cloud Focused
+- Repo Superchargers
 
 ![that-animal](that/octopus_with_flag_that.png)
 ???
 
-There's a bunch of stuff now in different flavors, although you can tell people are still trying to figure out what people want.
-I'm going to divide them into roughly six categories.
-- Language learning 
+There's a bunch of stuff now in different flavors.
+
+Companies are still trying to figure out what people want.
+
+I'm going to divide everything into roughly seven categories, and explain the goals of each.
+- Language Learning 
 - Code Interviews
 - Notebooks
-- Write and publish
+- Write and Publish
 - Collaboration-first 
 - Enterprise and Cloud Service IDEs
 ---
@@ -156,6 +166,7 @@ class: img-caption
 
 ???
 
+# Language learning 
 Stuff made to either learn languages in a directed fashion or test snippets of language you make.
 
 Examples:
@@ -170,8 +181,8 @@ background-image: url(misc/coderpad-ide-screenshot.jpg)
 
 # Code Interviews
 ???
-
-Coding tools made to record behavior and test knowledge for evaluation
+# Code Interviews
+Coding tools made to record behavior and test knowledge for evaluation.
 
 Basically, a next gen whiteboard for interviews.
 - [CodeBunk](https://codebunk.com/#)
@@ -182,8 +193,9 @@ class: img-caption
 ![jupyter](misc/jupyter-try.png)
 # Notebooks
 ???
+# Notebooks
 
-Tools made to share data and the work used to reach the results 
+Tools made to share data or calculations and the code used to find the results 
 - data science/visualization
 - [Jupyter](https://jupyter.org/try)
 - R
@@ -194,8 +206,8 @@ class: title, smokescreen, shelf, no-footer
 background-image: url(misc/glitch-1.gif)
 # Write and Publish
 ???
-
-Tools whose main goal is to streamline the publishing process, often in a "playground" subdomain. Allows "remixes".
+# Write and Publish
+Web tools whose main goal is to streamline the creation and publishing process, often in a "playground" subdomain. Allows "remixes".
 - [Glitch](https://glitch.com)
 - [WebContainers](https://blog.stackblitz.com/posts/introducing-webcontainers/)
 ---
@@ -204,8 +216,9 @@ background-image: url(misc/duckly-landing-demo.gif)
 
 # Collaboration-first 
 ???
-
-Tools that prioritize collaboration and mentoring over everything, audio/video, simultaneous control
+# Collaboration-first 
+Tools that prioritize collaboration and mentoring over everything else. 
+Has audio/video, and simultaneous control
 - [Duckly](https://duckly.com/)
 ---
 class: title, smokescreen, shelf, no-footer
@@ -214,10 +227,11 @@ background-image: url(misc/google-cloud-shell.gif)
 
 ???
 
+# Enterpise and Cloud Service IDEs
+
 - Web IDEs focusing on delivering features to enterprises
 - You may be able to configure the cloud provider you use for your virtual machine, or self-host
 - Cloud IDEs making it easier to buy cloud services (AWS Lambda functions, GCP)
-
 
 ~~
 
@@ -239,15 +253,22 @@ GitHub Codespaces
 ![codespaces](github/open-with-codespaces.png)
 
 ???
+# Repository Superchargers
 
-These are tools that make working with open source repositories easier. They open your repo in a customizable docker container that can allow you functionality that usually comes only on desktop IDEs.
+My final category.
+
+These are tools that make working with open source repositories easier. 
+
+They open your repo in a customizable docker container that can allow you functionality that usually comes only on desktop IDEs.
+
+There's also a streamlined commit and push process.
+
 
 - [Gitpod](https://www.gitpod.io/)
 - [GitHub Codespaces](https://github.com/features/codespaces)
 
 Here's what I'm going to talk about today.
 ---
-
 # How are Gitpod and Codespaces similar?
 
 - Broad language support, auto-complete, intellisense
@@ -260,16 +281,25 @@ Here's what I'm going to talk about today.
 - iPad support
 - VNC Support
 
+???
+# How are Gitpod and Codespaces similar?
+
+There are quite a few similarities between the two products.  
+
+If you use one, it shouldn't be hard to use the other.
+
+Both use VS Code by default, integrate with GitHub, and offer some pretty nice language support.
+
+They can also be customized with different color themes and extensions.
 ---
-# How are Gitpod and Codespaces different?
+# Gitpod and Codespaces - Differences
 
 
 | Gitpod ![gitpod](gitpod/open-with-gitpod.svg)     | Codespaces  ![codespaces](github/open-with-codespaces.png)                    |
-|------------------------------------------------|----------------------------------------------------------------------------------|
-| Open-Source                                       | Proprietary                                                                   |
+|---------------------------------------------------|-------------------------------------------------------------------------------|
 | Support for GitHub, GitLab, and Bitbucket         | GitHub-only                                                                   |
 | Open for sign-ups, use right away                 | Private beta with sign-up page                                                |
-| Released product with pricing and free tier       | Beta.  Free, "for now".                                                       |
+| Released product with pricing and free tier       | Free, "for now" while in beta                                                 |
 | Collaboration through shared workspace or snapshot| Visual Studio Live-share                                                      |
 | No integration with AI Copilot                    | Integrates with AI Copilot (beta), but you have to be in both beta programs   |
 | Local IDE connection in preview                   | Can connect to a local install of VS Code                                     |
@@ -277,26 +307,44 @@ Here's what I'm going to talk about today.
 
 
 ???
- # this should be two slides.
-- Gitpod is [open-source](https://github.com/gitpod-io), and while [VS Code is open source](https://github.com/microsoft/vscode), not everything in Codespaces is.
+# Gitpod and Codespaces - Differences
+
 - Gitpod has support for GitHub, GitLab, and Bitbucket. Codespaces is limited to GitHub.
 - Gitpod has been around since 2018 with a userbase and published pricing. Codespaces is still in beta as of 2021, though it is free if you can get in via the [sign-in page](https://github.com/features/codespaces/signup).
 - Collaboration in Codespaces is done with VS Live Share. Gitpod handles collaboration via shared workspaces, or by creating shareable snapshots.
-- Codespaces integrates with AI Copilot(beta) via a VS Code Extension, but you have to be accepted into both beta programs. I'm only in one. Also, it doesn't show up in the list of VS Code Extensions in Gitpod
-- There's a VS Code extension to allow you to connect a local install of VS Code GitHub Codespaces. Gitpod is working on connecting to local IDEs with Gitpod Local Companion, but it is still in preview.
+- Codespaces integrates with AI Copilot(beta) via a VS Code Extension, but you have to be accepted into both beta programs. Copilot is not available for Gitpod.
+- There's a VS Code extension to allow you to connect a local install of VS Code GitHub Codespaces. Gitpod is working on connecting to local IDEs with [Gitpod Local Companion](https://www.gitpod.io/docs/develop/local-companion), but it is still in preview.
 - If you're motivated, you can self-host Gitpod on kubernetes. It's not currently possible with Codespaces (though VS Codespaces did have that option).
 
-I'm not sure if prebuilds are a topic of conversation here. There may be a reason for a page 2 here, to make the slide less busy.
+---
+# Gitpod and Codespaces - Philosophy
+| Gitpod ![gitpod](gitpod/open-with-gitpod.svg)     | Codespaces  ![codespaces](github/open-with-codespaces.png)                    |
+|---------------------------------------------------|-------------------------------------------------------------------------------|
+| Open-Source                                       | Proprietary                                                                   |
+| VS Code - Open Source Version                     | VS Code - Proprietary version                                                 |
+| VS Code Extensions - Open VSX Registry            | VS Code Extensions - Extension Marketplace                                    |
+| Ephemeral (built fresh every time)                | Only rebuilds image on config change (starts existing VM)                     |
+| Prebuilds - allows precompiling certain items     | Rebuilds from scratch based on config                                         |
+| Tasks - Run commands before opening IDE           | Does not appear to support running commands before opening                    |
 
+???
+# Philosophical Differences
+
+- Gitpod is [open-source](https://github.com/gitpod-io), Codespaces is proprietary.
+- While [VS Code is open source](https://github.com/microsoft/vscode), Codespaces uses a proprietary version of VS Code.
+- Extensions also work differently, Microsoft has the proprietary [Extension Marketplace](https://marketplace.visualstudio.com/), Gitpod uses the [Open VSX Registry](https://open-vsx.org/)
+- Gitpod environments are designed to be ephemeral, rebuilt every time you need one. Codespaces seems to keep your container handy, and restarts it when you need it again, only rebuilding if you change the configuration of the container.
+- Gitpod has an option to offload some of the compilation process outside of the startup process in what they call "Prebuilds".  That seems cool.
+- Gitpod also allows you to run tasks, like restoring packages or running commands before the web IDE starts.  I'm not aware of Codespaces being able to do this.
 ---
 class: img-caption
 ![demo](misc/orville.gif)
  # Demos!
 
 ???
-Let's look at Gitpod and Codespaces.
-TODO: Specific examples of environment advantages, like Hugo autostarting the server.
-TODO: Create Gitpod and Codespaces gif slides in case nothing works.
+Enough talking. Let's do a demo of Gitpod and Codespaces.
+
+Note: I'm not starting these virtual machines from scratch.  That seems like a disaster waiting to happen.
 
 ---
 class: img-caption
@@ -333,10 +381,11 @@ background-size: cover
 
 ???
 
-Which one should you use? Maybe both of them? I'd certainly suggest trying Gitpod first, since you don't have to wait to do it. 
+Which one should you use? Maybe both of them? I'd certainly suggest trying Gitpod first, since you don't have to wait to do it. I certainly prefer it when working on Hugo Static Sites.
 
 However, Codespaces is nice, too. Since GitHub is a Microsoft product, any new GitHub features may come to Codespaces first, though they may come in beta signup form like AI Copilot.
 
+Both products are still under active development, so I would encourage you to pay attention to both products as they continue to add features and improve.
 ---
 class: img-caption
 ![thinking](misc/thinking.gif)
@@ -349,7 +398,7 @@ background-size: cover
 
 ???
 
-Thanks!
+# Thanks!
 ---
  # Credits
 

@@ -22,29 +22,26 @@ background-image: url(gitpod/coding-web-gitpod-screenshot.png)
 
 Make sure you're in the right room!
 ---
-background-image: url(that/That-Conference-Branding-Slide.png)
+background-image: url(that/01-THAT-Conference-Branding.png)
 background-size: cover
 
 ???
 
-Temporary Branding slide- 2021 slide TBD
-
-Welcome to THAT Conference
+# Welcome to THAT Conference 2021!
 
 - Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
 
 ---
-background-image: url(that/That-Conference-Sponsors-Slide.png)
+background-image: url(that/02-THAT-Conference-Partners.png)
 background-size: cover
 
 ???
-
-Temporary Sponsors slide- 2021 slide TBD
+# Sponsors 
 
 Sponsors are great.  Without them, That Conference would not be possible.  I'm thankful for them.
 
 ---
-background-image: url(that/That-Conference-2020.png)
+background-image: url(that/03-THAT.us.png)
 background-size: cover
 
 ???

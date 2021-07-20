@@ -129,9 +129,10 @@ class: col-2
 Because of the poor developer experience, especially for "non-web" languages, few developers coded using web IDEs at the start.
 But, time passes, and things get better. Let's skip the middle and fast-forward to now.
 ---
-class: col-2
+class: img-right
+![that-animal](that/octopus_with_flag_that.png)
 
-# Modern coding in the browser
+## Modern coding in the browser
 
 Different tools for different goals
 - Language Learning 
@@ -140,14 +141,13 @@ Different tools for different goals
 - Write and Publish
 - Collaboration-first 
 - Enterprise and Cloud Focused
-- Repo Superchargers
+- Repository Superchargers
 
-![that-animal](that/octopus_with_flag_that.png)
 ???
 
 There's a bunch of stuff now in different flavors.
 
-Companies are still trying to figure out what people want.
+Companies are still trying to figure out what people want (and will pay for).
 
 I'm going to divide everything into roughly seven categories, and explain the goals of each.
 - Language Learning 

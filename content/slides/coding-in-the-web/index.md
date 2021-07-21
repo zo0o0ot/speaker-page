@@ -382,7 +382,7 @@ Which one should you use? Maybe both of them? I'd certainly suggest trying Gitpo
 
 However, Codespaces is nice, too. Since GitHub is a Microsoft product, any new GitHub features may come to Codespaces first, though they may come in beta signup form like AI Copilot.
 
-Both products are still under active development, so I would encourage you to pay attention to both products as they continue to add features and improve.
+Both products are still under active development, so I would encourage you to pay attention to both Gitpod and Codespaces as they continue to add features and improve.
 ---
 class: img-caption
 ![thinking](misc/thinking.gif)

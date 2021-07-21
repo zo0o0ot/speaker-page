@@ -5,6 +5,6 @@
 ### Hugo ###
 # Generated files by hugo
 public/
-resources/_gen/
+#resources/_gen/
 
 # End of https://www.gitignore.io/api/hugo

@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://rosslarson.com/"
+baseurl = "https://ross-larson-blog.github.io/"
 title = "Ross Larson"
 paginate = 5
 buildFuture = true

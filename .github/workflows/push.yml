@@ -1,0 +1,19 @@
+name: Deploy to Remote Branch
+
+on:
+  push:
+    branches:
+      - master
+      
+jobs:
+  hugo-deploy-gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: hugo-deploy-gh-pages
+      uses: khanhicetea/gh-actions-hugo-deploy-gh-pages@master
+      env:
+        GITHUB_REMOTE_REPOSITORY: "regrettable-moments-in-gaming/regrettable-moments-in-gaming.github.io"
+        GITHUB_BRANCH: master
+        GIT_DEPLOY_KEY: ${{ secrets.HUGO_DEPLOY }}
+        HUGO_VERSION: "0.85.0"

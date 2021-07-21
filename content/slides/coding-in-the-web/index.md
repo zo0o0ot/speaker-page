@@ -120,6 +120,7 @@ class: col-2
 
 ???
 
+- Coding was often processed using Javascript.
 - Language support was rudimentary, 
 - performance was subpar, 
 - accidentally refreshing the page may cause things to crash or reset

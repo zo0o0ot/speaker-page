@@ -25,3 +25,11 @@ Goals:
 At the end of this session, here are some key takeaways:
 * Gain a better understanding of cloud-based development in the web browser.
 * Know the questions to ask and the steps to take to get started coding in the web.
+
+Useful links:
+* [Mind map of this topic](https://coggle.it/diagram/YNfzpcXxkuFt--D4/t/coding-in-a-web-browser!), using [Coggle.it](https://coggle.it/)
+* Gitpod created a post [comparing Gitpod to Codespaces](https://www.gitpod.io/gitpod-vs-github-codespaces). It's pretty informative about the general and philosophical differences between the products.
+* [Gitpod home page](https://www.gitpod.io/)
+* [GitHub Codespaces information page](https://github.com/features/codespaces). It's still in early access, so you would need to [sign up for the beta](https://github.com/features/codespaces/signup) to see anything other than this page.
+* [Information on how to configure your Gitpod instance](https://www.gitpod.io/docs/configure)
+* [Information on how to configure Codespaces](https://docs.github.com/en/codespaces/customizing-your-codespace/personalizing-codespaces-for-your-account)

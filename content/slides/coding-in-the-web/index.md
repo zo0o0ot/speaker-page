@@ -46,9 +46,7 @@ background-size: cover
 
 ???
 
-Temporary Future Dates slide- 2021-2022 slide TBD
-
-Please consider coming back next year. Here are the dates!
+That.us is pretty great.  Come and join the conversation, all year long!
 
 ---
 class: img-left
@@ -75,6 +73,7 @@ THAT Slack : rosslarson
 Hi. I'm Ross.
 
 I'm a father, a gamer, a sports fan, a geek, and other stuff.
+
 Important to note here: 
 The coding usually I do in my free time is:
 -  Hugo Static sites and 
@@ -156,7 +155,8 @@ I'm going to divide everything into roughly seven categories, and explain the go
 - Notebooks
 - Write and Publish
 - Collaboration-first 
-- Enterprise and Cloud Service IDEs
+- Enterprise and Cloud Focused
+- Repository Superchargers
 ---
 class: img-caption
 ![trydotnet](misc/trydotnet-that.png)
@@ -169,9 +169,9 @@ Stuff made to either learn languages in a directed fashion or test snippets of l
 
 Examples:
 - ["Fiddle" tools](https://fiddles.io/) 
-- Try dot net
-- REPLit.com
-- Codingground
+- [Try dot net](https://dotnet.microsoft.com/platform/try-dotnet)
+- [REPLit.com](https://replit.com/~)
+- [Codingground](https://www.tutorialspoint.com/codingground.htm)
 
 ---
 class: title, smokescreen, shelf, no-footer
@@ -305,7 +305,7 @@ They can also be customized with different color themes and extensions.
 
 
 ???
-# Gitpod and Codespaces - Differences
+# Gitpod and Codespaces - Practical Differences
 
 - Gitpod has support for GitHub, GitLab, and Bitbucket. Codespaces is limited to GitHub.
 - Gitpod has been around since 2018 with a userbase and published pricing. Codespaces is still in beta as of 2021, though it is free if you can get in via the [sign-in page](https://github.com/features/codespaces/signup).
@@ -352,6 +352,8 @@ class: img-caption
 
 ???
 - Show off Hugo site.
+- Change color themes
+- Show .gitpod.Dockerfile and .gitpod.yml 
 - Note that "tasks" allow running a hugo server automatically
 
 ---
@@ -361,8 +363,10 @@ class: img-caption
 # GitHub Codespaces
 
 ???
+- do dotnet restore
 - Show off debugging.
 - Show off Copilot.
+- Show devcontainer.json file and Dockerfile
 ---
 class: title, smokescreen, shelf, no-footer
 background-image: url(that/bigfoot-with-that-badge.png)
@@ -390,6 +394,9 @@ class: img-caption
 
 # Questions?
 
+???
+
+# Any Questions?
 ---
 background-image: url(misc/thankyou.webp)
 background-size: cover

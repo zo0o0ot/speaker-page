@@ -1,9 +1,9 @@
 ---
 title: Coding inside the web browser! Talking about GitHub Codespaces and Gitpod.
-date: "2021-06-27T19:33:20Z"
-url: "/slides/coding-in-the-web/"
-image: "/talks/that_conference_10yr_logo.svg"
-description: "Slides for THAT Conference 2021 session about coding inside a web browser."
+date: "2022-05-15T19:33:20Z"
+url: "/slides/tx-coding-in-the-web/"
+image: "/talks/that-logo-tx-22.svg"
+description: "Slides for THAT Conference TX 2022 session about coding inside a web browser."
 ratio: "16:9"
 themes:
 - apron
@@ -27,7 +27,7 @@ background-size: cover
 
 ???
 
-# Welcome to THAT Conference 2021!
+# Welcome to THAT Conference Texas: 2022!
 
 - Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
 
@@ -408,7 +408,7 @@ background-size: cover
  # Credits
 
 - THAT Conference Cartoons courtesy of THAT Conference, © 2021 THAT® All rights reserved.
-- "Demo" gif of Yaphit doing tech support comes from "The Orville" created by Seth MacFarlane
+- "Demo" gif of Yaphit doing tech support comes from "The Orville" created by Seth MacFarlane. RIP, Norm MacDonald.
 - "Both" gif is from "The Road To El Dorado", Directed by Bibo Bergeron and Don Paul
 - "Looking let me think" gif courtesy of TipsyElves.com
 - "Thank you" gif is from Super Mario World, Ending screen

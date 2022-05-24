@@ -20,33 +20,39 @@ background-image: url(gitpod/coding-web-gitpod-screenshot.png)
 
 ???
 
-Make sure you're in the right room!
+We're online, so I hope you're in the right place! We can do some banter, but mute yourself during the presentation unless you're trying to ask a question.
 ---
-background-image: url(that/01-THAT-Conference-Branding.png)
+background-image: url(that/01-TX-THAT-Conference-Branding.png)
 background-size: cover
 
 ???
 
 # Welcome to THAT Conference Texas: 2022!
 
+- If you're in Texas, that's great!  Type where you're watching from in the chat! I'm presenting from Wisconsin.
 - Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
 
 ---
-background-image: url(that/02-THAT-Conference-Partners.png)
+background-image: url(that/02-TX-THAT-Conference-Partners.png)
 background-size: cover
 
 ???
 # Sponsors 
 
-Sponsors are great.  Without them, That Conference would not be possible.  I'm thankful for them.
+- Sponsors are great.  Without them, That Conference would not be possible.
+- This year in particular, I'm thankful for the companies that stuck their neck out for the first year of THAT in TX.
+- [Unspecified](https://unspecified.io/)
+- [Improving](https://improving.com/)
+- [Progress](https://www.progress.com/)
+- [Oracle](https://www.oracle.com/index.html)
 
 ---
-background-image: url(that/03-THAT.us.png)
+background-image: url(that/03-TX-THAT-Dates.png)
 background-size: cover
 
 ???
 
-That.us is pretty great.  Come and join the conversation, all year long!
+It's not too early to think about next year in Texas! In fact, start thinking of some topics, because the call for speakers starts June 1st!
 
 ---
 class: img-left

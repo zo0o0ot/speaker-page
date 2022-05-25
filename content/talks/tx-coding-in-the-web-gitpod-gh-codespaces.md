@@ -3,7 +3,7 @@ title: 'Virtual Session at THAT TX! Coding inside the web browser! Talking about
 date: "2022-05-17T03:21:55Z"
 url: "/talks/tx-coding-in-the-web-gitpod-gh-codespaces/"
 event: "That Conference TX 2022"
-location: "Kalahari - Wisconsin Dells, WI"
+location: "Kalahari - Round Rock, TX"
 site: "https://that.us/activities/dUsTGLJel7ZUzubjB8Ew"
 video: ""
 slides: "/slides/tx-coding-in-the-web/"

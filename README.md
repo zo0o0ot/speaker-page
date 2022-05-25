@@ -1,5 +1,7 @@
 # speaker-page
-Hugo code representing speaker info
+Hugo code representing speaker info.
+
+This site uses the [Story](https://github.com/xaprb/story) theme.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/zo0o0ot/speaker-page/)
 

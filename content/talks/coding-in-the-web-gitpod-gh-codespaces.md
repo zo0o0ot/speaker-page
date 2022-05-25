@@ -27,6 +27,7 @@ At the end of this session, here are some key takeaways:
 * Know the questions to ask and the steps to take to get started coding in the web.
 
 Useful links:
+![Mind Map](/img/browserMindMap.PNG)
 * [Mind map of this topic](https://coggle.it/diagram/YNfzpcXxkuFt--D4/t/coding-in-a-web-browser!), using [Coggle.it](https://coggle.it/)
 * Gitpod created a post [comparing Gitpod to Codespaces](https://www.gitpod.io/gitpod-vs-github-codespaces). It's pretty informative about the general and philosophical differences between the products.
 * [Gitpod home page](https://www.gitpod.io/)

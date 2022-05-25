@@ -212,7 +212,7 @@ background-image: url(misc/glitch-1.gif)
 ???
 # Write and Publish
 Web tools whose main goal is to streamline the creation and publishing process, often in a "playground" subdomain. Allows "remixes".
-- [Glitch](https://glitch.com)
+- [Glitch](https://glitch.com) - recently acquired by [Fastly](https://www.fastly.com/blog/fastly-announces-acquisition-of-glitch-a-future-of-yes-code-at-the-edge)
 - [WebContainers](https://blog.stackblitz.com/posts/introducing-webcontainers/)
 ---
 class: title, smokescreen, shelf, no-footer
@@ -245,6 +245,7 @@ background-image: url(misc/google-cloud-shell.gif)
 - [Koding](https://www.koding.com/)
 - [CodeAnywhere](https://codeanywhere.com/)
 - [GoormIDE](https://ide.goorm.io/)
+- [Microsoft Dev Boxes](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063)
 ---
 class: col-2
 # Repository Superchargers
@@ -314,7 +315,7 @@ They can also be customized with different color themes and extensions.
 # Gitpod and Codespaces - Practical Differences
 
 - Gitpod has support for GitHub, GitLab, and Bitbucket. Codespaces is limited to GitHub.
-- Gitpod has been around since 2018 with a userbase and published pricing. Codespaces is still in beta as of 2021, though it is free if you can get in via the [sign-in page](https://github.com/features/codespaces/signup).
+- Gitpod has been around since 2018 with a userbase and published pricing. Codespaces is still in beta as of 2021, though it is free if you can get in via the [sign-up page](https://github.com/features/codespaces/signup).
 - Collaboration in Codespaces is done with VS Live Share. Gitpod handles collaboration via shared workspaces, or by creating shareable snapshots.
 - Codespaces integrates with AI Copilot(beta) via a VS Code Extension, but you have to be accepted into both beta programs. Copilot is not available for Gitpod.
 - There's a VS Code extension to allow you to connect a local install of VS Code GitHub Codespaces. Gitpod is working on connecting to local IDEs with [Gitpod Local Companion](https://www.gitpod.io/docs/develop/local-companion), but it is still in preview.

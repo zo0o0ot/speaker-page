@@ -1,6 +1,6 @@
 ---
 title: 'Virtual Session at THAT TX! Coding inside the web browser! Talking about GitHub Codespaces and Gitpod.'
-date: "2022-05-17T03:21:55Z"
+date: "2022-05-25T03:21:55Z"
 url: "/talks/tx-coding-in-the-web-gitpod-gh-codespaces/"
 event: "That Conference TX 2022"
 location: "Kalahari - Round Rock, TX"
@@ -13,7 +13,7 @@ description: "Coding inside the web browser! Talking about GitHub Codespaces and
 ---
 ## THAT Conference 2021
 
-Day: Tuesday, July 27   Time: 10:30 AM  
+Day: Thursday, June 26   Time: 2:30 PM  
 
 Are you working on a side project and aren't close to your development machine? If you have access to a web browser, you can code right now if you develop in the cloud!
 

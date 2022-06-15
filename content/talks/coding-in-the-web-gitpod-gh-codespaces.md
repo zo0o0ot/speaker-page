@@ -7,8 +7,8 @@ location: "Kalahari - Wisconsin Dells, WI"
 site: "https://that.us/activities/BGYRTF2TQE816s9NDL8d"
 video: ""
 slides: "/slides/coding-in-the-web/"
-thumbnail: "/talks/that_conference_10yr_logo.svg"
-image: "/talks/hallway-that-top.jpg"
+thumbnail: "/talks/images/that_conference_10yr_logo.svg"
+image: "/talks/images/hallway-that-top.jpg"
 description: "Coding inside the web browser! Talking about GitHub Codespaces and Gitpod."
 ---
 ## THAT Conference 2021

@@ -6,9 +6,9 @@ event: "That Conference 2017"
 location: "Kalahari - Wisconsin Dells, WI"
 site: "https://old.thatconference.com/Sessions/Session/11420"
 video: ""
-slides: "/talks/ImpostorSyndrome-IHaveNoIdeaWhatImDoing.pdf"
-thumbnail: "/talks/thatconf2017.jpg"
-image: "/talks/thatconf2017.jpg"
+slides: "/talks/docs/ImpostorSyndrome-IHaveNoIdeaWhatImDoing.pdf"
+thumbnail: "/talks/images/thatconf2017.jpg"
+image: "/talks/images/thatconf2017.jpg"
 description: "Hear about Impostor Syndrome from a software developer with a Psychology degree."
 ---
 

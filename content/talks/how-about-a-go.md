@@ -7,8 +7,8 @@ location: "Kalahari - Wisconsin Dells, WI"
 site: "https://github.com/zo0o0ot/how-about-a-go"
 video: "https://youtu.be/XdnU4GbZoW8"
 slides: ""
-thumbnail: "/talks/that18.png"
-image: "/talks/present-notes.png"
+thumbnail: "/talks/images/that18.png"
+image: "/talks/images/present-notes.png"
 description: "An introduction to Golang from a beginner's perspective."
 ---
 

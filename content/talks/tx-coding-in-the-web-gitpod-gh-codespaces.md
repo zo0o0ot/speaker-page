@@ -7,8 +7,8 @@ location: "Kalahari - Round Rock, TX"
 site: "https://that.us/activities/dUsTGLJel7ZUzubjB8Ew"
 video: ""
 slides: "/slides/tx-coding-in-the-web/"
-thumbnail: "/talks/that-tx.PNG"
-image: "/talks/hallway-that-top.jpg"
+thumbnail: "/talks/images/that-tx.PNG"
+image: "/talks/images/hallway-that-top.jpg"
 description: "Coding inside the web browser! Talking about GitHub Codespaces and Gitpod."
 ---
 ## THAT Conference 2022

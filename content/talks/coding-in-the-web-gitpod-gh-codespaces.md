@@ -1,6 +1,6 @@
 ---
 title: 'Coding inside the web browser! Talking about GitHub Codespaces and Gitpod.'
-date: "2021-06-27T19:03:06Z"
+date: "2021-07-27T19:03:06Z"
 url: "/talks/coding-in-the-web-gitpod-gh-codespaces/"
 event: "That Conference 2021"
 location: "Kalahari - Wisconsin Dells, WI"

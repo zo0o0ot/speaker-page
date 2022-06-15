@@ -1,6 +1,6 @@
 ---
 title: 'Stress at Work: Changing the Narrative with Cognitive Therapy'
-date: "2019-08-01T10:30:36-05:00"
+date: "2019-08-07T10:30:36-05:00"
 url: "/talks/stress-at-work-cbt/"
 event: "That Conference 2019"
 location: "Kalahari - Wisconsin Dells, WI"

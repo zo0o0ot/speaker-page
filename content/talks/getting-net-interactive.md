@@ -19,6 +19,8 @@ In the past, tools like Jupyter notebooks have allowed folks to create interacti
 
 During this session, I will introduce .NET notebooks and show you some of the things that they can do.  I will then show you an example of .NET interactive in action, and provide some suggestions on how you can use .NET Interactive in your projects!
 
+Note: The slides are still a work in progress and should not be considered a final deck at this point.
+
 Goals:
 At the end of this session, here are some key takeaways:
 * Learn about .NET Interactive Notebooks

@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://rosslarson.com/"
 title = "Ross Larson"
-paginate = 5
+paginate = 10
 buildFuture = true
 
 [[menu.social]]

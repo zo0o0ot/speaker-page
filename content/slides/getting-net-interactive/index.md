@@ -167,45 +167,39 @@ class: img-caption
 ---
 class: img-caption
 ![Jupyter](images/jupyter.svg)
-# Meanwhile, a new tool appears from a different land....
+# Meanwhile, an (old?) new tool appears from a different land....
 
 ???
 
 # Jupyter - a different tool for a different purpose
-Stuff made to either learn languages in a directed fashion or test snippets of language you make.
 
-Examples:
-- ["Fiddle" tools](https://fiddles.io/) 
-- [Try dot net](https://dotnet.microsoft.com/platform/try-dotnet)
-- [REPLit.com](https://replit.com/~)
-- [Codingground](https://www.tutorialspoint.com/codingground.htm)
+Jupyter Notebook (formerly IPython Notebooks) is a web-based interactive computational environment for creating notebook documents.
 
----
-class: title, smokescreen, shelf, no-footer
-background-image: url(misc/coderpad-ide-screenshot.jpg)
+A Jupyter Notebook document is a browser-based REPL containing an ordered list of input/output cells which can contain code, text (using Markdown), mathematics, plots and rich media. Underneath the interface, a notebook is a JSON document, following a versioned schema, usually ending with the ".ipynb" extension. 
 
-# Code Interviews
-???
-# Code Interviews
-Coding tools made to record behavior and test knowledge for evaluation.
-
-Basically, a next gen whiteboard for interviews.
-- [CodeBunk](https://codebunk.com/#)
-- [CoderPad](https://coderpad.io/)
+The project was original brought together to support Julia, Python, and R and help those languages create easily consumable and reproducable content.
 
 ---
 class: img-caption
-![jupyter](misc/jupyter-try.png)
-# Notebooks
+![VS-Code-Insiders](images/VS-Code-Insiders.png)
+
+# Also Emerging: Visual Studio Code
+???
+# Visual Studio Code
+- Visual Studio Code came out in 2015, [and has been evolving rapidly, as well](https://en.wikipedia.org/wiki/Visual_Studio_Code).
+- Their extensions marketplace has allowed for rapid evolution of the tool.
+
+---
+class: col-2
+# Let our powers combine
+
+![vs-code](images/vscode.svg)
+
+![jupyter](images/jupyter.svg)
+
+
 ???
 # Notebooks
-
-Tools made to share data or calculations and the code used to find the results 
-- data science/visualization
-- [Jupyter](https://jupyter.org/try)
-- R
-- Julia
-- [Observable (JS)](https://observablehq.com/)
 ---
 class: title, smokescreen, shelf, no-footer
 background-image: url(misc/glitch-1.gif)

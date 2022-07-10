@@ -13,7 +13,7 @@ classes:
 - feature-qrcode
 ---
 class: title, smokescreen, shelf, no-footer
-background-image: url(gitpod/coding-web-gitpod-screenshot.png)
+background-image: url(images/dotnet-interactive.png)
 
 # Getting (.NET) Interactive!
 ## An introduction to .NET Interactive Notebooks
@@ -27,7 +27,7 @@ background-size: cover
 
 ???
 
-# Welcome to THAT Conference 2021!
+# Welcome to THAT Conference 2022!
 
 - Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
 
@@ -77,7 +77,7 @@ I'm a father, a gamer, a sports fan, a geek, and other stuff.
 Important to note here: 
 The coding usually I do in my free time is:
 -  Hugo Static sites and 
-- .NET Core apps, usually webscrapers.
+- .NET Core apps, often webscrapers.
 ---
 # Slides and Session Information
 
@@ -92,56 +92,41 @@ The coding usually I do in my free time is:
 Here's a QR Code if you want to follow along on your laptop or phone.
 Ask questions anytime.
 ---
-class: img-left
-![that-animal](that/moose_with_lantern_that.png)
+class: img-caption
+![helloWorld](images/helloWorldTutorial.png)
+# A history of working with .NET interactively.
 
-# Writing code in the web browser.
-
-A history.
 ???
-So, Coding in the web. It's a thing.
 
-The history of web IDEs seems pretty sparse on the web, but things started more than ten years ago.
+Dotnet has been around for a while, but trying it out used to involve quite a few steps, such as:
+- Downloading and installing Visual Studio
+- Installing a dotnet SDK
+- Creating a project or app
+- Running or debugging the program to see output.
 
-The earliest cloud IDEs I can find references to are eXo Cloud IDE and Cloud9 IDE between 2009-2011.
-
+It was the way things were always done, but there was certainly room for improvement.
 ---
 class: col-2
 
-# Early Drawbacks
+# Drawbacks to Traditional .NET in Visual Studio
 
-- Language support
-- Performance and Crashes
-- Source Code Management
-- Features/Debugging
+- Big initial download and setup
+- Initial output is mostly limited to debugging and print statements
+- Hard to share results of code
 
-![that-animal](misc/angry-error.jpg)
+![sad-dog](images/sadDog.png)
 
 ???
 
-- Coding was often processed using Javascript.
-- Language support was rudimentary, 
-- performance was subpar, 
-- accidentally refreshing the page may cause things to crash or reset
-- source code managment integration was often missing, 
-- and debugging was very difficult, if not impossible.
+- The initial setup of Visual Studio can be daunting.  The install size for Visual Studio Community including suggested SDKs and tools is about 30-50 GBs nowadays.
+- Getting past the initial "Hello World" phase can take some time, and your early output is going to probably be print statements and looking at variables in immediate window while debugging.
+- Visual Studio isn't really built to store the output of the code you write, as it was written with development of the application in mind, not necessarily the output.
 
-Because of the poor developer experience, especially for "non-web" languages, few developers coded using web IDEs at the start.
-But, time passes, and things get better. Let's skip the middle and fast-forward to now.
 ---
-class: img-right
-![that-animal](that/octopus_with_flag_that.png)
+class: img-caption
+![trydotnet](images/trydotnet-that.png)
 
-## Modern coding in the browser
-
-Different tools for different goals
-- Language Learning 
-- Code Interviews
-- Notebooks
-- Write and Publish
-- Collaboration-first 
-- Enterprise and Cloud Focused
-- Repository Superchargers
+## The first big step - Try.NET in the browser
 
 ???
 
@@ -158,13 +143,35 @@ I'm going to divide everything into roughly seven categories, and explain the go
 - Enterprise and Cloud Focused
 - Repository Superchargers
 ---
-class: img-caption
-![trydotnet](misc/trydotnet-that.png)
-# Language learning 
+class: title, smokescreen, shelf, no-footer
+background-image: url(images/dotnet-try.gif)
+
+# `dotnet try` - Creating your own interactive documentation
 
 ???
 
-# Language learning 
+- The website was cool, but what about if you wanted to make something interactive for yourself, or someone else?
+
+---
+class: img-caption
+![Jupyter](images/dotnet-try2.gif)
+# Running `dotnet try` locally
+
+???
+
+- If you run `dotnet try` locally, it will start a webserver and serve the content into a browser, where you can interact with code blocks and see their results.
+- `dotnet try` is pretty cool, but it still requires the user to run the program themselves.
+- Also, you run the risk of things running differently on their comptuer if different packages or versions of things are installed.
+
+
+---
+class: img-caption
+![Jupyter](images/jupyter.svg)
+# Meanwhile, a new tool appears from a different land....
+
+???
+
+# Jupyter - a different tool for a different purpose
 Stuff made to either learn languages in a directed fashion or test snippets of language you make.
 
 Examples:
@@ -408,6 +415,7 @@ background-size: cover
  # Credits
 
 - THAT Conference Cartoons courtesy of THAT Conference, © 2021 THAT® All rights reserved.
+- Picutre of a sad dog courtesy of user pinoyed on flickr. Image description: Murray's sad face. - Creative Commons Attribution 2.0 Generic (CC BY 2.0) - https://www.flickr.com/photos/pinoyed/5009440499/in/photostream/
 - "Demo" gif of Yaphit doing tech support comes from "The Orville" created by Seth MacFarlane
 - "Both" gif is from "The Road To El Dorado", Directed by Bibo Bergeron and Don Paul
 - "Looking let me think" gif courtesy of TipsyElves.com

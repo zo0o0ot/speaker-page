@@ -3,6 +3,7 @@ title: Getting (.NET) Interactive! Slides for THAT Conference 2022 session about
 date: "2022-06-14T19:33:20Z"
 url: "/slides/getting-net-interactive/"
 image: "/talks/that_conference_10yr_logo.svg"
+thumbnail: "/talks/images/that-logo-states-wi.svg"
 description: "Slides for THAT Conference 2022 session about .NET Interactive."
 ratio: "16:9"
 themes:
@@ -22,7 +23,7 @@ background-image: url(images/dotnet-interactive.png)
 
 Make sure you're in the right room!
 ---
-background-image: url(that/01-THAT-Conference-Branding.png)
+background-image: url(that/That-Conference-Branding-Slide.png)
 background-size: cover
 
 ???
@@ -32,7 +33,7 @@ background-size: cover
 - Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
 
 ---
-background-image: url(that/02-THAT-Conference-Partners.png)
+background-image: url(that/That-Conference-Partners-Slide.png)
 background-size: cover
 
 ???
@@ -41,12 +42,20 @@ background-size: cover
 Sponsors are great.  Without them, That Conference would not be possible.  I'm thankful for them.
 
 ---
-background-image: url(that/03-THAT.us.png)
+background-image: url(that/THAT.us.png)
 background-size: cover
 
 ???
 
 That.us is pretty great.  Come and join the conversation, all year long!
+
+---
+background-image: url(that/THAT-Dates.png)
+background-size: cover
+
+???
+
+Also.... It's never to early to start thinking about next year!
 
 ---
 class: img-left
@@ -92,9 +101,9 @@ The coding usually I do in my free time is:
 Here's a QR Code if you want to follow along on your laptop or phone.
 Ask questions anytime.
 ---
-class: img-caption
-![helloWorld](images/helloWorldTutorial.png)
+class: top
 # A history of working with .NET interactively.
+![helloWorld](images/helloWorldTutorial.png)
 
 ???
 
@@ -130,38 +139,41 @@ class: img-caption
 
 ???
 
-There's a bunch of stuff now in different flavors.
-
-Companies are still trying to figure out what people want (and will pay for).
-
-I'm going to divide everything into roughly seven categories, and explain the goals of each.
-- Language Learning 
-- Code Interviews
-- Notebooks
-- Write and Publish
-- Collaboration-first 
-- Enterprise and Cloud Focused
-- Repository Superchargers
+- In 2019, .NET started to move foward to the web in a new way.
+- A REPL (Read-Eval-Print Loop) isn't a new concept, but because C# did not start as a web language, it wasn't close to the first language
+- Try dot net in the browser was a pretty big step for the .NET stack.
+- Apparently, at the start, Microsoft was footing the bill for azure virtual machines that were connecting with every site visitor that wanted to try dotnet in the browser.
+- Eventually, Blazor allowed them to save on some server costs.
 ---
-class: title, smokescreen, shelf, no-footer
-background-image: url(images/dotnet-try.gif)
+class: img-caption
+![try-dotnet-example](images/dotnet-try2.gif)
 
 # `dotnet try` - Creating your own interactive documentation
 
 ???
 
-- The website was cool, but what about if you wanted to make something interactive for yourself, or someone else?
+- The website was cool, and it allowed for experimentation, but what about if you wanted to make something interactive for yourself, or someone else?
+- The dotnet try tool allows you to match markdown and editable, executable code to be created and served up for yourself or someone else.
+- A good example of this is the [hello world](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world) tutorial on the Micosoft docs site.
 
 ---
-class: img-caption
-![Jupyter](images/dotnet-try2.gif)
+class: col-2
 # Running `dotnet try` locally
+
+![Dotnet-try-browser](images/dotnet-try.gif)
+- Run `dotnet try` from the console 
+- (or server)
+
+![Dotnet-try-browser](images/try-markdown.png)
+- Markdown mixed with code
+- Friendly presentation
+- Code is editable by end-user
 
 ???
 
 - If you run `dotnet try` locally, it will start a webserver and serve the content into a browser, where you can interact with code blocks and see their results.
 - `dotnet try` is pretty cool, but it still requires the user to run the program themselves.
-- Also, you run the risk of things running differently on their comptuer if different packages or versions of things are installed.
+- Also, you run the risk of things running differently on their computer if different packages or versions of things are installed.
 
 
 ---

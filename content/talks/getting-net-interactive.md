@@ -28,7 +28,7 @@ At the end of this session, here are some key takeaways:
 * Learn if .NET Interactive could be useful for you 
 
 Useful links:
-* (Coming soon) Mind map of this topic, using [Coggle.it](https://coggle.it/)
+* Mind map of this topic, using [Coggle.it](https://coggle.it/diagram/YqlBLmqIBdEcX4C-/t/let's-get-net-interactive!/ed337f3f96e192dfbfd28c818ffac0c8f88058e1618ce4b5c4fbb1b61374a149)
 * [GitHub repo for .NET Interactive project](https://github.com/dotnet/interactive)
 * [VS Code Plugin for .NET Interactive Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
 * The 6 Figure Developer Podcast - Episode 244 about [F# and .NET Interactive Notebooks](https://6figuredev.com/podcast/eric-potter-on-f-and-net-interactive-notebooks/)

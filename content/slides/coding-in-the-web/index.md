@@ -4,6 +4,7 @@ date: "2021-06-27T19:33:20Z"
 url: "/slides/coding-in-the-web/"
 image: "/talks/that_conference_10yr_logo.svg"
 description: "Slides for THAT Conference 2021 session about coding inside a web browser."
+thumbnail: "/talks/images/that_conference_10yr_logo.svg"
 ratio: "16:9"
 themes:
 - apron

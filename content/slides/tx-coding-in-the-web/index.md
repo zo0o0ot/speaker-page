@@ -4,6 +4,7 @@ date: "2022-05-25T19:33:20Z"
 url: "/slides/tx-coding-in-the-web/"
 image: "/talks/that-logo-tx-22.svg"
 description: "Slides for THAT Conference TX 2022 session about coding inside a web browser."
+thumbnail: "/talks/images/that-tx.PNG"
 ratio: "16:9"
 themes:
 - apron

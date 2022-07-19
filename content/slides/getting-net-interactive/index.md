@@ -121,7 +121,7 @@ class: col-2
 
 - Big initial download and setup
 - Initial output is mostly limited to debugging and print statements
-- Hard to share results of code
+- Hard to share results of analysis steps
 
 ![sad-dog](images/sadDog.png)
 
@@ -185,11 +185,22 @@ class: img-caption
 
 # Jupyter - a different tool for a different purpose
 
-Jupyter Notebook (formerly IPython Notebooks) is a web-based interactive computational environment for creating notebook documents.
+Jupyter Notebook (formerly IPython Notebooks) is a web-friendly interactive computational environment for creating notebook documents.
 
-A Jupyter Notebook document is a browser-based REPL containing an ordered list of input/output cells which can contain code, text (using Markdown), mathematics, plots and rich media. Underneath the interface, a notebook is a JSON document, following a versioned schema, usually ending with the ".ipynb" extension. 
+---
+class: img-caption
+![Jupyter-Dashboard](images/jupyter-dashboard2.png)
+# A document-based development model
+
+???
+
+# Jupyter - Document-based development for sharing
+
+A Jupyter Notebook document is a REPL containing an ordered list of input/output cells which can contain code, text (using Markdown), mathematics, plots and rich media. Underneath the interface, a notebook is a JSON document, following a versioned schema, usually ending with the ".ipynb" extension. 
 
 The project was original brought together to support Julia, Python, and R and help those languages create easily consumable and reproducable content.
+
+You may see some similarities between this and `dotnet-try`.
 
 ---
 class: img-caption
@@ -199,7 +210,7 @@ class: img-caption
 ???
 # Visual Studio Code
 - Visual Studio Code came out in 2015, [and has been evolving rapidly, as well](https://en.wikipedia.org/wiki/Visual_Studio_Code).
-- Their extensions marketplace has allowed for rapid evolution of the tool.
+- Their extensions marketplace has allowed for rapid evolution of the editor, and new functionality has been quickly appearing.
 
 ---
 class: col-2
@@ -216,78 +227,99 @@ class: col-2
 ???
 # Notebooks are a combination of several powers
 
-- Because of the beauty of open source, a rising tide lifts all boats
+- Because of the beauty of open source, a rising tide lifts all boats.....
 - Microsoft was able to add a .NET Interactive Kernel into Jupyter Notebooks.
-- Microsoft then added .NET Notebooks support
+- Microsoft then added .NET Notebooks support to VS code via VS Code Extensions
     - First to VS Code (and [nteract](https://nteract.io/), and Azure Data Studio)
-    - Then to visual Studio
-
+    - Then to Visual Studio (as of this month)
+- 
 ---
 class: img-caption
-![demo](misc/orville.gif)
- # Demos!
+![thinking](images/thinking.gif)
+# So, How am I supposed to use .NET Interactive?
 
 ???
-Enough talking. Let's do a demo of Gitpod and Codespaces.
 
-Note: I'm not starting these virtual machines from scratch.  That seems like a disaster waiting to happen.
+This seems interesting, but how am I supposed to use a tool like .NET Interactive?
 
+Good question!
+---
+class: img-right
+# You can choose your own adventure!
+![ChooseYourOwnAdventure](images/cyoa-supercomputer.png# maxh-6)
+
+- Learning Experiences
+- Data Prep
+- Data Exploration
+- Troubleshooting
+- Documentation / Onboarding
+- Visualization
+- Prototyping
+
+???
+# The power is yours!
+
+What you can do with a .NET Interactive Notebook is going to be defined by you expertise and interest.
+
+Some possible ideas:
+
+- Learning Experiences
+- Data Prep
+- Data Exploration
+- Troubleshooting
+- Documentation / Onboarding
+- Visualization
+- Prototyping
+
+---
+class: col-2
+# .NET Interactive Notebooks - Pros and Cons
+
+## Pros
+- Integrations for:
+    - VS Code, 
+    - Visual Studio, 
+    - Azure Data Studio
+    - and more!
+- Broad .NET support + SQL/KML
+- Polyglot language support
+- SandDance makes cool visuals
+- Support from multi-billion dollar company
+
+## Cons
+- Troubleshooting imports can be a pain
+- Still in development - rough edges
+- Embedding and sharing interactivity limited outside of GitHub/VS Code/Visual Studio
+- Understanding differences from Jupyter can be be tough
+- Codespaces support is buggy
+
+???
+# Pros and Cons
 ---
 class: img-caption
-![demo](gitpod/gitpod-example.gif)
+![demo](images/bd-demo.gif)
 
-# Gitpod
+# Demo Time!
 
 ???
-- Show off Hugo site.
-- Change color themes
-- Show .gitpod.Dockerfile and .gitpod.yml 
-- Note that "tasks" allow running a hugo server automatically
+- Let's Show off some .NET Interactive Notebooks!
 
 ---
+
 class: img-caption
-![demo](github/codespaces-example.gif)
+![confused-pugs](images/pug-questions.webp)
 
-# GitHub Codespaces
-
-???
-- do dotnet restore
-- Show off debugging.
-- Show off Copilot.
-- Show devcontainer.json file and Dockerfile
----
-class: title, smokescreen, shelf, no-footer
-background-image: url(that/bigfoot-with-that-badge.png)
-
-# Should I use Gitpod or Codespaces?
-
-
-???
-
-Should I use Gitpod or Codespaces?
----
-background-image: url(misc/both2.gif)
-background-size: cover
-
-???
-
-Which one should you use? Maybe both of them? I'd certainly suggest trying Gitpod first, since you don't have to wait to do it. I certainly prefer it when working on Hugo Static Sites.
-
-However, Codespaces is nice, too. Since GitHub is a Microsoft product, any new GitHub features may come to Codespaces first, though they may come in beta signup form like AI Copilot.
-
-Both products are still under active development, so I would encourage you to pay attention to both Gitpod and Codespaces as they continue to add features and improve.
----
-class: img-caption
-![thinking](misc/thinking.gif)
-
-# Questions?
+# Questions? Thoughts?
 
 ???
 
 # Any Questions?
+
 ---
-background-image: url(misc/thankyou.webp)
-background-size: cover
+background-image: url(images/bow-thank-you.webp)
+background-size: stretch
+
+# Thanks!
 
 ???
 
@@ -296,9 +328,9 @@ background-size: cover
  # Credits
 
 - THAT Conference Cartoons courtesy of THAT Conference, © 2021 THAT® All rights reserved.
-- Picutre of a sad dog courtesy of user pinoyed on flickr. Image description: Murray's sad face. - Creative Commons Attribution 2.0 Generic (CC BY 2.0) - https://www.flickr.com/photos/pinoyed/5009440499/in/photostream/
-- "Demo" gif of Yaphit doing tech support comes from "The Orville" created by Seth MacFarlane
-- "Both" gif is from "The Road To El Dorado", Directed by Bibo Bergeron and Don Paul
-- "Looking let me think" gif courtesy of TipsyElves.com
-- "Thank you" gif is from Super Mario World, Ending screen
-- Web IDE screenshots courtesy of their respective sites.
+- Picture of a sad dog courtesy of user pinoyed on [flickr](https://www.flickr.com/photos/pinoyed/5009440499/in/photostream/). Image description: Murray's sad face. - Creative Commons Attribution 2.0 Generic (CC BY 2.0)
+- "Captain Planet Combine" gif courtesy of Damien G via [giphy](https://giphy.com/gifs/captain-planet-planeteers-letourpowerscombine-kQYNaEa35hQ6pCYywH) - Captain planet courtesy of the 1990's, Ted Turner, and TBS.
+- "Looking let me think" gif courtesy of TipsyElves.com via [giphy](https://giphy.com/gifs/tipsyelves-math-26gR0YFZxWbnUPtMA)
+- "Drunk Boston Dynamics" gif courtesy of Lion Beach via [giphy](https://giphy.com/gifs/lionbeach-boston-dynamics-fPI2ymej8ZEBI332VN)
+- "Feelings Thoughts" gif courtesy of Chuber Channel via [giphy](https://giphy.com/gifs/chuber-feelings-thoughts-questions-XHVmD4RyXgSjd8aUMb)
+- "Bow Thank You" gif courtesy of Out of Office via [giphy](https://giphy.com/gifs/3ZZD9fwwaI8u7hQe1P)

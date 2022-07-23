@@ -311,7 +311,7 @@ class: img-caption
 - Importing packages (create and import somthing.csx)
 - Variable Sharing (sharing across languages)
 - Show AIS ships (polyglot, load from file, use all of Norway)
-    -- AIS: Automatic Identification System
+    + AIS: Automatic Identification System
 - NFL Draft Notebook (DataFrames and SandDance)
 - American Soccer Analysis (If extra time available)
 
@@ -341,6 +341,6 @@ background-size: stretch
 - Picture of a sad dog courtesy of user pinoyed on [flickr](https://www.flickr.com/photos/pinoyed/5009440499/in/photostream/). Image description: Murray's sad face. - Creative Commons Attribution 2.0 Generic (CC BY 2.0)
 - "Captain Planet Combine" gif courtesy of Damien G via [giphy](https://giphy.com/gifs/captain-planet-planeteers-letourpowerscombine-kQYNaEa35hQ6pCYywH) - Captain planet courtesy of the 1990's, Ted Turner, and TBS.
 - "Looking let me think" gif courtesy of TipsyElves.com via [giphy](https://giphy.com/gifs/tipsyelves-math-26gR0YFZxWbnUPtMA)
-- "Drunk Boston Dynamics" gif courtesy of Lion Beach via [giphy](https://giphy.com/gifs/lionbeach-boston-dynamics-fPI2ymej8ZEBI332VN). [Boston Dynamics](https://www.bostondynamics.com/) also deserves credit, and I sincerely hope that evil robots do not rise up and take over the world.
+- "Drunk Boston Dynamics" gif courtesy of Lion Beach via [giphy](https://giphy.com/gifs/lionbeach-boston-dynamics-fPI2ymej8ZEBI332VN). The people at [Boston Dynamics](https://www.bostondynamics.com/) also deserve credit, and I sincerely hope that evil robots do not rise up and take over the world.
 - "Feelings Thoughts" gif courtesy of Chuber Channel via [giphy](https://giphy.com/gifs/chuber-feelings-thoughts-questions-XHVmD4RyXgSjd8aUMb)
 - "Bow Thank You" gif courtesy of Out of Office via [giphy](https://giphy.com/gifs/3ZZD9fwwaI8u7hQe1P)

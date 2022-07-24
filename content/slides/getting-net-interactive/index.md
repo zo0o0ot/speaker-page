@@ -288,7 +288,7 @@ class: col-2
 
 ## Cons
 - Still in development - rough edges
-- Embedding and sharing interactivity limited outside of GitHub/VS Code/Visual Studio
+- Embedding and sharing interactivity requires a few confusing steps
 - Troubleshooting issues can be a pain
 - Understanding differences from Jupyter can be be tough
 - Codespaces support is buggy sometimes

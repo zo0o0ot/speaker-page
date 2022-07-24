@@ -313,7 +313,10 @@ class: img-caption
 - Show AIS ships (polyglot, load from file, use all of Norway)
     + AIS: Automatic Identification System
 - NFL Draft Notebook (DataFrames and SandDance)
+- Mermaid (Show off cool flow charts)
 - American Soccer Analysis (If extra time available)
+
+I made my own repo on [GitHub](https://github.com/zo0o0ot/THAT-dotnet-interactive) so that going over these notebooks is less complicated.
 
 ---
 

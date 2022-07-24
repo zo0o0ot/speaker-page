@@ -317,6 +317,7 @@ class: img-caption
 - American Soccer Analysis (If extra time available)
 
 I made my own repo on [GitHub](https://github.com/zo0o0ot/THAT-dotnet-interactive) so that going over these notebooks is less complicated.
+You can [open it in Binder](https://mybinder.org/v2/gh/zo0o0ot/THAT-dotnet-interactive/main?urlpath=lab) and most examples work.
 
 ---
 

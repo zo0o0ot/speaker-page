@@ -227,12 +227,18 @@ class: col-2
 ???
 # Notebooks are a combination of several powers
 
+- VS Code
+- Jupyter
+- DotNet Interactive Kernel
+- Open Source
+- Heart
+
 - Because of the beauty of open source, a rising tide lifts all boats.....
 - Microsoft was able to add a .NET Interactive Kernel into Jupyter Notebooks.
 - Microsoft then added .NET Notebooks support to VS code via VS Code Extensions
     - First to VS Code (and [nteract](https://nteract.io/), and Azure Data Studio)
     - Then to Visual Studio (as of this month)
-- 
+- Add some heart, and you have .NET Interactive notebooks! 
 ---
 class: img-caption
 ![thinking](images/thinking.gif)

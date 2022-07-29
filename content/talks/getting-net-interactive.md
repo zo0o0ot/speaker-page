@@ -28,6 +28,7 @@ At the end of this session, here are some key takeaways:
 * Learn if .NET Interactive could be useful for you 
 
 Useful links:
+* [GitHub repo](https://github.com/zo0o0ot/THAT-dotnet-interactive) containing the examples from this talk.  You can also open it in [Binder](https://mybinder.org/v2/gh/zo0o0ot/THAT-dotnet-interactive/main?urlpath=lab) to run the examples inside a Binder instance in your web browser.
 * Mind map of this topic, using [Coggle.it](https://coggle.it/diagram/YqlBLmqIBdEcX4C-/t/let's-get-net-interactive!/ed337f3f96e192dfbfd28c818ffac0c8f88058e1618ce4b5c4fbb1b61374a149)
 * [GitHub repo for .NET Interactive project](https://github.com/dotnet/interactive)
 * [VS Code Plugin for .NET Interactive Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)

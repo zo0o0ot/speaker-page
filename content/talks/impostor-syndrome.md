@@ -21,3 +21,7 @@ After listening to this talk, you will gain insights about yourself and your co-
 This presentation was created with Google Slides. A PDF version is available on this page, but you if you want, can look at my presenter notes [here](https://docs.google.com/presentation/d/1DEBp-54hT5i1xmMMLYl8a-PC5Cv1HugREmaogPSh1Ms/edit?usp=sharing).
 
 I created a Medium article with some of the resources I collected while researching this session. Feel free to check that out [here](https://medium.com/@rosslarsonWI/resources-for-impostor-syndrome-empathy-and-advoacy-dc40d8c3594e).
+
+Here is an image of me giving the talk, courtesy of the [THAT Conference 2017 Flickr album](https://www.flickr.com/photos/thatconference/albums/72157684772275604).
+
+![Picture of 2017 session](/img/confs/2017_speaking.jpg)

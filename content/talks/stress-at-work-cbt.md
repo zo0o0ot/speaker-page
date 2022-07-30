@@ -51,3 +51,10 @@ Below are some links to resources that I found helpful in preparing for this tal
 - [How to Identify Stress](https://isma.org.uk/about-stress/how-to-identify-stress), courtesy of the [International Stress Management Association](https://isma.org.uk/). International Stress Awareness week will be November 4-8, 2019.
 
 - [Calmlet](http://www.calmlet.com/), an upcoming biofeedback device that can be helpful in being aware of your own body and mind.
+
+
+Here's a selfie I took before the talk:
+![2019 Selfie](/img/confs/2019_that_selfie_01.jpg)
+
+Here's a blurry picture of my badge from 2019:
+![2019 Lanyard](/img/confs/2019_that_lanyard.jpg)

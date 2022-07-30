@@ -34,3 +34,7 @@ Useful links:
 * [GitHub Codespaces information page](https://github.com/features/codespaces). It's still in early access, so you would need to [sign up for the beta](https://github.com/features/codespaces/signup) to see anything other than this page.
 * [Information on how to configure your Gitpod instance](https://www.gitpod.io/docs/configure)
 * [Information on how to configure Codespaces](https://docs.github.com/en/codespaces/customizing-your-codespace/personalizing-codespaces-for-your-account)
+
+
+Here's a picture of my session from the [2021 THAT Conference Flickr album](https://www.flickr.com/photos/thatconference/albums/72157719688085309).
+![2021 Session](/img/confs/2021_that_session.jpg)

@@ -18,15 +18,20 @@ No Go experience is necessary.
 
 You will learn more about Go, and leave with a better idea of whether Go is a language that you should learn and use in either personal or business projects. I will also give suggestions for five “first projects” for people new to Go.
 
+Here is a photo of the session from the [THAT Conference 2018 Flickr album](https://www.flickr.com/photos/thatconference/albums/72157694062985220).
+
+![Picture of 2018 session](/img/confs/2018_that_speaking_01.jpg)
+
+
 Although the talk itself was not recorded, I did do an interview with Clark Sell about Golang at That Conference, and the video of that conversation is linked to the talk here.
 
-[![The Go gopher](/talks/go-gopher.gif)](https://golang.org/)
+[![The Go gopher](/img/go-gopher.gif)](https://golang.org/)
 
 *One issue with providing this presentation after the fact is that it was written in golang, using the [go present tool](https://halyph.com/blog/2015/05/18/golang-presentation-tool.html), which allowed me to run code snippets live during the presentation. However, the attempts that I've made to export it to a more portable format like PDF have all failed.*
 
 If you'd like to see the actual code that I ran and the markdown for the slides with presenter notes, they are [available in GitHub](https://github.com/zo0o0ot/how-about-a-go).
 
-Golang is cross-platform, so on Windows/Mac/Linux, you can install golang and the present tool to run the presentation yourself. If you have go and present installed, you can clone [this repository](https://github.com/zo0o0ot/how-about-a-go) and run present in the root directory of the project to see the presentation locally in your browser(likely at 127.0.0.1:3999). Run present -notes and press "n" in the browser to see the presentation notes open up in a separate browser tab.
+Golang is cross-platform, so on Windows/Mac/Linux, you can install golang and the present tool to run the presentation yourself. If you have go and present installed, you can clone [this repository](https://github.com/zo0o0ot/how-about-a-go) and run present in the root directory of the project to see the presentation locally in your browser (likely at 127.0.0.1:3999). Run present -notes and press "n" in the browser to see the presentation notes open up in a separate browser tab.
 
 In case you're not in the mood to do that, the raw markdown for the presentation is below:
 

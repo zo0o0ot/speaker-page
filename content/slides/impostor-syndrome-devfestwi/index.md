@@ -1,9 +1,9 @@
 ---
-title: Impostor Syndrome Devfestwi
+title: Impostor Syndrome and Advocacy
 date: "2022-08-07T19:20:53Z"
 url: "/slides/impostor-syndrome-devfestwi/"
-image: "/slides/impostor-syndrome-devfestwi/cover.jpg"
-description: ""
+image: "/talks/images/devfest-flower.png"
+description: "Slides for Impostor Syndrome and Advocacy talk at DevFest WI. August 18th, 2022 in Madison, WI."
 ratio: "16:9"
 themes:
 - apron
@@ -155,13 +155,15 @@ Either a condition existing simultaneously but independently with another condit
 ---
 class: title
 
-# Stigma of Mental Health
+# The Stigma of Mental Health
 
 ???
 
-Way back in 1999 the U.S. Surgeon General labeled stigma as perhaps the biggest barrier to mental health care; this stigma manifests particularly in a phenomenon known as social distancing, whereby people with mental issues are more isolated from others.
+Even before the pandemic (1999) the U.S. Surgeon General labeled stigma as perhaps the biggest barrier to mental health care; many people feat that admitting their issues will isolate them.
 
-But most of them are scared to talk about it. Only 41% of people with a mental disorder get professional help. Help is available, but because we aren’t talking about mental health openly, and we don’t put the time in to educate ourselves about resources, people don’t get what they need. So they stay sick, and suffer unnecessarily.
+Many are scared to talk about it. Only 41% of people with a mental disorder get professional help. 
+
+Help is available, but because we aren’t talking about mental health openly, and we don’t put the time in to educate ourselves about resources, people don’t get what they need. So they stay sick, and suffer unnecessarily.
 
 About 1 in 5 in tech are currently dealing with a mental health issue right now.
 ---
@@ -179,7 +181,7 @@ class: title
 - Fitness
 - Hygiene
 - Monitoring
-- Mindfulness.  
+- Mindfulness
 
 Having trouble?  There’s a website:  http://youfeellikeshit.com/ 
 
@@ -194,6 +196,71 @@ class: title
 
 A cognitive bias refers to the systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion
 
+---
+class: title
+
+# Metacognition
+
+???
+
+Metacognition is thought processes and an understanding of the patterns behind them.
+
+Some types of metacognitive knowledge would include:
+
+- Content knowledge (declarative knowledge) which is understanding one's own capabilities, such as a student evaluating their own knowledge of a subject in a class. 
+
+- Task knowledge (procedural knowledge), which is how one perceives the difficulty of a task which is the content, length, and the type of assignment. 
+
+- Strategic knowledge (conditional knowledge) which is one's own capability for using strategies to learn information. 
+
+---
+class: title
+
+# The Dunning - Kruger effect
+
+???
+
+The Dunning-Kruger Effect was described by David Dunning and Justin Kruger in 1999.
+
+The Dunning–Kruger effect is a cognitive bias wherein persons of low ability suffer from [illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority), mistakenly assessing their ability as greater than it is. They lack the metacognitive ability to recognize their own ineptitude. 
+---
+class: title
+
+# The Curse of Knowledge
+## A form of cognitive bias.
+
+???
+
+However, the inverse is also true. There is a external misperception in people of high ability; 
+
+"the miscalibration of the incompetent stems from an error about the self, whereas the miscalibration of the highly competent stems from an error about others."[1](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect#cite_note-Kruger-1) 
+
+Hence, the corollary to the Dunning–Kruger effect indicates that persons of high ability tend to underestimate their relative competence, and erroneously presume that tasks that are easy for them to perform also are easy for other people to perform.[1]
+
+This is sometimes called the [Curse of Knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge), a form of Cognitive Bias.
+---
+class: title
+
+# OK, OK.
+## Now, some info about Impostor Syndrome.
+
+???
+
+Take a deep breath.  We've set the foundation. Now, I'm gonig to talk more directly about the psychology of Impostor Syndrome.
+---
+class: img-right-full
+![Impostor Phenomenon](images/impostorPhenom.jpg)
+
+# Impostor Phenomenon
+## 1978
+- Pauline Rose Clance, PhD
+- Suzanne Imes, PhD
+
+???
+
+Impostor Syndrome was first coined in 1978. It was discovered in high-achieving women unable to internalize accomplishments, thinking themselves to be frauds despite external validation to the contrary.  The research was also published in a self-help book in 1985.
+
+Later research revealed it to be present in males as well as females, and in a variety of professions.
 ---
 
 

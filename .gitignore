@@ -7,4 +7,7 @@
 public/
 resources/_gen/
 
+# sample slides from adirondack
+content/slides/adirondack/
+
 # End of https://www.gitignore.io/api/hugo

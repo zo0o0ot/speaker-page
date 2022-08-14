@@ -123,23 +123,6 @@ The threshold under which treatment should be considered.
 Example, anxiety versus a clinical anxiety disorder.
 
 ---
-
-class: title
-
-# Pills vs. Skills
-
-???
-
-Treatment for psychological issues falls into two varieties.  Pills and skills.
--  Pills = drugs.  
-- Skills = 
-    - Behavioral therapy
-    - Group therapy
-    - Coping mechanisms, 
-    - Counseling, 
-    - Self-care.
-
----
 class: title, fogscreen, shelf, no-footer
 background-image: url(images/whynotboth.webp)
 background-size: cover
@@ -166,6 +149,22 @@ Many are scared to talk about it. Only 41% of people with a mental disorder get 
 Help is available, but because we aren’t talking about mental health openly, and we don’t put the time in to educate ourselves about resources, people don’t get what they need. So they stay sick, and suffer unnecessarily.
 
 About 1 in 5 in tech are currently dealing with a mental health issue right now.
+---
+
+class: title
+
+# Pills vs. Skills
+
+???
+
+Treatment for psychological issues falls into two varieties.  Pills and skills.
+- Pills = drugs.  
+- Skills = 
+    - Behavioral therapy
+    - Group therapy
+    - Coping mechanisms, 
+    - Counseling, 
+    - Self-care.
 ---
 
 class: title
@@ -263,7 +262,134 @@ Impostor Syndrome was first coined in 1978. It was discovered in high-achieving 
 Later research revealed it to be present in males as well as females, and in a variety of professions.
 ---
 
+# Wait, Impostor *Phenomenon*?
 
+- Phenomenon
+- Syndrome
+- Disorder
+- Experience
+
+???
+
+- *Phenomenon:* a fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question.
+- What we call Impostor Syndrome was originally called “Impostor Phenomenon”
+- Syndrome: a group of symptoms that consistently occur together or a condition characterized by a set of associated symptoms. A characteristic combination of opinions, emotions, or behavior.
+- Impostor Syndrome has a commonly accepted group of symptoms
+- Disorder: a disruption of normal physical or mental functions; a disease or abnormal condition.
+- Impostor Syndrome may coexist with an Anxiety Disorder or Depressive Disorder, which may require treatment.
+- Experience: an event or occurrence that leaves an impression on someone
+
+Psychologists have been advocating for the use of the term “Impostor Experience” to 
+communicate how common these feelings are, and the effects that they have on people.
+
+---
+background-image: url(images/clance-IPscale.png)
+background-size: cover
+
+???
+
+The Clance Impostor Phenomenon Test is available [online](https://paulineroseclance.com/pdf/IPTestandscoring.pdf).  There are 20 questions and it is self-scored.
+
+After taking the Impostor Test, add together the numbers of the responses to each statement.
+
+- Score is 40 or less = few Impostor characteristics
+- Score is between 41 and 60 =  moderate IP experiences
+- Score between 61 and 80 = frequently has Impostor feelings
+- Score higher than 80 = often has intense IP experiences. 
+
+The higher the score, the more frequently and seriously the Impostor Phenomenon interferes in a person’s life.
+
+---
+background-image: url(images/impostor-cycle.png)
+background-size: stretch
+
+???
+
+This is the Impostor Cycle
+---
+background-image: url(images/comic-GemmaCorrell.jpg)
+background-size: stretch
+
+???
+
+Here's another way of explaining the chart.  
+It shows of the feeling of the "no win situation".
+Thanks to Gemma Correll for the comic.
+---
+background-image: url(gs/03-impostors.png)
+background-size: stretch
+
+???
+
+Some famous impostors include: 
+- Oscar winner and Harvard grad Natalie Portman
+- Oscar winner Tom Hanks
+- Supreme Court Justice Sonia Sotomayor
+- Comedian and best selling author Tina Fey
+- Brown University Graduate/actress/model/activist Emma Watson
+- Best-Selling Author Neil Gaiman…….
+---
+background-image: url(gs/04-impostors.png)
+background-size: stretch
+
+???
+
+You will find people with impostor syndrome in graduate students and scientists…….
+
+---
+background-image: url(gs/05-impostors.png)
+background-size: stretch
+
+???
+
+You'll even find it in Roller Derby.  Some statistics now say that up to 70% of us will experience Impostor Syndrome at some point in our lives.
+- [Roller derby and tenure tracks](https://blogs.scientificamerican.com/context-and-variation/survival-on-the-roller-derby-and-tenure-tracks/)
+- [Reddit thread on roller derby and impostor syndrome](https://www.reddit.com/r/rollerderby/comments/4aspt0/dealing_with_imposter_syndrome_in_derby_and_how/)
+
+---
+
+class: img-caption
+![Impostor Phenomenon](images/cyber-psych-KING.png)
+
+# Impostor Syndrome In Tech
+
+???
+
+All right, let’s look at Impostor Syndrome in tech.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 class: img-caption
 ![confused-pugs](images/pug-questions.webp)
 

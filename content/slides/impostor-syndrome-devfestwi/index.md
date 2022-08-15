@@ -347,7 +347,6 @@ You'll even find it in Roller Derby.  Some statistics now say that up to 70% of 
 - [Reddit thread on roller derby and impostor syndrome](https://www.reddit.com/r/rollerderby/comments/4aspt0/dealing_with_imposter_syndrome_in_derby_and_how/)
 
 ---
-
 class: img-caption
 ![Impostor Phenomenon](images/cyber-psych-KING.png)
 
@@ -359,25 +358,173 @@ All right, let’s look at Impostor Syndrome in tech.
 
 ---
 
+# “To be an engineer you need:
+## 1) A willingness to feel totally lost
+
+## 2) The confidence that you will eventually reach the solution”
+
+**@michellewetzler**
+
+Sr. Director, Head of Services Delivery at @twilio
+
+???
+
+Are we worried about making mistakes?
+[Original tweet](https://twitter.com/michellewetzler/status/854449147063054336)
 
 
+---
+background-image: url(images/tetris.jpg)
+background-size: cover
 
 
+???
+
+The way that most of us do work, we’re surrounded by:
+- The stuff that has broken or 
+- the stuff that hasn’t yet been finished.  
+
+People don’t usually pay us to look at our successes.
+
+---
+
+background-image: url(images/whiteboard-interview.png)
+background-size: cover
 
 
+???
+
+How we get hired can influence our feelings of being an Impostor.  
+
+You may feel like you got lucky if you get hired, and you might feel completely useless if you don't. Hiring results aren’t always clear, other than “you’re hired”.
+---
+
+# "I am a 10X developer. 
+## Everything I do takes ten times as long as I thought."
+**@discostu105**
+
+???
+
+Behold, the myth of the 10X developer.
+[tweet](https://twitter.com/discostu105/status/876901601277030403)
+
+---
+class: img-right
+![Draw A Horse](images/oktop-horse.jpg# h-90pct)
+
+# Programming tutorials
+
+- Download this framework
+- Open in IDE
+- View our "Hello World" example
+- Change code to "Hello, Ross"
+- Add auth, business logic, integrate it into other legacy systems, deploy into k8s and make it an enterprise cloud app!
+
+???
+
+Sometimes, Finding the solution from available information can feel frustrating, like this instructional guide to [drawing a horse](http://oktop.tumblr.com/post/15352780846).
 
 
+Sometimes Impostor Syndrome may be a symptom of organizational ineffectiveness - putting a new employee where they aren't in the position to succeed, or not clearly indicating the expectations that they have.
 
+---
+class: title, smokescreen, shelf, no-footer
+background-image: url(images/slides-single.png)
 
+# “We are all apprentices 
+## in a craft where no one ever becomes a master.” - Ernest Hemingway
 
+???
 
+“We are all apprentices in a craft where no one ever becomes a master.”
+Ernest Hemingway
 
+Software Development moves at an astoundingly fast rate.  
 
+It’s easy to feel under-informed and out of place.
 
+---
+class: img-left
+![041 Demon Dialogues](images/100demons041.jpg)
+# The struggle
 
+We won't always have the answers.
 
+(Image courtesy of 100 Demon Dialogues, by Lucy Bellwood)
 
+???
 
+In tech, the struggle for knowledge is the job, and we need to be comfortable with ourselves not having all of the answers through the process.
+---
+class: img-left
+![053 Demon Dialogues](images/100demons053.jpg)
+# Community
+
+We're here to help each other.
+
+(Image courtesy of 100 Demon Dialogues, by Lucy Bellwood)
+
+???
+
+It may seem bleak, but we’re a community, and communities help each other.
+---
+
+class: title
+
+# Comparing our experiences
+
+???
+
+One thing that’s helped me deal with Impostor Syndrome is trying to use empathy for others to get me outside of just thinking about myself.
+
+---
+background-image: url(gs/06-impostors.png)
+background-size: cover
+
+???
+
+Show of hands.  
+- Raise your hand if you’ve ever been in a group of more than five people where you were the only person of your gender expression, race, or nationality.  
+- Raise your hand if that group was at work.  
+- Raise your hand if that group was a job interview.
+
+If your hand isn't raised, think about how these situations may feel.
+
+---
+class: img-caption
+![XKCD385](images/how-it-works.png)
+# Microaggressions: "How It Works" (XKCD #385)
+
+???
+
+When I’m doing a whiteboard interview, I’m worried that I'll look like an idiot.  
+When some women or minorities are at the whiteboard, they worry that any mistake they make will be an excuse only to interview white dudes in the future.
+
+---
+background-image: url(gs/07-impostors.png)
+background-size: cover
+
+???
+
+OK, what am I afraid of when I look at my github profile?  I worry that people will see so much white space and think that I’m a bad coder.
+
+---
+background-image: url(gs/08-impostors.png)
+background-size: cover
+
+???
+
+Has someone ever hit on you via github?  
+- [Michelle](https://twitter.com/mishmosh) studied human-computer interaction at Stanford. 
+- She invented Google Forms.  
+- She worked at Google for 6 years (2005-2011).  
+- But.... She had her email and a headshot on her GitHub profile.  
+- When someone saw her profile, they sent this email. 
+- Have you ever been propositioned via GitHub?
+
+I've never had to worry about this.
+[original mishmosh tweet](https://twitter.com/mishmosh/status/880450207124729859)
+---
 
 
 
@@ -416,6 +563,10 @@ background-size: stretch
 - Person inside of person's head image courtesy of [http://psychlearningcurve.org](http://psychlearningcurve.org/increasing-community-awareness-of-the-value-of-psychology-skills/)
 - Psychology word cloud courtesy of [studiousguy.com](https://studiousguy.com/psychology/)
 - Why not both meme courtesy of Old El Paso Commercial. Relevant meme [here](https://knowyourmeme.com/memes/why-not-both-why-dont-we-have-both).
+- Rest/Get Work done image is from Gemma Correll, via [Twitter](https://twitter.com/gemmacorrell/status/1453822136540299265/photo/1)
+- Circuit board head is from "The Rise of Cyberpsycholopgy from [King University Online](https://online.king.edu/news/cyberpsychology/).
+- Whiteboard Interview image is courtesy of [Tatiana Ensslin](https://medium.com/@tatianaensslin) from "Overcoming the whiteboarding interview jitters" on [medium](https://medium.com/girl-develop-it-san-francisco/overcoming-the-whiteboarding-interview-jitters-b3f806dbe12b).
+- How to draw a horse courtesy of [Van Oktop](http://oktop.tumblr.com/post/15352780846).
 - "Feelings Thoughts" gif courtesy of Chuber Channel via [giphy](https://giphy.com/gifs/chuber-feelings-thoughts-questions-XHVmD4RyXgSjd8aUMb)
 - "Bow Thank You" gif courtesy of Out of Office via [giphy](https://giphy.com/gifs/3ZZD9fwwaI8u7hQe1P)
 

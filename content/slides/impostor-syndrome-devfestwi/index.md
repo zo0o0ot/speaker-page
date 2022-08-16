@@ -17,10 +17,19 @@ background-size: cover
 
 ???
 
-# Welcome to DevFest WI and Forward Fest!
+# Welcome to Forward Fest!
 
 - Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
 ---
+background-image: url(images/DevFestWI-sponsors.png)
+background-size: cover
+
+???
+
+# Welcome to DevFest WI!
+## Thanks so much, sponsors!
+---
+
 class: title, smokescreen, shelf, no-footer
 background-image: url(images/noideadog.jpg)
 
@@ -525,32 +534,174 @@ Has someone ever hit on you via github?
 I've never had to worry about this.
 [original mishmosh tweet](https://twitter.com/mishmosh/status/880450207124729859)
 ---
-
-
-
-
-
-
-
-
-
-
-
----
-class: img-caption
-![confused-pugs](images/pug-questions.webp)
-
-# Questions? Thoughts?
+background-image: url(images/one-woman.webp)
+background-size: cover
 
 ???
 
-# Any Questions?
+Have you given much thought about what it’s like to be a girl at a tech conference? Have you ever been that girl?
+
+Obviously, I’m not an expert, but others have written about their experiences.  [Listen to them](https://shift.newco.co/what-its-like-to-be-a-woman-at-a-tech-conference-8a1a299ac82b).
+
+---
+background-image: url(gs/09-impostors.png)
+background-size: cover
+
+???
+
+When you’re at a conference, and someone gives you a free shirt, do you expect it to fit you? 
+
+Most free shirts are in mens’ sizes, and don’t fit all body types well.  
+
+If a shirt doesn’t fit you, it can send a message: “You don’t belong”.
+---
+class: title
+
+# Are you a recruiter?
+
+???
+
+Have you ever guessed that a woman at a programming conference is a recruiter based on what they are wearing?
+There are a variety of articles that deal with how women are not taken seriously at their jobs.
+
+---
+class: title
+
+# Are you new to this?
+
+???
+
+Sometimes, even a friendly question can be a microaggression.  Asking if a woman is new to programming makes the assumption that no women can be experienced developers.
+---
+
+## “I didn’t realize how draining code switching was 
+## until I was in a room of devs who looked like me for the 1st time, and I could finally breathe.”
+**@saronyitbarek**
+
+???
+
+**Code switching**: To customize style of speech to the audience or group being addressed.
+
+She talks AAVE to her friends at school, but when she is with her family, she is code switching and speaks proper English.
+
+[relevant tweet](https://twitter.com/saronyitbarek/status/847568780519555073)
+---
+class: title
+
+# OK...... So now what?
+## Resources and tips
+
+???
+
+
+---
+class: title
+
+# You are here for a reason.
+
+???
+If you feel like an impostor today, say it with me.  
+
+**“I am here for a reason”.**
+
+You’re not a fraud.
+---
+background-image: url(images/code-of-conduct.jpg)
+background-size: cover
+
+???
+
+Read codes of conduct.  Follow them.  Report people who are out of line. They provide a good direction for you to start your interactions.
+
+[DevFestWI Code of Conduct](https://www.devfestwi.com/code-of-conduct)
+---
+class: img-caption
+![feign surprise](images/feign-surprise.gif)
+# No feigned surprise
+
+???
+No feigning surprise. 
+
+Don't act surprised when people say they don't know something. 
+
+This applies to both technical things ("What?! I can't believe you don't know what the stack is!") and non-technical things ("You don't know who RMS is?!"). 
+
+Feigning surprise has absolutely no social or educational benefit. It's usually to make them feel better about themselves and others feel worse. 
+
+Even when that's not the intention, it's almost always the effect.
+---
+class: img-left
+![Pac-Man](images/pac-man.png)
+# Try: 
+## "The Pac-Man" method
+
+???
+
+I got this one from Eric Holscher at Write the Docs. 
+
+We tend to naturally form a circle when we’re standing around talking about a topic. It takes a special kind of courage to approach a ring of backs. 
+
+Instead, as you’re standing in the ring, open up space between you and a neighbor to leave room for a new person to slip in and add to the conversation. 
+
+You’ll be surprised by how much difference this little bit of body language makes in making your informal conversations more interesting and varied.
+---
+class: title
+
+# “Diversity is being invited to the party;
+## Inclusion is being asked to dance” - **Verna Myers**
+
+???
+
+Treat people like human beings.  Ask questions.  Listen to their stories.
+
+“What talk did you get the most out of today” is a lovely, neutral question and sparks a lot of conversation.
+
+https://code.likeagirl.io/lady-speaker-small-talk-b93e977b4f65
+---
+class: img-caption
+![talking dudes](images/talking-dudes.png)
+# [arementalkingtoomuch.com](http://arementalkingtoomuch.com/)
+
+???
+
+More on meeting shenangians:
+
+http://arementalkingtoomuch.com/
+
+---
+background-image: url(images/project-implicit.png)
+background-size: cover
+
+???
+Want to know more about your implicit biases?
+
+Project Implicit: https://implicit.harvard.edu/implicit/
+
+---
+class: img-left
+![100 Demon Dialogues](images/100demons100.jpg)
+# You aren't alone.
+Listen to other people's stories.
+
+Thank you for listening to mine.
+
+???
+
+ You aren’t alone. 
+ 
+ Now that you know more, listen to other people’s stories. 
+
+ Also, thank you for listening to mine.
+
+Some articles:
+* [Hanselman](https://www.hanselman.com/blog/ImAPhonyAreYou.aspx)
+* [The Impostor Within](http://www.corporateprogrammer.com/blog/the-imposter-within/)
+* [Everyday Impostor](https://medium.com/@kellyrauwerdink/first-time-blogger-everyday-imposter-d1c345d39a42)
 
 ---
 background-image: url(images/bow-thank-you.webp)
 background-size: stretch
 
-# Thanks!
 
 ???
 
@@ -565,8 +716,12 @@ background-size: stretch
 - Why not both meme courtesy of Old El Paso Commercial. Relevant meme [here](https://knowyourmeme.com/memes/why-not-both-why-dont-we-have-both).
 - Rest/Get Work done image is from Gemma Correll, via [Twitter](https://twitter.com/gemmacorrell/status/1453822136540299265/photo/1)
 - Circuit board head is from "The Rise of Cyberpsycholopgy from [King University Online](https://online.king.edu/news/cyberpsychology/).
+---
+### Credits part 2
 - Whiteboard Interview image is courtesy of [Tatiana Ensslin](https://medium.com/@tatianaensslin) from "Overcoming the whiteboarding interview jitters" on [medium](https://medium.com/girl-develop-it-san-francisco/overcoming-the-whiteboarding-interview-jitters-b3f806dbe12b).
 - How to draw a horse courtesy of [Van Oktop](http://oktop.tumblr.com/post/15352780846).
-- "Feelings Thoughts" gif courtesy of Chuber Channel via [giphy](https://giphy.com/gifs/chuber-feelings-thoughts-questions-XHVmD4RyXgSjd8aUMb)
+- Code of Conduct road sign is from [picpedia](https://www.picpedia.org/highway-signs/images/code-of-conduct.jpg).
+- Feigned surprise is from [giphy](https://giphy.com/gifs/jerseyshore-jersey-shore-family-vacation-223-iGkDlpmYRxAM1JX3Tn) via the Jersey Shore Family Vacation.
+- Pac-Man is from [wikipedia](https://simple.wikipedia.org/wiki/Pac-Man)
 - "Bow Thank You" gif courtesy of Out of Office via [giphy](https://giphy.com/gifs/3ZZD9fwwaI8u7hQe1P)
 

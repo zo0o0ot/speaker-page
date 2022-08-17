@@ -669,7 +669,7 @@ More on meeting shenangians:
 http://arementalkingtoomuch.com/
 
 ---
-background-image: url(images/project-implicit.png)
+background-image: url(images/project-implicit-scaled.jpg)
 background-size: cover
 
 ???

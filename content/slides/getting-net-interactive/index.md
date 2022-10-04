@@ -265,7 +265,7 @@ class: img-right
 ???
 # The power is yours!
 
-What you can do with a .NET Interactive Notebook is going to be defined by you expertise and interest.
+What you can do with a .NET Interactive Notebook is going to be defined by your expertise and interest.
 
 Some possible ideas:
 

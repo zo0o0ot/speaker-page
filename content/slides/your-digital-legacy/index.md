@@ -3,7 +3,7 @@ title: Your Digital Legacy
 date: "2023-06-14T19:33:20Z"
 url: "/slides/your-digital-legacy/"
 image: "/talks/images/THAT_Conference_WI.png"
-thumbnail: "/talks/images/THAT_Confrence_WI.png"
+thumbnail: "/talks/images/THAT_Conference_WI.png"
 description: "Slides for THAT Conference 2023 session about your digital legacy."
 ratio: "16:9"
 themes:
@@ -333,6 +333,6 @@ background-size: stretch
 # Thanks!
 ---
  ### Credits
-- 
+- Pine sapling picture courtesy of Kieran Hunt, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) , via Wikimedia Commons
 - THAT Conference Cartoons courtesy of THAT Conference, © 2021 THAT® All rights reserved.
 - 

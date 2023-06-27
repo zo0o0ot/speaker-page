@@ -28,7 +28,7 @@ background-size: cover
 
 ???
 
-# Welcome to THAT Conference 2022!
+# Welcome to THAT Conference 2023!
 
 - Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
 
@@ -56,7 +56,19 @@ background-size: cover
 ???
 
 Also.... It's never to early to start thinking about next year!
+---
+# Slides and Session Information
 
+.qrcode.db.fr.w-40pct.ml-4[]
+
+- General session info available at https://rosslarson.com/talks/
+- Slides are at https://rosslarson.com/slides/ or just use the QR code
+- Ask questions anytime
+
+???
+
+Here's a QR Code if you want to follow along on your laptop or phone.
+Ask questions anytime.
 ---
 class: img-left
 # About Me
@@ -81,25 +93,13 @@ THAT Slack : rosslarson
 
 Hi. I'm Ross.
 
-I'm a father, a gamer, a sports fan, a geek, and other stuff.
+I'm a father, a gamer, a coder, a sports fan, a geek, and other stuff.
 
-Important to note here: 
 The coding usually I do in my free time is:
 -  Hugo Static sites and 
 - .NET Core apps, often webscrapers.
----
-# Slides and Session Information
 
-.qrcode.db.fr.w-40pct.ml-4[]
-
-- General session info available at https://rosslarson.com/talks/
-- Slides are at https://rosslarson.com/slides/ or just use the QR code
-- Ask questions anytime
-
-???
-
-Here's a QR Code if you want to follow along on your laptop or phone.
-Ask questions anytime.
+This is me!
 ---
 class: top
 # A history of working with .NET interactively.

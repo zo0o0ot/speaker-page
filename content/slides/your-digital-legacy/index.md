@@ -305,7 +305,7 @@ class: img-right
 
 ???
 
-# This is 
+# This is where I'm going to give the most information.
 
 
 

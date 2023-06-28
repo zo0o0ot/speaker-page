@@ -99,7 +99,48 @@ The coding usually I do in my free time is:
 -  Hugo Static sites and 
 - .NET Core apps, often webscrapers.
 
-This is me!
+---
+class: col-3
+
+# This is me!
+
+![Draft](images/2016DraftRound3-Ross.jpg)
+
+![This is Podracing](images/EpisodeOnePepsi.jpg)
+
+
+???
+
+- This is me!
+
+---
+
+class: col-2
+
+# And....... this is me!
+
+![5K](images/5K.jpg)
+
+![Chicago](images/Chicago-BabyWearing.JPG)
+
+???
+
+- And..... This is me!
+
+---
+class: col-2
+
+# And....... this is me!
+
+![5K](images/5K.jpg)
+
+![Chicago](images/Chicago-BabyWearing.JPG)
+
+???
+
+- And..... This is me!
+
+
 ---
 class: top
 # A history of working with .NET interactively.
@@ -114,23 +155,6 @@ Dotnet has been around for a while, but trying it out used to involve quite a fe
 - Running or debugging the program to see output.
 
 It was the way things were always done, but there was certainly room for improvement.
----
-class: col-2
-
-# Drawbacks to Traditional .NET in Visual Studio
-
-- Big initial download and setup
-- Initial output is mostly limited to debugging and print statements
-- Hard to share results of analysis steps
-
-![sad-dog](images/sadDog.png)
-
-???
-
-- The initial setup of Visual Studio can be daunting.  The install size for Visual Studio Community including suggested SDKs and tools is about 30-50 GBs nowadays.
-- Getting past the initial "Hello World" phase can take some time, and your early output is going to probably be print statements and looking at variables in immediate window while debugging.
-- Visual Studio isn't really built to store the output of the code you write, as it was written with development of the application in mind, not necessarily the output.
-
 ---
 class: img-caption
 ![trydotnet](images/trydotnet-that.png)

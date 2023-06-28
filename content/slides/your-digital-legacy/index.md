@@ -100,7 +100,7 @@ The coding usually I do in my free time is:
 - .NET Core apps, often webscrapers.
 
 ---
-class: col-3
+class: col-2
 
 # This is me!
 
@@ -114,51 +114,220 @@ class: col-3
 - This is me!
 
 ---
+class: center
 
-class: col-2
+And...... This is me!
 
-# And....... this is me!
-
-![5K](images/5K.jpg)
-
-![Chicago](images/Chicago-BabyWearing.JPG)
+![](images/5K.jpg# l-0 t-20pct w-two-thirds h-80pct ofv absolute)
+![](images/TC-openSpaces.jpg# w-third h-40pct t-20pct r-0 ofv absolute)
+![](images/Presenting.jpg# w-third h-40pct t-60pct r-0 ofv absolute)
 
 ???
 
-- And..... This is me!
+And...... This is me!
 
 ---
-class: col-2
+class: center
 
-# And....... this is me!
+And...... This is me!
 
-![5K](images/5K.jpg)
-
-![Chicago](images/Chicago-BabyWearing.JPG)
+![](images/1point0and2point0.JPG# l-0 t-20pct w-two-thirds h-80pct ofv absolute)
+![](images/JakeOnShoulder.jpg# w-third h-40pct t-20pct r-0 ofv absolute)
+![](images/DrewDadFMFC.jpg# w-third h-40pct t-60pct r-0 ofv absolute)
 
 ???
 
-- And..... This is me!
-
+And...... This is me!
 
 ---
-class: top
-# A history of working with .NET interactively.
-![helloWorld](images/helloWorldTutorial.png)
+class: center
+
+And...... This is me!
+
+![](images/DrewAndBabyMaya.JPG# l-0 t-20pct w-two-thirds h-80pct ofv absolute)
+![](images/Lambeau-Lombardi-Ross.jpg# w-third h-40pct t-20pct r-0 ofv absolute)
+![](images/Chicago-BabyWearing.JPG# w-third h-40pct t-60pct r-0 ofv absolute)
 
 ???
 
-Dotnet has been around for a while, but trying it out used to involve quite a few steps, such as:
-- Downloading and installing Visual Studio
-- Installing a dotnet SDK
-- Creating a project or app
-- Running or debugging the program to see output.
+And...... This is me!
 
-It was the way things were always done, but there was certainly room for improvement.
+---
+class: fullbleed
+background-color: black
+
+![](images/cards.JPG# absolute ofv w-9-12th h-7-12th)
+![](images/mayaDrew.jpg# absolute ofv w-3-12th h-3-12th t-0 l-9-12th)
+![](images/pcdesk.JPG# absolute ofv w-2-12th h-9-12th t-3-12th l-9-12th)
+![](images/movember.jpg# absolute ofv w-1-12th h-5-12th t-3-12th l-11-12th)
+![](images/wendyWedding.JPG# absolute ofv w-1-12th h-4-12th t-8-12th l-11-12th opr)
+![](images/frozenLake.jpg# absolute ofv w-5-12th h-5-12th t-7-12th l-0)
+![](images/ericBadgerGame.jpg# absolute ofv w-4-12th h-3-12th t-7-12th l-5-12th)
+![](images/jakeShoulder.jpg# absolute ofv w-4-12th h-2-12th t-10-12th l-5-12th)
+
+.absolute.w-7-12th.pa-3.l-1-12th.t-20pct.ba.bw-4.br-4.bg-white-60pct[
+How do you want to be remembered?
+]
+
+???
+
+How do you want to be remembered?
+
+It's the question we're trying to get to the bottom of today.
+
+---
+background-image: url(images/bender-futurama.gif)
+background-size: cover
+
+???
+
+Look. 
+- Regardless of the effort that we put into it, we don't get to pick how we are remembered. 
+- We can remind people how we'd like to be remembered.
+
+---
+class: center
+# The scope of your digital legacy.
+![digital media](images/data-disk-hard-drive-hdd.jpg)
+
+???
+
+# Let's talk about the scope of our digital legacy.  
+
+- It's either coming from or going to end up on something like these hard drives, memory cards, and flash drives.
+- I'm just trying to get you to think about making your digital life a little easier to view, save, and share.
+
 ---
 class: img-caption
-![trydotnet](images/trydotnet-that.png)
+![BRT](images/beat-the-running-clock.gif)
 
+# Why do this now?
+
+???
+
+# Why do this now?
+## It might not always be this easy.
+## In the future, you may have:
+- Aphasia or brain stuff
+- Vision issues
+- Injuries or conditions that affect your ability to type or use a mouse (just ask Clark)
+- Other stuff
+---
+background-image: url(images/not-financial-advice-slower.gif)
+background-size: cover
+
+???
+
+# Disclaimers!
+
+- I'm not a financial consultant
+- I'm not a lawyer
+- I'm a software developer
+- I'm not trying to sell you life insurance
+- You should probably have a will, but I'm not qualified to give that advice.
+
+---
+
+class: img-caption
+![BRT](images/newbus-ewash.jpg)
+# The bus factor
+
+???
+
+# Let's talk about the bus factor.
+## If a bus hits you and you're not around tomorrow, what are the things that need taking care of?
+## As far as I can tell, this stuff falls into three categories:
+- Practical stuff
+- Digital assets and presence
+- Digital media
+
+---
+
+class: img-right
+# Practical stuff
+![Pile-of-bills](images/midjourney-a-pile-of-letters-and-bills-on-a-table.png# maxh-6)
+
+- Bill paying
+- Bank stuff
+- Business stuff
+- Access to shared resources
+
+???
+
+The first set of items is "Practical stuff".
+
+- Bill paying
+- Bank stuff
+- Business stuff
+- Access to shared resources
+
+## Anything that helps people continue the day-to-day stuff without you.
+- This is the sort of stuff that should be in your will.  
+- Write a will. Don't risk the alternative. I hear probate sucks.
+
+---
+
+class: img-right
+# Digital assets with a financial property
+![Pile-of-crypto-coins](images/Crypto_Wallet_-_Cryptocurrency_Medallions_Alongside_Wallet.jpg)
+
+- Cryptocurrency
+- Loyalty points
+- Travel rewards
+- Domain names
+- Digital business assets
+
+???
+
+# Digital assets with a financial value
+- Cryptocurrency
+- Loyalty points
+- Travel rewards
+- Domain names
+- Digital business assets
+
+# Digital assets with a financial value should be in your will.
+## Other than that, I'm not really qualified to talk about this.
+
+---
+class: img-right
+# Digital media and social accounts
+![Ross by the Luther bell](images/lutherBell.jpg)
+
+- Social media accounts
+- Cloud storage
+- Documents
+- Photos
+- Videos
+- Audio
+- Art
+
+???
+
+# This is 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ## The first big step - Try.NET in the browser
 
 ???
@@ -359,4 +528,8 @@ background-size: stretch
  ### Credits
 - Pine sapling picture courtesy of Kieran Hunt, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) , via Wikimedia Commons
 - THAT Conference Cartoons courtesy of THAT Conference, © 2021 THAT® All rights reserved.
-- 
+- gif of Bender's tomb courtesy of Futurama's [A Pharoah to Remember]https://en.wikipedia.org/wiki/A_Pharaoh_to_Remember) via [tenor](https://tenor.com/view/bender-futurama-remember-me-gif-23132019)
+- Beat the running clock gif courtesy of [Andre Gola](https://www.andregola.com/) via [giphy](https://giphy.com/gifs/2zoCrihrueMUVOZlTx)
+- Not financial advice gif courtesy of [Sara Dietschy](https://www.saradietschy.com/) via [giphy](https://giphy.com/clips/SaraDietschy-finances-financial-advice-not-HHMupmVbcXi4WCdxie)
+- Picture of hard drives, flash card and USB stick courtesy of [pxfuel](https://www.pxfuel.com/en/free-photo-oghzv)
+- Picture of bus courtesy of the [City of Madison Metro Transit](https://www.cityofmadison.com/metro/routes-schedules/bus-rapid-transit/need-for-brt)

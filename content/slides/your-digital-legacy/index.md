@@ -295,6 +295,7 @@ class: img-right
 ![Ross by the Luther bell](images/lutherBell.jpg)
 
 - Social media accounts
+- Open source code
 - Cloud storage
 - Documents
 - Photos

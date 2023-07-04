@@ -422,35 +422,86 @@ Examples:
 - Early experiences with computers, cell phones, and laptops
 - First expriences with Wifi
 - Information about daily life around big life or world events
+
 ---
 class: col-2
 # Photos and Art sites
-- ![medium](images/icons/medium-icon.png# maxw-2) Flickr
-- ![blogger](images/icons/blogger.png# maxw-2) Pinterest
-- tumblr
-- pinterest
-- Instagram
-- Snapchat
+- ![flickr](images/icons/flickr.png# maxw-2) Flickr
+- ![blogger](images/icons/pinterest-icon.png# maxw-2) Pinterest
+- ![tumblr](images/icons/Tumblr-icon.png# maxw-2) Tumblr
+- ![Instagram](images/icons/Instagram-Icon.png# maxw-2) Instagram
+- ![Snapchat](images/icons/Snapchat-logo.jpg# maxw-2) Snapchat
+- ![deviant-art](images/icons/DeviantART-icon.png# maxw-2) DeviantArt
+
+![hygge](images/tumblr_596de532d5e972760aa3d86abbf4e605_f3311820_540.jpg)
+
+???
+
+# Photos and Art sites
+- Did you know THAT Conference has a flickr feed?  There might be some pictures of you in it.
+- Do you have any favorite pictures of food or pets?
+- Is your art or cosplay posted somewhere?
+
+Make sure to find it.
+---
+class: col-2
+# Audio and Video
+- ![Vimeo](images/icons/vimeo-icon.png# maxw-2) Vimeo
+- ![Youtube](images/icons/youtube.png# maxw-2) Youtube
+- ![Soundcloud](images/icons/soundcloud_icon.png# maxw-2) Soundcloud
+- ![Twitch](images/icons/twitch-icon.png# maxw-2) Twitch
+
+![1994](images/1994-Ross.gif)
 
 
+???
+
+# Audio and Video
+- Where have you posted clips?
+- Video sites don't seem to live as long due to storage costs (remember blip.tv?), so make sure that you have your video somewhere else
 
 
+Make sure to find it.
+---
+class: col-2
+# Code, Applications, and Websites
+- ![GitHub](images/icons/Octicons-mark-github.png# maxw-2) GitHub
+- ![GitLab](images/icons/gitlab-icon.png# maxw-2) GitLab
+- ![SourceForge](images/icons/sourceforge-logo.png# maxw-2) Sourceforge
+- ![Bitbucket](images/icons/bitbucket.png# maxw-2) Bitbucket
 
+![dependency](images/dependency.png)
 
+???
 
+# Code
+## Are you the random person from Nebraska?
 
+Think about tools like Gickup and succession planning.
+--- 
+---
+class: col-2
 
+# Social networks
+- ![fb](images/icons//facebook.webp# maxw-2) Facebook
+- ![linkedin](images/icons/linkedin.png# maxw-2) LinkedIn
+- ![twitter](images/icons/twitter.png# maxw-2) Twitter
+- ![Insta](images/icons/Instagram-Icon.png# maxw-2) Instagram
 
+![social](images/lambeau-ross-tilo-pointing.jpg)
 
+???
 
+# How much do you post to social networks?
+## Is there anything posted here that you don't have someplace else?
+- Also, don't forget images that other people have taken of you.
+- Apparently this one was posted by a friend in 2009.
 
-
-
-
+Also, would you like to be forgotten?
 
 
 ---
-
+# Walled garden slide
 
 ---
 
@@ -490,4 +541,5 @@ background-image: url(images/Pitch_Pine_Sapling.jpg)
 - Crypto coins in hand courtesy of [Wikimedia](https://commons.wikimedia.org/wiki/File:Crypto_Wallet_-_Cryptocurrency_Medallions_Alongside_Wallet.jpg)
 - Free printable password worksheet comes from [Andrea Dekker](https://andreadekker.com/free-printable-password-worksheet/)
 - Doogie Howser Journal courtesy of [Doogie Howser MD](https://en.wikipedia.org/wiki/Doogie_Howser,_M.D.) via [giphy](https://giphy.com/gifs/old-computer-doogie-howser-3otO6xQxvlzQAAyhLG)
+- Picture of bed from [tumblr](https://www.tumblr.com/glowtinggg/715903887201239040)
 - "Looking let me think" gif courtesy of TipsyElves.com via [giphy](https://giphy.com/gifs/tipsyelves-math-26gR0YFZxWbnUPtMA)

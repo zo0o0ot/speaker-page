@@ -398,7 +398,7 @@ background-image: url(images/trieditout2008.jpg)
 I'll give you some examples over the next few slides.
 ---
 class: col-2
-# Old Blogs or Forums
+# Old Blogs or Forum Posts
 
 - ![blogger](images/icons/blogger.png# maxw-2) Blogger
 - ![medium](images/icons/medium-icon.png# maxw-2) Medium
@@ -422,6 +422,15 @@ Examples:
 - Early experiences with computers, cell phones, and laptops
 - First expriences with Wifi
 - Information about daily life around big life or world events
+---
+class: col-2
+# Photos and Art sites
+- ![medium](images/icons/medium-icon.png# maxw-2) Flickr
+- ![blogger](images/icons/blogger.png# maxw-2) Pinterest
+- tumblr
+- pinterest
+- Instagram
+- Snapchat
 
 
 

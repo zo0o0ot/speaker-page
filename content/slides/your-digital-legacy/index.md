@@ -432,6 +432,7 @@ class: col-2
 - ![Instagram](images/icons/Instagram-Icon.png# maxw-2) Instagram
 - ![Snapchat](images/icons/Snapchat-logo.jpg# maxw-2) Snapchat
 - ![deviant-art](images/icons/DeviantART-icon.png# maxw-2) DeviantArt
+- ![photobucket](images/icons/photobucket.png# maxw-2) Photobucket
 
 ![hygge](images/tumblr_596de532d5e972760aa3d86abbf4e605_f3311820_540.jpg)
 
@@ -441,6 +442,7 @@ class: col-2
 - Did you know THAT Conference has a flickr feed?  There might be some pictures of you in it.
 - Do you have any favorite pictures of food or pets?
 - Is your art or cosplay posted somewhere?
+- In some cases, you might need to pay to access it, such as Photobucket, which ended free accounts recently.
 
 Make sure to find it.
 ---
@@ -450,6 +452,7 @@ class: col-2
 - ![Youtube](images/icons/youtube.png# maxw-2) Youtube
 - ![Soundcloud](images/icons/soundcloud_icon.png# maxw-2) Soundcloud
 - ![Twitch](images/icons/twitch-icon.png# maxw-2) Twitch
+- ![mic](images/icons/mic.png# maxw-2) Podcast platforms
 
 ![1994](images/1994-Ross.gif)
 
@@ -458,26 +461,39 @@ class: col-2
 
 # Audio and Video
 - Where have you posted clips?
-- Video sites don't seem to live as long due to storage costs (remember blip.tv?), so make sure that you have your video somewhere else
+- Have you started any podcasts?
+- Video sites don't seem to live as long due to storage costs (remember blip.tv?), so make sure that you have your video somewhere else.
 
 
 Make sure to find it.
 ---
-class: col-2
+class: img-left
 # Code, Applications, and Websites
+
+![dependency](images/dependency.png)
+
 - ![GitHub](images/icons/Octicons-mark-github.png# maxw-2) GitHub
 - ![GitLab](images/icons/gitlab-icon.png# maxw-2) GitLab
 - ![SourceForge](images/icons/sourceforge-logo.png# maxw-2) Sourceforge
 - ![Bitbucket](images/icons/bitbucket.png# maxw-2) Bitbucket
+--
 
-![dependency](images/dependency.png)
+- [Appoint a successor in GitHub](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories)
+- [Gickup](https://github.com/cooperspencer/gickup)
 
 ???
 
 # Code
 ## Are you the random person from Nebraska?
 
-Think about tools like Gickup and succession planning.
+- If you have web sites or apps, do they depend on payments or external intervention to work? Did you write that down anywhere?
+- You know, you should probably improve your documentation....
+- Also, does your code help people? Tell the story about who your software or work helps and how.
+- If you're on GitHub, there's already a feature to help out. It's called [naming a successor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories).  I'll have a link in my session page. 
+- Also, someone wrote a tool called [Gickup](https://github.com/cooperspencer/gickup) that can be used to back up source code repos between different services, you might want to check that out.
+
+
+
 --- 
 ---
 class: col-2
@@ -487,6 +503,9 @@ class: col-2
 - ![linkedin](images/icons/linkedin.png# maxw-2) LinkedIn
 - ![twitter](images/icons/twitter.png# maxw-2) Twitter
 - ![Insta](images/icons/Instagram-Icon.png# maxw-2) Instagram
+- ![Threads](images/icons/threads.png# maxw-2) Threads
+- ![gplus](images/icons/gplus.png# maxw-2) ~~Google Plus~~
+- ![myspace](images/icons/Myspace-Icon.png# maxw-2) ~~Myspace~~
 
 ![social](images/lambeau-ross-tilo-pointing.jpg)
 
@@ -496,12 +515,22 @@ class: col-2
 ## Is there anything posted here that you don't have someplace else?
 - Also, don't forget images that other people have taken of you.
 - Apparently this one was posted by a friend in 2009.
+- Not every social network stays around.  If you want to keep stuff, you can't bank on it existing forever.
+- Myspace, might actually be able to be resurrected, though.
 
-Also, would you like to be forgotten?
+Also, would you like to be forgotten? Some social networks offer the option of deleting an account if you have the proper documentation.
 
 
 ---
-# Walled garden slide
+class: img-caption
+![Nice garden, eh?](images/Edzell_garden.JPG)
+# The Walled Garden
+
+???
+# Are you in a big company's walled garden?
+- (Apple, Google, Microsoft, Amazon, Facebook, etc.)
+- Sometimes you get some cool features, but have you considered all the costs?
+- Are you happy with this?
 
 ---
 
@@ -542,4 +571,5 @@ background-image: url(images/Pitch_Pine_Sapling.jpg)
 - Free printable password worksheet comes from [Andrea Dekker](https://andreadekker.com/free-printable-password-worksheet/)
 - Doogie Howser Journal courtesy of [Doogie Howser MD](https://en.wikipedia.org/wiki/Doogie_Howser,_M.D.) via [giphy](https://giphy.com/gifs/old-computer-doogie-howser-3otO6xQxvlzQAAyhLG)
 - Picture of bed from [tumblr](https://www.tumblr.com/glowtinggg/715903887201239040)
+- Picture of Edzell Castle walled garden via Jonathan Oldenbuck, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - "Looking let me think" gif courtesy of TipsyElves.com via [giphy](https://giphy.com/gifs/tipsyelves-math-26gR0YFZxWbnUPtMA)

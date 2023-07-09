@@ -77,7 +77,7 @@ class: img-left
 
 - Software Developer at Paradigm
 - Luther College Alumnus
-- Admin, [Madison, WI Slack](http://madisoncommunity.org/)
+- Board Member, [Forward Fest](https://forwardfest.org/)
 - Father
 - Gamer
 - Sports fan
@@ -97,7 +97,7 @@ I'm a father, a gamer, a coder, a sports fan, a geek, and other stuff.
 
 The coding usually I do in my free time is:
 -  Hugo Static sites and 
-- .NET Core apps, often webscrapers.
+- .NET Core apps, often web scrapers.
 
 ---
 class: col-2
@@ -196,7 +196,7 @@ class: center
 
 # The psychology of legacy
 ## Legacy is a question of privilege.
-- If we look at Abraham Maslow's hierarcy of needs, we have to acknowledge something.
+- If we look at Abraham Maslow's hierarchy of needs, we have to acknowledge something.
 - Prestige and accomplishment are higher level needs.
 - We can only really think about them if the lower needs are taken care of.
 - Coming out of a pandemic, however, We are in a time of transition.
@@ -257,7 +257,7 @@ Your digital legacy is shaped by:
 - Your investment (time/money)
 
 ???
-# Your digitial legacy is yours to shape!
+# Your digital legacy is yours to shape!
 ## You get to choose your own adventure.
 
 It is shaped by the things you do, and the effort that you put into curating and organizing it.
@@ -271,7 +271,7 @@ class: img-caption
 ???
 
 # Let's talk about the bus factor.
-## If a bus hits you and you're not around tomorrow, what are the things that need taking care of?
+## If a bus hits you, and you're not around tomorrow, what are the things that need taking care of?
 #### At your job, they replace you.
 #### At home, things aren't as simple.
 #### As far as I can tell, personal stuff falls into three categories:
@@ -344,10 +344,10 @@ class: col-2
 ???
 
 - With the help of the Internet, I was able to find a worksheet to help with the practical stuff.
-- There are some good and bad thigns in there.
+- There are some good and bad things in there.
 - Good: Make sure there are no surprises with payments and subscriptions!
 - Bad: Write all of your passwords on a piece of paper!
-- Make sure you are thinknig abuot digital items when discussing a will.
+- Make sure you are thinking about digital items when discussing a will.
 
 ---
 class: img-caption
@@ -397,8 +397,9 @@ background-image: url(images/trieditout2008.jpg)
 
 I'll give you some examples over the next few slides.
 ---
-class: col-2
+class: img-right
 # Old Blogs or Forum Posts
+![Doogie](images/doogieBlog.webp)
 
 - ![blogger](images/icons/blogger.png# maxw-2) Blogger
 - ![medium](images/icons/medium-icon.png# maxw-2) Medium
@@ -408,24 +409,24 @@ class: col-2
 - ![phpBB](images/icons/PhpBB_logo.png# maxw-3) phpBB forum posts
 - ![command-prompt](images/icons/commandPrompt.png# maxw-2) USENET posts
 
-![Doogie](images/doogieBlog.webp)
-
 
 ???
 
-# Did you post about major life events on an old blog?
+# Did you post about major life events on an old blog or forum?
 ## Epic rants about Star Wars or Microsoft?
 - Go through your old blogs (if you still can) and see if there's anything worth saving.
 - Alternatively, see if there's anything that's emblematic of its time
 
 Examples:
 - Early experiences with computers, cell phones, and laptops
-- First expriences with Wifi
+- First experiences with Wi-Fi
 - Information about daily life around big life or world events
 
 ---
-class: col-2
+class: img-right
 # Photos and Art sites
+![hygge](images/tumblr_596de532d5e972760aa3d86abbf4e605_f3311820_540.jpg)
+
 - ![flickr](images/icons/flickr.png# maxw-2) Flickr
 - ![blogger](images/icons/pinterest-icon.png# maxw-2) Pinterest
 - ![tumblr](images/icons/Tumblr-icon.png# maxw-2) Tumblr
@@ -434,7 +435,6 @@ class: col-2
 - ![deviant-art](images/icons/DeviantART-icon.png# maxw-2) DeviantArt
 - ![photobucket](images/icons/photobucket.png# maxw-2) Photobucket
 
-![hygge](images/tumblr_596de532d5e972760aa3d86abbf4e605_f3311820_540.jpg)
 
 ???
 
@@ -446,15 +446,16 @@ class: col-2
 
 Make sure to find it.
 ---
-class: col-2
+class: img-right
 # Audio and Video
+![1994](images/1994-Ross.gif)
+
 - ![Vimeo](images/icons/vimeo-icon.png# maxw-2) Vimeo
 - ![Youtube](images/icons/youtube.png# maxw-2) Youtube
 - ![Soundcloud](images/icons/soundcloud_icon.png# maxw-2) Soundcloud
 - ![Twitch](images/icons/twitch-icon.png# maxw-2) Twitch
 - ![mic](images/icons/mic.png# maxw-2) Podcast platforms
 
-![1994](images/1994-Ross.gif)
 
 
 ???
@@ -486,7 +487,7 @@ class: img-left
 # Code
 ## Are you the random person from Nebraska?
 
-- If you have web sites or apps, do they depend on payments or external intervention to work? Did you write that down anywhere?
+- If you have websites or apps, do they depend on payments or external intervention to work? Did you write that down anywhere?
 - You know, you should probably improve your documentation....
 - Also, does your code help people? Tell the story about who your software or work helps and how.
 - If you're on GitHub, there's already a feature to help out. It's called [naming a successor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories).  I'll have a link in my session page. 
@@ -496,7 +497,9 @@ class: img-left
 
 --- 
 ---
-class: col-2
+class: img-left
+
+![social](images/lambeau-ross-tilo-pointing.jpg)
 
 # Social networks
 - ![fb](images/icons//facebook.webp# maxw-2) Facebook
@@ -507,8 +510,6 @@ class: col-2
 - ![gplus](images/icons/gplus.png# maxw-2) ~~Google Plus~~
 - ![myspace](images/icons/Myspace-Icon.png# maxw-2) ~~Myspace~~
 
-![social](images/lambeau-ross-tilo-pointing.jpg)
-
 ???
 
 # How much do you post to social networks?
@@ -518,7 +519,53 @@ class: col-2
 - Not every social network stays around.  If you want to keep stuff, you can't bank on it existing forever.
 - Myspace, might actually be able to be resurrected, though.
 
-Also, would you like to be forgotten? Some social networks offer the option of deleting an account if you have the proper documentation.
+---
+background-image: url(images/DLA-Crest.jpeg)
+background-size: stretch
+
+???
+
+# Do you want your social media posts to outlive you?
+Would you like to be forgotten? Some social networks offer the option of deleting an account if you have the proper documentation.
+
+A good resource to know is the *Digital Legacy Association*.
+- They are from the UK
+- They specialize in offering resources and guides for dealing with your digital legacy.
+- [DigitalLegacyAssociation.org](https://digitallegacyassociation.org/)
+---
+class: img-caption
+![sm-will](images/Digital-Legacy-Association-Social-Media-Will.webp)
+# A Social Media Will template
+
+???
+
+- One nice resource they have is a [social media will template](https://digitallegacyassociation.org/social-media-will-template/)
+- It's not legally binding, but it serves as a good tool for tracking what you would like done with your social media.
+- It has a column to track whether you've downloaded your content off the platform already.
+- The template also includes links to the current policies from social media companies on what needs to be done to act on these accounts.
+- Some accounts allow for a successor to be named, others require documentation from the government, like a death certificate.
+- Check their resources out!
+---
+class: img-right
+# Analog and Offline storage
+![My storage room](images/storage-boxes-disks-galore.jpg)
+
+- If it's a document/image, can you scan it?
+- If it's a disk/card, can you still read it?
+- If it's analog, can you convert it?
+- Is there a way to "USB it" now?
+- Should you just pay someone else to do it?
+
+---
+class: col-2
+# Analog and Offline storage
+![My storage room](images/storage-boxes-disks-galore.jpg)
+
+- If it's a document/image, can you scan it?
+- If it's a disk/card, can you still read it?
+- If it's analog, can you convert it?
+- Is there a way to "USB it" now?
+- Should you just pay someone else to do it?
 
 
 ---
@@ -531,6 +578,7 @@ class: img-caption
 - (Apple, Google, Microsoft, Amazon, Facebook, etc.)
 - Sometimes you get some cool features, but have you considered all the costs?
 - Are you happy with this?
+- I don't have a dog in this race, I just want you to reflect on your decision, since it's an easy choice to default into and then stay in because it's annoying and scary to change.
 
 ---
 
@@ -571,5 +619,6 @@ background-image: url(images/Pitch_Pine_Sapling.jpg)
 - Free printable password worksheet comes from [Andrea Dekker](https://andreadekker.com/free-printable-password-worksheet/)
 - Doogie Howser Journal courtesy of [Doogie Howser MD](https://en.wikipedia.org/wiki/Doogie_Howser,_M.D.) via [giphy](https://giphy.com/gifs/old-computer-doogie-howser-3otO6xQxvlzQAAyhLG)
 - Picture of bed from [tumblr](https://www.tumblr.com/glowtinggg/715903887201239040)
+- Digital Legacy Association logo from [digitallegacyassociation.org](https://digitallegacyassociation.org/)
 - Picture of Edzell Castle walled garden via Jonathan Oldenbuck, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - "Looking let me think" gif courtesy of TipsyElves.com via [giphy](https://giphy.com/gifs/tipsyelves-math-26gR0YFZxWbnUPtMA)

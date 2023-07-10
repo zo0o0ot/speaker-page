@@ -398,6 +398,7 @@ background-image: url(images/trieditout2008.jpg)
 I'll give you some examples over the next few slides.
 ---
 class: img-right
+
 # Old Blogs or Forum Posts
 ![Doogie](images/doogieBlog.webp)
 
@@ -553,20 +554,66 @@ class: img-right
 - If it's a document/image, can you scan it?
 - If it's a disk/card, can you still read it?
 - If it's analog, can you convert it?
-- Is there a way to "USB it" now?
 - Should you just pay someone else to do it?
-
 ---
 class: col-2
-# Analog and Offline storage
-![My storage room](images/storage-boxes-disks-galore.jpg)
+# Scanning: Cheap versus Expensive
 
-- If it's a document/image, can you scan it?
-- If it's a disk/card, can you still read it?
-- If it's analog, can you convert it?
+- Used scanners
+- Some scanning services
+- Use your smartphone
+- Borrowed equipment
+
+![craigslist scanner](images/cl-scanner-printer.jpg# maxw-5)
+
+
+
+- Large format scanners
+- Automated Document Feed scanners
+- Film and high DPI scanning
+
+![Epson fastfoto](images/epson_fastfoto_ff_680w_photo_scanner.webp# maxw-5)
+ 
+
+???
+
+# Scanning: What's it going to cost?
+### Cheap
+- With low quantities, a service might (like [Costco's photo transfer service](https://www.costcodvd.com/services-and-pricing/photograph-transfer)) be the best option
+- Another cheap option is used scanners and multifunction printers from craigslist or eBay.
+- You might also be able to use the fancy printer/scanner at your office for free or cheap.
+- With flatbed scanners, look for scanning software that allows scanning multiple photos at once.
+
+### Expensive
+- If you have large formats or lots of photos, an extra large flatbed scanner might be your best option
+- An automated feed scanner might be best if you have large numbers of photos
+- Companies like [SlideSnap(https://slidesnap.com/) make bespoke scanners for slides and film if you have piles of those.
+
+- Your formats and quantities should help you determine:
+- _Should you just pay someone else to do it?_
+
+
+
+
+---
+class: img-left
+# Other media: Can you "USB it"?
+![Cheap USB AV capture](images/usb-av-capture.jpg)
+
+- USB to RCA adapters
+- USB 3.5 floppy
+- USB CD/DVD/Bluray drives
+- USB Greaseweazle V4
+- USB turntables
+
+???
+
 - Is there a way to "USB it" now?
-- Should you just pay someone else to do it?
+- If your devices can output to RCA, then you can input it to USB pretty cheaply
+- Thrift stores, craigslist, and Amazon can be your friend
 
+---
+# Storage and centralization
 
 ---
 class: img-caption
@@ -581,6 +628,9 @@ class: img-caption
 - I don't have a dog in this race, I just want you to reflect on your decision, since it's an easy choice to default into and then stay in because it's annoying and scary to change.
 
 ---
+# It's not all about you, is it?
+---
+
 
 class: img-caption
 ![thinking](images/thinking.gif)

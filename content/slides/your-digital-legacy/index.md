@@ -559,8 +559,8 @@ class: img-right
 class: col-2
 # Scanning: Cheap versus Expensive
 
-- Used scanners
 - Some scanning services
+- Used scanners
 - Use your smartphone
 - Borrowed equipment
 

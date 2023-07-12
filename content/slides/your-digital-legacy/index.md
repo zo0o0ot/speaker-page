@@ -613,7 +613,22 @@ class: img-left
 - Thrift stores, craigslist, and Amazon can be your friend
 
 ---
+class: img-right
+# Tips and Tricks
+![My scanning setup](images/scanning-setup.jpg)
+
+- Organize first, digitize next
+- Do your research
+- Don't rush
+- Make it fun
+- Ask questions!
+
+---
+class: img-left
 # Storage and centralization
+![lots of disks](images/disks-galore.jpg# maxh-6)
+
+- The data has to go somewhere.
 
 ---
 class: img-caption
@@ -670,5 +685,6 @@ background-image: url(images/Pitch_Pine_Sapling.jpg)
 - Doogie Howser Journal courtesy of [Doogie Howser MD](https://en.wikipedia.org/wiki/Doogie_Howser,_M.D.) via [giphy](https://giphy.com/gifs/old-computer-doogie-howser-3otO6xQxvlzQAAyhLG)
 - Picture of bed from [tumblr](https://www.tumblr.com/glowtinggg/715903887201239040)
 - Digital Legacy Association logo from [digitallegacyassociation.org](https://digitallegacyassociation.org/)
+- Disks galore image via [The Life of Kenneth Blog](https://blog.thelifeofkenneth.com/)
 - Picture of Edzell Castle walled garden via Jonathan Oldenbuck, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - "Looking let me think" gif courtesy of TipsyElves.com via [giphy](https://giphy.com/gifs/tipsyelves-math-26gR0YFZxWbnUPtMA)

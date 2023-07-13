@@ -99,6 +99,7 @@ The coding usually I do in my free time is:
 -  Hugo Static sites and 
 - .NET Core apps, often web scrapers.
 
+Also, I almost died about five years ago.
 ---
 class: col-2
 
@@ -555,14 +556,23 @@ class: img-right
 - If it's a disk/card, can you still read it?
 - If it's analog, can you convert it?
 - Should you just pay someone else to do it?
+
+???
+
+# Now, let's get into the labor-intensive stuff
+- Do an inventory of the things that aren't digital but that you would like to be.
+- Do you know where stuff is? Is it already organized or is it everywhere?
+- Is it in your physical possession or are you going to need to reach out to people?
+- Do you know everything that exists? Is there a chance that someone else has something in their basement or closet?
+- How hard is your stuff to digitize, are we talking DVDs and SSDs or old floppy disks and reel to reel audio? 
 ---
 class: col-2
 # Scanning: Cheap versus Expensive
 
-- Some scanning services
 - Used scanners
-- Use your smartphone
+- Smartphone scanning apps
 - Borrowed equipment
+- Some scanning services (for small quantities)
 
 ![craigslist scanner](images/cl-scanner-printer.jpg# maxw-5)
 
@@ -570,27 +580,30 @@ class: col-2
 
 - Large format scanners
 - Automated Document Feed scanners
-- Film and high DPI scanning
+- High Speed/High DPI scanning
+- Film and negative scans
 
 ![Epson fastfoto](images/epson_fastfoto_ff_680w_photo_scanner.webp# maxw-5)
  
 
 ???
 
-# Scanning: What's it going to cost?
+# Photo Scanning: What's it going to cost?
 ### Cheap
-- With low quantities, a service might (like [Costco's photo transfer service](https://www.costcodvd.com/services-and-pricing/photograph-transfer)) be the best option
-- Another cheap option is used scanners and multifunction printers from craigslist or eBay.
+- One cheap option is used scanners and multifunction printers from craigslist or eBay.
+- There are some smartphone apps for using your phone's camera to scan photos, but results may vary.
 - You might also be able to use the fancy printer/scanner at your office for free or cheap.
 - With flatbed scanners, look for scanning software that allows scanning multiple photos at once.
+- With low quantities, a service might (like [Costco's photo transfer service](https://www.costcodvd.com/services-and-pricing/photograph-transfer)) be the best option
 
 ### Expensive
 - If you have large formats or lots of photos, an extra large flatbed scanner might be your best option
 - An automated feed scanner might be best if you have large numbers of photos
-- Companies like [SlideSnap(https://slidesnap.com/) make bespoke scanners for slides and film if you have piles of those.
+- Companies like [SlideSnap](https://slidesnap.com/) make bespoke scanners for slides and film if you have piles of those.
+- Odd or obscure formats like APS/Advantix film might require rare, expensive equipment.
 
 - Your formats and quantities should help you determine:
-- _Should you just pay someone else to do it?_
+- _Should I just pay someone else to do it?_
 
 
 
@@ -604,10 +617,13 @@ class: img-left
 - USB 3.5 floppy
 - USB CD/DVD/Bluray drives
 - USB Greaseweazle V4
-- USB turntables
+- USB SATA/IDE hard drive docks
 
 ???
+# Can I "USB it"?
 
+- In the olden days, expensive capture cards were the norm.
+- That isn't always the case any more.
 - Is there a way to "USB it" now?
 - If your devices can output to RCA, then you can input it to USB pretty cheaply
 - Thrift stores, craigslist, and Amazon can be your friend
@@ -619,16 +635,43 @@ class: img-right
 
 - Organize first, digitize next
 - Do your research
-- Don't rush
+- Don't reinvent the wheel
+- Take your time
 - Make it fun
 - Ask questions!
+
+
+???
+# Tips and tricks
+
+I will try to allow some time at the end, and I'm planning an Open Space, but here are some preliminary tips and tricks:
+- Don't rush into digitizing.  The effort that you put into organizing can pay dividends, because moving around unsorted files can be annoying.
+- Don't reinvent the wheel if you don't have to.  Research what other folks have done to digitize similar content. Check out reddit posts if Reddit still exisits when you're doing your work.
+- It's not a race, so take it slow and steady. Try to take the time to add metadata (like notes or dates written on photos) while you're working, because you may not be looking at the physical media again in the foreseeable future.
+- Find ways to make it fun.  Listen to podcasts, watch TV, or do something to allow yourself to enjoy the process.
+- If some of the stuff you have brings up questions, write them down! Reach out to folks to answer any questions you have or get more context that you may be missing.
 
 ---
 class: img-left
 # Storage and centralization
 ![lots of disks](images/disks-galore.jpg# maxh-6)
 
-- The data has to go somewhere.
+- The data has to go somewhere
+- Some files are bigger than others
+- Make a plan
+- Descriptive folders are useful
+- Distinguish between raw and converted files
+
+???
+
+# So, you're going to digitize your world.
+### Where's it going to go?
+
+- Once you start, the data has to go somewhere.
+- It might get out of hand if you don't plan for how much data you're creating.
+- Depending on what you're digitizing, your space needs will vary.
+-- A pile of scanned photos will take much less room than hours of high quality video.
+- asdf
 
 ---
 class: img-caption

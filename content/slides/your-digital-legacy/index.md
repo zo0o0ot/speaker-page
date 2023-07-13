@@ -528,7 +528,7 @@ background-size: stretch
 ???
 
 # Do you want your social media posts to outlive you?
-Would you like to be forgotten? Some social networks offer the option of deleting an account if you have the proper documentation.
+Would you like to be forgotten? Some social networks offer the option of deleting an account or allowing a relative access if you have the proper documentation.
 
 A good resource to know is the *Digital Legacy Association*.
 - They are from the UK
@@ -646,7 +646,7 @@ class: img-right
 
 I will try to allow some time at the end, and I'm planning an Open Space, but here are some preliminary tips and tricks:
 - Don't rush into digitizing.  The effort that you put into organizing can pay dividends, because moving around unsorted files can be annoying.
-- Don't reinvent the wheel if you don't have to.  Research what other folks have done to digitize similar content. Check out reddit posts if Reddit still exisits when you're doing your work.
+- Don't reinvent the wheel if you don't have to.  Research what other folks have done to digitize similar content. Check out Reddit posts if Reddit still exists when you're doing your work.
 - It's not a race, so take it slow and steady. Try to take the time to add metadata (like notes or dates written on photos) while you're working, because you may not be looking at the physical media again in the foreseeable future.
 - Find ways to make it fun.  Listen to podcasts, watch TV, or do something to allow yourself to enjoy the process.
 - If some of the stuff you have brings up questions, write them down! Reach out to folks to answer any questions you have or get more context that you may be missing.
@@ -670,9 +670,26 @@ class: img-left
 - Once you start, the data has to go somewhere.
 - It might get out of hand if you don't plan for how much data you're creating.
 - Depending on what you're digitizing, your space needs will vary.
--- A pile of scanned photos will take much less room than hours of high quality video.
-- asdf
+ + A pile of scanned photos will take much less room than hours of high quality video.
+- One way to organize is with folder and filenames. Good descriptions can get you a long way.
+- If your files require post-processing, like removing tape noise or doing color correction, make sure to create clear distinctions between your originals, raw working files, and output. 
+ + You may not care about anything but the output, but you might want to clearly organize and name the files, so your decision is easier to make.
 
+---
+background-image: url(images/3-2-1-Backup-Rule.png)
+background-size: stretch
+
+???
+
+# Backups
+What are the rules?
+1. Have at least 3 copies of your data
+2. Keep the copies on 2 different media
+3. Store 1 copy off-site
+
+- One of the copies can the one on your current computer.
+- Two media means don't keep your copies on the same drive.
+- One off-site copy means either in the cloud or a drive out of your house, like in a safe deposit box. Most people pick the cloud.
 ---
 class: img-caption
 ![Nice garden, eh?](images/Edzell_garden.JPG)
@@ -729,5 +746,6 @@ background-image: url(images/Pitch_Pine_Sapling.jpg)
 - Picture of bed from [tumblr](https://www.tumblr.com/glowtinggg/715903887201239040)
 - Digital Legacy Association logo from [digitallegacyassociation.org](https://digitallegacyassociation.org/)
 - Disks galore image via [The Life of Kenneth Blog](https://blog.thelifeofkenneth.com/)
+- 3-2-1 Backup image courtesy of [Cactus IT](https://cactus-it.co.uk/the-3-2-1-backup-rule/)
 - Picture of Edzell Castle walled garden via Jonathan Oldenbuck, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - "Looking let me think" gif courtesy of TipsyElves.com via [giphy](https://giphy.com/gifs/tipsyelves-math-26gR0YFZxWbnUPtMA)

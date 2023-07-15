@@ -592,24 +592,26 @@ class: col-2
 - High Speed/High DPI scanning
 - Film and negative scans
 
-![Epson fastfoto](images/epson_fastfoto_ff_680w_photo_scanner.webp# maxw-5)
+![SlideSnap Pro](images/ssp_product_shot_0121-1-e1370204038704.jpg# maxh-5)
  
 
 ???
 
 ## Photo Scanning: What's it going to cost?
-#### Cheap
+Cheap
 - One cheap option is used scanners and multifunction printers from craigslist or eBay.
 - There are some smartphone apps for using your phone's camera to scan photos, but results may vary.
 - You might also be able to use the fancy printer/scanner at your office for free or cheap.
 - With flatbed scanners, look for scanning software that allows scanning multiple photos at once.
 - With low quantities, a service might (like [Costco's photo transfer service](https://www.costcodvd.com/services-and-pricing/photograph-transfer)) be the best option
 
-#### Expensive
+Expensive
 - If you have large formats or lots of photos, an extra large flatbed scanner might be your best option
 - An automated feed scanner might be best if you have large numbers of photos
 - Companies like [SlideSnap](https://slidesnap.com/) make bespoke scanners for slides and film if you have piles of those.
 - Odd or obscure formats like APS/Advantix film might require rare, expensive equipment.
+- A slow, old scanner might save you a few dollars but cost you tens or hundreds of hours of time.
+- Wireless functionality might cost you more.
 - Your formats and quantities should help you determine:
 - _Should I just pay someone else to do it?_
 
@@ -634,6 +636,7 @@ class: img-left
 - That isn't always the case any more.
 - Is there a way to "USB it" now?
 - If your devices can output to RCA, then you can input it to USB pretty cheaply
+- Open Source software like OBS scan help you get digital.
 - Thrift stores, craigslist, and Amazon can be your friend
 
 ---
@@ -720,12 +723,12 @@ class: img-right
 - ![mylio](images/icons/ente.png# maxw-3) Ente
 
 ???
-# Want to get stuff out of the cloud and manage it locally?
-## Here's some software that I found:
+#### Want to get stuff out of the cloud and manage it locally?
+Some of the software is starting to have features that rival the big walled gardens.
+Here's some software that I found:
 - Mylio
  + Seems like good software - paid level downloads media from your online accounts and centralizes everything into one place
  + Searches for duplicate photos in your collection
- + Allows editing metadata
  + Appears to have the best documentation online
  + Also includes editing functionality
 - Photoprism
@@ -736,7 +739,7 @@ class: img-right
 - Ente
  + Focuses on security and privacy
 
-Many of these apps are being actively developed and may have more features in the future.  Make sure to look at pricing, complexity, and any other features that are important to you. Some of these run of SaaS models, so the monthly fees could add up.
+Many of these apps are being actively developed and may have more features in the future.  Make sure to look at pricing, complexity, and any other features that are important to you. Some of these run off SaaS models, so the monthly fees could add up.
 
 ---
 class: img-left
@@ -751,11 +754,28 @@ class: img-left
 ???
 # But, it's not all about you, is it?
 - Presumably you're not getting into this to just look at your own reflection like Narcissus
-- Think about groups that you're a part of.
+- Think about groups that you're a part of, and the people you love and care about.
+- Where do you fit into the big picture?
 - This is sometimes where people get big into genealogy projects.
 - Remember, it's not your job to be the official historian of everything!
 ---
+class: img-right
 # Make a plan
+![sorting into containers](images/labeled-containers-of-photos-Large.png)
+
+- Collect/Connect
+- Select/Reflect
+- Protect
+
+???
+
+# Make a plan
+
+Congratulations, you have a huge box full of unorganized photos and media. It's depressing and overwhelming.
+
+Let's come up with a plan to do something about it over the next 30 days.
+
+
 
 ---
 # Adding context

@@ -23,46 +23,50 @@ background-image: url(images/Pitch_Pine_Sapling.jpg)
 
 Make sure you're in the right room!
 ---
-background-image: url(that/That-Conference-Branding-Slide.png)
+background-image: url(that/THAT_Conference.png)
 background-size: cover
 
 ???
 
 # Welcome to THAT Conference 2023!
 
-- Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
+- Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.
 
 ---
-background-image: url(that/That-Conference-Partners-Slide.png)
+background-image: url(that/Sponsors.png)
 background-size: cover
 
 ???
 # Sponsors 
 
 Sponsors are great.  Without them, That Conference would not be possible.  I'm thankful for them.
-
 ---
-background-image: url(that/THAT.us.png)
+background-image: url(that/Save_the_Date.png)
 background-size: cover
 
 ???
 
-That.us is pretty great.  Come and join the conversation, all year long!
+Also.... It's never too early to start thinking about next year!
 
 ---
-background-image: url(that/THAT-Dates.png)
+background-image: url(that/Session_Survey_Speaker.png)
 background-size: cover
 
 ???
 
-Also.... It's never to early to start thinking about next year!
+# There will be a session survey QR code at the end!
+- It's at the end of my slides
+- It helps give feedback to both me and THAT Conference
+
 ---
-# Slides and Session Information
+# Slides, Worksheets, and Session Information
 
 .qrcode.db.fr.w-40pct.ml-4[]
 
+- I have worksheets! Do you need one?
 - General session info available at https://rosslarson.com/talks/
 - Slides are at https://rosslarson.com/slides/ or just use the QR code
+- Links available on my session page
 - Ask questions anytime
 
 ???
@@ -107,7 +111,7 @@ class: col-2
 
 ![Draft](images/2016DraftRound3-Ross.jpg)
 
-![This is Podracing](images/EpisodeOnePepsi.jpg)
+![Now This is Podracing](images/EpisodeOnePepsi.jpg)
 
 
 ???
@@ -146,7 +150,7 @@ class: center
 And...... This is me!
 
 ![](images/DrewAndBabyMaya.JPG# l-0 t-20pct w-two-thirds h-80pct ofv absolute)
-![](images/Lambeau-Lombardi-Ross.jpg# w-third h-40pct t-20pct r-0 ofv absolute)
+![](images/Ross058-crop.jpg# w-third h-40pct t-20pct r-0 ofv absolute)
 ![](images/Chicago-BabyWearing.JPG# w-third h-40pct t-60pct r-0 ofv absolute)
 
 ???
@@ -184,7 +188,7 @@ background-size: cover
 
 Look. 
 - Regardless of the effort that we put into it, we don't get to pick how we are remembered. 
-- We can remind people how we'd like to be remembered.
+- We _CAN_ communicate to people how we'd like to be remembered.
 - We can also make it easier for people to remember us by organizing our own lives.
 
 ---
@@ -261,10 +265,9 @@ Your digital legacy is shaped by:
 # Your digital legacy is yours to shape!
 ## You get to choose your own adventure.
 
-It is shaped by the things you do, and the effort that you put into curating and organizing it.
+It is shaped by the things you do, and the effort (and investment) that you put into curating and organizing it.
 
 ---
-
 class: img-caption
 ![BRT](images/newbus-ewash.jpg)
 # The bus factor
@@ -293,7 +296,8 @@ class: img-right
 
 ???
 
-The first set of items is "Practical stuff".
+# First Category-
+### Practical stuff
 
 - Bill paying
 - Bank stuff
@@ -305,32 +309,8 @@ The first set of items is "Practical stuff".
 - Write a will. Don't risk the alternative. I hear probate sucks.
 
 ---
-
-class: img-right
-# Digital assets with a financial property
-![Pile-of-crypto-coins](images/Crypto_Wallet_-_Cryptocurrency_Medallions_Alongside_Wallet.jpg)
-
-- Cryptocurrency
-- Loyalty points
-- Travel rewards
-- Domain names
-- Digital business assets
-
-???
-
-# Digital assets with a financial value
-- Cryptocurrency
-- Loyalty points
-- Travel rewards
-- Domain names
-- Digital business assets
-
-# Digital assets with a financial value should be in your will.
-## Other than that, I'm not really qualified to talk about this.
-
----
 class: col-2
-# Good Ideas vs. Bad Ideas
+# Practical Stuff: Good Ideas vs. Bad Ideas
 
 - List out utilities and subscriptions
 - Make sure there are no payment surprises
@@ -344,10 +324,12 @@ class: col-2
 
 ???
 
-- With the help of the Internet, I was able to find a worksheet to help with the practical stuff.
+- With the help of the Internet, I was able to find a [worksheet](https://andreadekker.com/free-printable-password-worksheet/) to help with the practical stuff.
 - There are some good and bad things in there.
-- Good: Make sure there are no surprises with payments and subscriptions!
-- Bad: Write all of your passwords on a piece of paper!
+- Good: 
+ + Make sure there are no surprises with payments and subscriptions!
+- Bad: 
+ + Write all of your passwords on a piece of paper!
 - Make sure you are thinking about digital items when discussing a will.
 
 ---
@@ -358,8 +340,33 @@ class: img-caption
 ???
 
 # You should probably use a password manager
-- I'm not going to get too into the weeds on which one, for time.
+- I'm not going to get too into the weeds on which one, for the sake of time.
 - Think about how someone else might be able to access the passwords in your manager, though.
+
+---
+
+class: img-right
+# Digital assets with a financial property
+![Pile-of-crypto-coins](images/Crypto_Wallet_-_Cryptocurrency_Medallions_Alongside_Wallet.jpg)
+
+- Cryptocurrency
+- Domain names
+- Digital business assets
+- Loyalty points
+- Travel rewards
+
+???
+
+# Second Category:
+### Digital assets with a financial value
+- Cryptocurrency
+- Domain names
+- Digital business assets
+- Loyalty points
+- Travel rewards
+
+## Digital assets with a financial value should be in your will.
+## Other than that, I'm not really qualified to talk about this.
 
 ---
 class: img-right
@@ -379,8 +386,9 @@ class: img-right
 
 ???
 
-# The third category of digital assets
-## This is where I'm going to focus in this session.
+# The third category:
+## Digital media and social accounts 
+- Generally these are the digital items that have sentimental value, not monetary value.
 - From here, it might be good to follow along with the worksheet that I've handed out.
 ---
 class: title, smokescreen, shelf, no-footer
@@ -416,7 +424,7 @@ class: img-right
 
 # Did you post about major life events on an old blog or forum?
 ## Epic rants about Star Wars or Microsoft?
-- Go through your old blogs (if you still can) and see if there's anything worth saving.
+- Go through your old blogs and forums (if you still can) and see if there's anything worth saving.
 - Alternatively, see if there's anything that's emblematic of its time
 
 Examples:
@@ -465,24 +473,21 @@ class: img-right
 # Audio and Video
 - Where have you posted clips?
 - Have you started any podcasts?
-- Video sites don't seem to live as long due to storage costs (remember blip.tv?), so make sure that you have your video somewhere else.
+- Video upload sites don't seem to live as long on the Internet due to storage costs (remember blip.tv?), so make sure that you have your video somewhere else.
+- Twitch streams automatically delete themselves unless you save them.
 
-
-Make sure to find it.
+Make sure to look at the retention policies where you have your stuff.
 ---
 class: img-left
 # Code, Applications, and Websites
 
 ![dependency](images/dependency.png)
 
-- ![GitHub](images/icons/Octicons-mark-github.png# maxw-2) GitHub
+- ![GitHub](images/icons/Octicons-mark-github.png# maxw-2) GitHub ([Appoint a Successor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/))
 - ![GitLab](images/icons/gitlab-icon.png# maxw-2) GitLab
 - ![SourceForge](images/icons/sourceforge-logo.png# maxw-2) Sourceforge
 - ![Bitbucket](images/icons/bitbucket.png# maxw-2) Bitbucket
---
-
-- [Appoint a successor in GitHub](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories)
-- [Gickup](https://github.com/cooperspencer/gickup)
+- ![Gickup](images/icons/gickup-crop.png# maxw-2) [Gickup](https://github.com/cooperspencer/gickup)
 
 ???
 
@@ -491,9 +496,10 @@ class: img-left
 
 - If you have websites or apps, do they depend on payments or external intervention to work? Did you write that down anywhere?
 - You know, you should probably improve your documentation....
-- Also, does your code help people? Tell the story about who your software or work helps and how.
-- If you're on GitHub, there's already a feature to help out. It's called [naming a successor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories).  I'll have a link in my session page. 
-- Also, someone wrote a tool called [Gickup](https://github.com/cooperspencer/gickup) that can be used to back up source code repos between different services, you might want to check that out.
+- Also, does your code (or the work you do) help people? Tell the story about who your software helps and how.
+- If you're on GitHub, and you want people to be able to continue using your repos after you're gone, there's already a feature to help out. 
+ + It's called [naming a successor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories).  I'll have a link in my session page. 
+- Also, someone (named Cooper Spencer) wrote a tool called [Gickup](https://github.com/cooperspencer/gickup) that can be used to back up source code repos between different code sites, you might want to check that out.
 
 
 
@@ -517,7 +523,7 @@ class: img-left
 # How much do you post to social networks?
 ## Is there anything posted here that you don't have someplace else?
 - Also, don't forget images that other people have taken of you.
-- Apparently this one was posted by a friend in 2009.
+- Apparently this photo was posted by a friend in 2009 when we visited Lambeau Field together.
 - Not every social network stays around.  If you want to keep stuff, you can't bank on it existing forever.
 - Myspace, might actually be able to be resurrected, though.
 
@@ -528,7 +534,7 @@ background-size: stretch
 ???
 
 # Do you want your social media posts to outlive you?
-Would you like to be forgotten? Some social networks offer the option of deleting an account or allowing a relative access if you have the proper documentation.
+Would you like to be forgotten? Some social networks offer the option of deleting an account or allowing a successor access if you have the proper documentation.
 
 A good resource to know is the *Digital Legacy Association*.
 - They are from the UK
@@ -546,7 +552,8 @@ class: img-caption
 - It has a column to track whether you've downloaded your content off the platform already.
 - The template also includes links to the current policies from social media companies on what needs to be done to act on these accounts.
 - Some accounts allow for a successor to be named, others require documentation from the government, like a death certificate.
-- Check their resources out!
+- Good luck with Twitter.
+- Check the DLA resources out!
 ---
 class: img-right
 # Analog and Offline storage
@@ -559,11 +566,13 @@ class: img-right
 
 ???
 
-# Now, let's get into the labor-intensive stuff
+# OK, We've looked online.
+### Now, let's get into the labor-intensive stuff
 - Do an inventory of the things that aren't digital but that you would like to be.
-- Do you know where stuff is? Is it already organized or is it everywhere?
+- Do you know where stuff is? Is it already organized or is it all over the place?
 - Is it in your physical possession or are you going to need to reach out to people?
-- Do you know everything that exists? Is there a chance that someone else has something in their basement or closet?
+- Do you know everything that exists? 
+ + Is there a chance that a parent or someone else has something in their basement or closet?
 - How hard is your stuff to digitize, are we talking DVDs and SSDs or old floppy disks and reel to reel audio? 
 ---
 class: col-2
@@ -588,20 +597,19 @@ class: col-2
 
 ???
 
-# Photo Scanning: What's it going to cost?
-### Cheap
+## Photo Scanning: What's it going to cost?
+#### Cheap
 - One cheap option is used scanners and multifunction printers from craigslist or eBay.
 - There are some smartphone apps for using your phone's camera to scan photos, but results may vary.
 - You might also be able to use the fancy printer/scanner at your office for free or cheap.
 - With flatbed scanners, look for scanning software that allows scanning multiple photos at once.
 - With low quantities, a service might (like [Costco's photo transfer service](https://www.costcodvd.com/services-and-pricing/photograph-transfer)) be the best option
 
-### Expensive
+#### Expensive
 - If you have large formats or lots of photos, an extra large flatbed scanner might be your best option
 - An automated feed scanner might be best if you have large numbers of photos
 - Companies like [SlideSnap](https://slidesnap.com/) make bespoke scanners for slides and film if you have piles of those.
 - Odd or obscure formats like APS/Advantix film might require rare, expensive equipment.
-
 - Your formats and quantities should help you determine:
 - _Should I just pay someone else to do it?_
 
@@ -614,10 +622,10 @@ class: img-left
 ![Cheap USB AV capture](images/usb-av-capture.jpg)
 
 - USB to RCA adapters
-- USB 3.5 floppy
+- USB 3.5" floppy
 - USB CD/DVD/Bluray drives
-- USB Greaseweazle V4
 - USB SATA/IDE hard drive docks
+- USB Greaseweazle V4 (5.25" Floppy)
 
 ???
 # Can I "USB it"?
@@ -682,14 +690,14 @@ background-size: stretch
 ???
 
 # Backups
-What are the rules?
+What is the 3-2-1 Backup rule?
 1. Have at least 3 copies of your data
 2. Keep the copies on 2 different media
 3. Store 1 copy off-site
 
 - One of the copies can the one on your current computer.
 - Two media means don't keep your copies on the same drive.
-- One off-site copy means either in the cloud or a drive out of your house, like in a safe deposit box. Most people pick the cloud.
+- One off-site copy means either in the cloud or a drive outside your house, like in a safe deposit box. Most people pick the cloud.
 ---
 class: img-caption
 ![Nice garden, eh?](images/Edzell_garden.JPG)
@@ -698,12 +706,64 @@ class: img-caption
 ???
 # Are you in a big company's walled garden?
 - (Apple, Google, Microsoft, Amazon, Facebook, etc.)
-- Sometimes you get some cool features, but have you considered all the costs?
+- Sometimes you get some cool features and integrations, but have you considered all the costs?
 - Are you happy with this?
 - I don't have a dog in this race, I just want you to reflect on your decision, since it's an easy choice to default into and then stay in because it's annoying and scary to change.
+---
+class: img-right
+# De-Clouding and Independent Mananagement
+![cloud-to-ground](images/cloud-to-ground.jpg)
+
+- ![mylio](images/icons/mylio-logo.png# maxw-2) Mylio
+- ![photoprism](images/icons/photoprism.png# maxw-2) Photoprism
+- ![tonfotos](images/icons/tonfotos.jpg# maxw-2) Tonfotos
+- ![mylio](images/icons/ente.png# maxw-3) Ente
+
+???
+# Want to get stuff out of the cloud and manage it locally?
+## Here's some software that I found:
+- Mylio
+ + Seems like good software - paid level downloads media from your online accounts and centralizes everything into one place
+ + Searches for duplicate photos in your collection
+ + Allows editing metadata
+ + Appears to have the best documentation online
+ + Also includes editing functionality
+- Photoprism
+ + AI Powered, runs at home, on private server, or in the cloud
+ + Can tag photos of faces
+- Tonfotos
+ + Features a family tree option when classifying photos
+- Ente
+ + Focuses on security and privacy
+
+Many of these apps are being actively developed and may have more features in the future.  Make sure to look at pricing, complexity, and any other features that are important to you. Some of these run of SaaS models, so the monthly fees could add up.
 
 ---
+class: img-left
 # It's not all about you, is it?
+![Narcissus](images/Narcissus-Caravaggio_1594-96_edited-Large.jpg)
+
+- Family
+- Friends
+- Tech Conferences
+- Groups
+
+???
+# But, it's not all about you, is it?
+- Presumably you're not getting into this to just look at your own reflection like Narcissus
+- Think about groups that you're a part of.
+- This is sometimes where people get big into genealogy projects.
+- Remember, it's not your job to be the official historian of everything!
+---
+# Make a plan
+
+---
+# Adding context
+
+---
+
+# Conversations to have
+
 ---
 
 
@@ -726,26 +786,40 @@ background-image: url(images/Pitch_Pine_Sapling.jpg)
 
 # Thank you!
 ---
+background-image: url(that/Session_Survey_Speaker_rsl.png)
+background-size: cover
+
+???
+
+# Please do a survey!
+
+---
+class: compact
  ### Credits
 - Pine sapling picture courtesy of Kieran Hunt, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) , via Wikimedia Commons
-- THAT Conference Cartoons courtesy of THAT Conference, © 2021 THAT® All rights reserved.
 - gif of Bender's tomb courtesy of Futurama's [A Pharoah to Remember](https://en.wikipedia.org/wiki/A_Pharaoh_to_Remember) via [tenor](https://tenor.com/view/bender-futurama-remember-me-gif-23132019)
 - Maslow's simplified hierarchy of needs courtesy of [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
 - Beat the running clock gif courtesy of [Andre Gola](https://www.andregola.com/) via [giphy](https://giphy.com/gifs/2zoCrihrueMUVOZlTx)
 - Not financial advice gif courtesy of [Sara Dietschy](https://www.saradietschy.com/) via [giphy](https://giphy.com/clips/SaraDietschy-finances-financial-advice-not-HHMupmVbcXi4WCdxie)
 - Picture of hard drives, flash card and USB stick courtesy of [pxfuel](https://www.pxfuel.com/en/free-photo-oghzv)
 - Choose your own Adventure book cover is [Supercomputer](https://www.goodreads.com/en/book/show/755062) by [Edward Packard](https://www.edwardpackard.com/).
-
----
- ### More Credits
 - Picture of bus courtesy of the [City of Madison Metro Transit](https://www.cityofmadison.com/metro/routes-schedules/bus-rapid-transit/need-for-brt)
 - Pile of letters and bills on a table, generated by [imagine.art](https://www.imagine.art/dashboard/tool/from-text/6fa7102a-25c4-4054-81f5-29fc4fc20f76) - seed: 860341
-- Crypto coins in hand courtesy of [Wikimedia](https://commons.wikimedia.org/wiki/File:Crypto_Wallet_-_Cryptocurrency_Medallions_Alongside_Wallet.jpg)
+
+---
+class: compact
+ ### More Credits
 - Free printable password worksheet comes from [Andrea Dekker](https://andreadekker.com/free-printable-password-worksheet/)
+- Crypto coins in hand courtesy of [Wikimedia](https://commons.wikimedia.org/wiki/File:Crypto_Wallet_-_Cryptocurrency_Medallions_Alongside_Wallet.jpg)
 - Doogie Howser Journal courtesy of [Doogie Howser MD](https://en.wikipedia.org/wiki/Doogie_Howser,_M.D.) via [giphy](https://giphy.com/gifs/old-computer-doogie-howser-3otO6xQxvlzQAAyhLG)
 - Picture of bed from [tumblr](https://www.tumblr.com/glowtinggg/715903887201239040)
 - Digital Legacy Association logo from [digitallegacyassociation.org](https://digitallegacyassociation.org/)
 - Disks galore image via [The Life of Kenneth Blog](https://blog.thelifeofkenneth.com/)
 - 3-2-1 Backup image courtesy of [Cactus IT](https://cactus-it.co.uk/the-3-2-1-backup-rule/)
 - Picture of Edzell Castle walled garden via Jonathan Oldenbuck, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- Picture of Cloud and building generated by [imagine.art](https://www.imagine.art/dashboard/tool/from-text), prompt: "a picture of a digital cloud cyberpunk" seed: 497500 
+- Image of Narcissus by Caravaggio - Self-scanned, [Public Domain](https://commons.wikimedia.org/w/index.php?curid=25450745) 
 - "Looking let me think" gif courtesy of TipsyElves.com via [giphy](https://giphy.com/gifs/tipsyelves-math-26gR0YFZxWbnUPtMA)
+
+---
+ ### More Credits

@@ -786,13 +786,12 @@ background-image: url(images/Pitch_Pine_Sapling.jpg)
 
 # Thank you!
 ---
-background-image: url(that/Session_Survey_Speaker_rsl.png)
+background-image: url(that/Session_Survey_Speaker_rsl_qr.png)
 background-size: cover
 
 ???
 
 # Please do a survey!
-
 ---
 class: compact
  ### Credits

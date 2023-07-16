@@ -814,13 +814,20 @@ Let's come up with a plan to do something about it over the next 30 days.
 - Protect your work
 
 ---
-# Collecting Stories
+class: img-caption
+# Collecting Stories and Asking Questions
+![StoryCorps](images/GreatQuestions_Hero5.jpg)
 
 ???
 
 # Collecting stories
 
-Link to audio interview app here.
+- Don't know what questions to ask? No problem!
+- There's a company called StoryCorps that specializes in creating good conversations.
+ + They have a ton of questions to use!
+- Their website is [storycorps.org](https://storycorps.org/participate/great-questions/)
+ + I'm including a link in the session links.
+- One thing that StoryCorps didn't have is great technology questions, so I made some!
 ---
 class: img-caption
 # Conversations to have

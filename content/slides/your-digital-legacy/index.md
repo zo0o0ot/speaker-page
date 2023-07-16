@@ -784,7 +784,7 @@ Think about:
 - Remember, it's not your job to be the official historian of everything!
 ---
 class: img-right
-# Make a plan
+# Make a 30 Day Plan
 ![sorting into containers](images/labeled-containers-of-photos-Large.png)
 
 - Collect/Connect
@@ -799,7 +799,7 @@ class: img-right
 
 ???
 
-# Make a plan
+# Make a 30 day plan
 
 Congratulations, you have a huge box full of unorganized photos and media. It's depressing and overwhelming.
 

@@ -37,7 +37,7 @@ Useful links:
     - [.NET Interactive with SQL!](https://devblogs.microsoft.com/dotnet/net-interactive-with-sql-net-notebooks-in-visual-studio-code/)
     - Scott Hanselman's blog: [Announcing .NET Interactive - Try .NET includes .NET Notebooks and more](https://www.hanselman.com/blog/announcing-net-interactive-try-net-includes-net-notebooks-and-more)
 * YouTube links:
-    - [Visual Studio Notebook Editor brings C# and .NET to Jupyter Notebooks - Learn To Code Interactively](https://youtu.be/WfozTizHMlM) - Featuring: Scott Hanselman(@shanselman](https://twitter.com/shanselman)). The C# notebooks GitHub repo that he mentions is [here](https://github.com/dotnet/csharp-notebooks).
+    - [Visual Studio Notebook Editor brings C# and .NET to Jupyter Notebooks - Learn To Code Interactively](https://youtu.be/WfozTizHMlM) - Featuring: Scott Hanselman ([@shanselman](https://twitter.com/shanselman)). The C# notebooks GitHub repo that he mentions is [here](https://github.com/dotnet/csharp-notebooks).
     - [.NET Interactive: Beyond Data Science](https://youtu.be/31Qnmqqqy-I) - Featuring: Maria Naggagga ([@LadyNaggaga](https://twitter.com/LadyNaggaga)), Diego Colombo ([@colombod](https://twitter.com/colombod)), and Cecil Philip ([@cecilphillip](https://twitter.com/cecilphillip))
     - [Machine Learning Community Standup - .NET Notebooks & .NET Interactive](https://youtu.be/KlZje8GNDEQ) - Featuring: Diego Colombo ([@colombod](https://twitter.com/colombod))
     - [What's new in .NET Interactive notebooks](https://youtu.be/GF1FK9Bwy2Y) - From dotnetconf 2021 with Alan Yu and Julie Koesmarno

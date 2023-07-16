@@ -1,5 +1,5 @@
 ---
-title: 'Your Digital Legacy'
+title: 'Your Digital Legacy: Getting your (digital) life in order'
 date: "2023-07-15T03:06:02Z"
 url: "/talks/your-digital-legacy/"
 event: "That Conference WI 2023"
@@ -11,8 +11,6 @@ thumbnail: "/talks/images/THAT_Conference_WI.png"
 image: "/talks/images/THAT_Conference_WI.png"
 description: ""
 ---
-
-This is a placeholder description for an upcoming session.
 
 ## THAT Conference WI 2023
 
@@ -44,4 +42,8 @@ At the end of this session, here are some key takeaways:
 
 Useful links:
 
-* [My digital legacy: A Worksheet](/talks/docs/MyDigitalLegacy-Worksheet.pdf)
+* [My digital legacy: A Worksheet](/talks/docs/MyDigitalLegacy-Worksheet.pdf) - I created this worksheet for the session 
+* [Technology memories: Conversation questions](/talks/docs/Questions-to-help-you-share-tech-memories.pdf) - I also created this list of conversation questions
+* [The Digital Legacy Association](https://digitallegacyassociation.org/) - A UK organization concerned with helping people create and protect their digital legacy
+* [StoryCorps - Great questions](https://storycorps.org/participate/great-questions/) - Questions that help you get deep, meaningful conversations.  Check out their [app](https://storycorps.org/participate/storycorps-app/), as well!
+* [Collect, Organize, Protect: Building Your Family's Digital Legacy](https://youtu.be/sZQ6dwjT8YE) - This is a presentation done by Richard Harrington of [Mylio](https://mylio.com/) about preserving your family's digital legacy.  I found it informative and useful when putting my presentation together.

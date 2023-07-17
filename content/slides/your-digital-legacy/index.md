@@ -72,7 +72,11 @@ background-size: cover
 ???
 
 Here's a QR Code if you want to follow along on your laptop or phone.
-Ask questions anytime.
+- I have worksheets! Do you need one?
+- General session info available at https://rosslarson.com/talks/
+- Slides are at https://rosslarson.com/slides/ or just use the QR code
+- Links available on my session page
+- Ask questions anytime
 ---
 class: img-left
 # About Me
@@ -234,6 +238,7 @@ class: img-caption
 - Vision issues
 - Injuries or conditions that affect your ability to type or use a mouse (just ask Clark)
 - Other stuff
+- Also, if our stuff is hosted online for free, it may stay there forever.
 ---
 background-image: url(images/not-financial-advice-slower.gif)
 background-size: cover
@@ -576,7 +581,7 @@ class: img-right
 - How hard is your stuff to digitize, are we talking DVDs and SSDs or old floppy disks and reel to reel audio? 
 ---
 class: col-2
-# Scanning: Cheap versus Expensive
+# Scanning: "Cheap" versus "Expensive"
 
 - Used scanners
 - Smartphone scanning apps
@@ -603,7 +608,7 @@ Cheap
 - There are some smartphone apps for using your phone's camera to scan photos, but results may vary.
 - You might also be able to use the fancy printer/scanner at your office for free or cheap.
 - With flatbed scanners, look for scanning software that allows scanning multiple photos at once.
-- With low quantities, a service might (like [Costco's photo transfer service](https://www.costcodvd.com/services-and-pricing/photograph-transfer)) be the best option
+- With low quantities, a service (like [Costco's photo transfer service](https://www.costcodvd.com/services-and-pricing/photograph-transfer)) might be the best option
 
 Expensive
 - If you have large formats or lots of photos, an extra large flatbed scanner might be your best option
@@ -734,7 +739,7 @@ class: img-caption
 - (Apple, Google, Microsoft, Amazon, Facebook, etc.)
 - Sometimes you get some cool features and integrations, but have you considered all the costs?
 - Are you happy with this?
-- I don't have a dog in this race, I just want you to reflect on your decision, since it's an easy choice to default into and then stay in because it's annoying and scary to change.
+- I use some of these, but I just want you to reflect on your decision, since it's an easy choice to default into and then stay in because it's annoying and scary to change.
 ---
 class: img-right
 # De-Clouding and Independent Mananagement
@@ -813,6 +818,7 @@ Let's come up with a plan to do something about it over the next 30 days.
 - See what questions you have and get some answers
 - Protect your work
 
+You don't have to finish all of these steps in a month.  The goal is to make a plan, and to make some progress.
 ---
 class: img-caption
 # Collecting Stories and Asking Questions
@@ -822,6 +828,7 @@ class: img-caption
 
 # Collecting stories
 
+- Don't underestimate the value of stories in this process. It can turn a picture into a memory, or give context to something that seems boring or irrelevant.
 - Don't know what questions to ask? No problem!
 - There's a company called StoryCorps that specializes in creating good conversations.
  + They have a ton of questions to use!
@@ -880,6 +887,7 @@ background-size: cover
 ???
 
 # Please do a survey!
+[https://that.land/3O907sc](https://that.land/3O907sc)
 ---
 class: compact
  ### Credits

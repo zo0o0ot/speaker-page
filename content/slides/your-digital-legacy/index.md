@@ -238,7 +238,7 @@ class: img-caption
 - Vision issues
 - Injuries or conditions that affect your ability to type or use a mouse (just ask Clark)
 - Other stuff
-- Also, if our stuff is hosted online for free, it may stay there forever.
+- Also, even if your stuff is hosted online for free, it may not stay there forever.
 ---
 background-image: url(images/not-financial-advice-slower.gif)
 background-size: cover
@@ -417,6 +417,7 @@ class: img-right
 ![Doogie](images/doogieBlog.webp)
 
 - ![blogger](images/icons/blogger.png# maxw-2) Blogger
+- ![reddit](images/icons/free-reddit-logo-icon-2436-thumb.png# maxw-2) Reddit
 - ![medium](images/icons/medium-icon.png# maxw-2) Medium
 - ![livejounral](images/icons/LiveJournal_icon.png# maxw-2) Live Journal
 - ![Typepad](images/icons/typepad_icon.png# maxw-2) Typepad
@@ -578,7 +579,7 @@ class: img-right
 - Is it in your physical possession or are you going to need to reach out to people?
 - Do you know everything that exists? 
  + Is there a chance that a parent or someone else has something in their basement or closet?
-- How hard is your stuff to digitize, are we talking DVDs and SSDs or old floppy disks and reel to reel audio? 
+- How hard is your stuff to digitize, are we talking DVDs and SSDs or Advantix film, old floppy disks and reel to reel audio? 
 ---
 class: col-2
 # Scanning: "Cheap" versus "Expensive"

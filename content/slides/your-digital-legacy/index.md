@@ -807,7 +807,7 @@ class: img-right
 
 # Make a 30 day plan
 
-Congratulations, you have a huge box full of unorganized photos and media. It's depressing and overwhelming.
+Congratulations, you have a need to remember 10 old logins and have huge box full of unorganized photos and media. It's depressing and overwhelming.
 
 Let's come up with a plan to do something about it over the next 30 days.
 

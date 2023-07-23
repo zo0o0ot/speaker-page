@@ -370,6 +370,8 @@ class: img-right
 - Loyalty points
 - Travel rewards
 
+A notable exception: Steam games aren't really yours! They have the ability to remove your account if they find out you have gone to the great beyond, but some users have been able to share login credentials and use accounts of people who have passed on.
+
 ## Digital assets with a financial value should be in your will.
 ## Other than that, I'm not really qualified to talk about this.
 
@@ -404,7 +406,7 @@ background-image: url(images/trieditout2008.jpg)
 ???
 
 # What do you create?
-## Do an inventory of: 
+## Do a personal inventory of: 
 - The stuff you've made
 - The stuff you're making
 - The stuff you'd like to make
@@ -430,6 +432,7 @@ class: img-right
 
 # Did you post about major life events on an old blog or forum?
 ## Epic rants about Star Wars or Microsoft?
+## Do you have the perfect recipe for Butterbeer?
 - Go through your old blogs and forums (if you still can) and see if there's anything worth saving.
 - Alternatively, see if there's anything that's emblematic of its time
 
@@ -483,6 +486,8 @@ class: img-right
 - Twitch streams automatically delete themselves unless you save them.
 
 Make sure to look at the retention policies where you have your stuff.
+
+Also, there's an amazing 15 second clip in a 45 minute video, feel free to separate that into a new bit of content.  It's OK to mine for gold nuggets in long form video and audio.
 ---
 class: img-left
 # Code, Applications, and Websites
@@ -861,8 +866,6 @@ class: img-caption
 - Your digital legacy is partially in your control. How do you want to shape it?
 
 ---
-
-
 class: img-caption
 ![thinking](images/thinking.gif)
 
@@ -871,7 +874,14 @@ class: img-caption
 ???
 
 # Any Questions?
+---
+class: img-caption
+![StoryCorps](images/GreatQuestions_Hero5.jpg)
+# Questions? Thoughts?
+???
 
+# Questions?
+This slide isn't a gif, so it's less annoying if there is more dicussion.
 ---
 class: title, smokescreen, shelf, no-footer
 background-image: url(images/Pitch_Pine_Sapling.jpg)

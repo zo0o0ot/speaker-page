@@ -523,7 +523,7 @@ class: img-left
 # Social networks
 - ![fb](images/icons//facebook.webp# maxw-2) Facebook
 - ![linkedin](images/icons/linkedin.png# maxw-2) LinkedIn
-- ![twitter](images/icons/twitter.png# maxw-2) Twitter
+- ![twitter](images/icons/twitter.png# maxw-2) Twitter (X???)
 - ![Insta](images/icons/Instagram-Icon.png# maxw-2) Instagram
 - ![Threads](images/icons/threads.png# maxw-2) Threads
 - ![gplus](images/icons/gplus.png# maxw-2) ~~Google Plus~~
@@ -536,6 +536,7 @@ class: img-left
 - Also, don't forget images that other people have taken of you.
 - Apparently this photo was posted by a friend in 2009 when we visited Lambeau Field together.
 - Not every social network stays around.  If you want to keep stuff, you can't bank on it existing forever.
+- Heck, Twitter is X now and that makes no sense.
 - Myspace, might actually be able to be resurrected, though.
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Your Digital Legacy: Getting your (digital) life in order'
-date: "2023-07-15T03:06:02Z"
+date: "2023-07-25T11:00:02Z"
 url: "/talks/your-digital-legacy/"
 event: "That Conference WI 2023"
 location: "Kalahari - Lake Delton, WI"

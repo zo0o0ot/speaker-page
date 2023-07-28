@@ -1,6 +1,6 @@
 ---
 title: Your Digital Legacy
-date: "2023-06-14T19:33:20Z"
+date: "2023-07-25T11:30:20Z"
 url: "/slides/your-digital-legacy/"
 image: "/talks/images/THAT_Conference_WI.png"
 thumbnail: "/talks/images/THAT_Conference_WI.png"

@@ -44,3 +44,21 @@ Useful links:
     - [How to Use .NET Interactive Jupyter Notebooks in Daily Work-Life | Data Exposed: MVP Edition](https://youtu.be/W-F0gO7dVOE) - Featuring MVP [Rob Sewell](https://twitter.com/sqldbawithbeard) - His notebooks are [here](https://github.com/SQLDBAWithABeard/JupyterNotebooks?WT.mc_id=dataexposed-c9-niner).
     - [On .NET Live - A chat with the .NET Interactive Team](https://youtu.be/IUgP1Wnqt-U) - Featuring: Maria Naggagga ([@LadyNaggaga](https://twitter.com/LadyNaggaga)) and Diego Colombo ([@colombod](https://twitter.com/colombod))
     - [Bringing .NET Interactive to Azure Data Studio Notebooks](https://docs.microsoft.com/en-us/events/dotnetconf-2020/s231) - dotnetconf 2020 session with Alan Yu and Jon Sequira
+
+Images from the event, courtesy of the [THAT Conference 2022 flickr album](https://www.flickr.com/photos/thatconference/albums/72177720301774062):
+
+![Ross speaking 2022 - photo 1](/img/confs/2022/net-interactive-001.jpg)
+
+![Ross speaking 2022 - photo 2](/img/confs/2022/net-interactive-002.jpg)
+
+![Ross speaking 2022 - photo 3](/img/confs/2022/net-interactive-003.jpg)
+
+Other images of me at THAT Conference:
+
+![THAT Conference - photo 1](/img/confs/2022/THAT-conf-001.jpg)
+
+![THAT Conference - photo 2](/img/confs/2022/THAT-conf-002.jpg)
+
+![THAT Conference - photo 3](/img/confs/2022/THAT-conf-003.jpg)
+
+![THAT Conference - photo 4](/img/confs/2022/THAT-conf-004.jpg)

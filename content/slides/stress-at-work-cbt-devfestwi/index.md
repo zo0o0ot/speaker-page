@@ -221,7 +221,7 @@ Two types of folks tend to run into this issue.
 class: img-caption
 # Type A Personalities
 
-![Excited puppy](puppy2.jpg)
+![Excited puppy](images/puppy2.jpg)
 
 ???
 
@@ -444,7 +444,7 @@ Next is a different exercise, aimed at challenging our anxious thoughts.
 
 ---
 class: img-left
-![Anxiety Worksheet](cbt-challenge-anxiety.png)
+![Anxiety Worksheet](images/cbt-challenge-anxiety.png)
 
 - Describe your anxious situation
 

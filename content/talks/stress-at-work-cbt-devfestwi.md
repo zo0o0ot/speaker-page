@@ -8,8 +8,8 @@ site: "https://www.devfestwi.com/2023/schedule"
 video: ""
 slides: "/slides/stress-at-work-cbt-devfestwi/"
 thumbnail: "/talks/images/devfestBlue.png"
-image: "images/unionCeiling.png"
-description: ""
+image: "/talks/images/unionCeiling.png"
+description: "Tools for dealing with stress at work, using Cognitive Behavioral Therapy."
 ---
 
 ## DevFest WI 2023

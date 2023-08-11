@@ -23,3 +23,7 @@ After listening to this talk, you will gain insights about yourself and your co-
 
 I created a Medium article with some of the resources I collected while researching this session. Feel free to check that out [here](https://medium.com/@rosslarsonWI/resources-for-impostor-syndrome-empathy-and-advoacy-dc40d8c3594e).
 
+Here's a selfie that I took on the morning of the event!
+
+![Selfie from DevFest WI 2022](/img/confs/2022/devfestWI2022-selfie.jpg)
+

@@ -2,9 +2,9 @@
 title: 'Impostor Syndrome and Advocacy'
 date: "2022-08-18T00:30:00Z"
 url: "/talks/impostor-syndrome-devfestwi/"
-event: "DevFest WI"
+event: "DevFest WI 2022"
 location: "Memorial Union, University of Wisconsin-Madison, 800 Langdon St, Madison, WI 53703"
-site: "https://www.devfestwi.com/schedule"
+site: "https://www.devfestwi.com/2022/schedule"
 video: ""
 slides: "/slides/impostor-syndrome-devfestwi/"
 thumbnail: "/talks/images/devfest-flower.png"

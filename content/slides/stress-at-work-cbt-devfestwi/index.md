@@ -82,6 +82,13 @@ background-image: url(images/agenda-slide2.jpg)
 
 ???
 
+Today, we will:
+- Learn about stress.
+- Learn about Cognitive Behavioral Therapy
+- Work through a stressful situation
+- Work through a situation that gives you anxiety
+- And.... Leave with no problems!
+
 I want each of you to think of one situation that brings you stress, and one situation that's been causing you a lot of anxiety lately.  We'll be working on them later.
 
 ---
@@ -97,7 +104,7 @@ I have a psychology degree, but I am a software developer, not a therapist.
 
 I'm trying to give you a useful summary that you can use either by yourself or with a therapist.
 
-I'm not saying going to therapy is wrong.  I've been to therapy plenty of times in the last year.
+I'm not saying going to therapy is wrong.  I've been to therapy plenty of times.
 
 ---
 class: img-caption
@@ -107,7 +114,7 @@ class: img-caption
 
 ???
 
-Most stock photos about workplace stress look like this.  It's a person, wearing a suit, with a hand on their face, surrounded by piles of paper.
+Most stock photos about workplace stress look like this.  It's a white dude, wearing a suit, with a hand on his face, surrounded by piles of paper.
 
 Looking at stock photos of stressed people is depressing, so I'm making the executive decision to only have this one and to have animal pictures for the rest of the presentation.
 
@@ -140,9 +147,9 @@ class: img-caption
 
 ???
 
-Before we get too far, I'd like to talk about stress for a bit.  We're not going to be very good at dealing with stress if we haven't defined what it is.
+Before we get too far, I'd like to talk about stress for a bit.  We're not going to be very good at dealing with stress if we don't understand what it is.
 
-I'm going to go with the American Psychological Assocation on how to define stress in this session.
+I'm going to go with the American Psychological Association on how to define stress in this session.
 
 ---
 class: img-caption
@@ -157,7 +164,7 @@ According to the American Psychological Association, there are three types of st
 
 All stress involves three sets of emotions, though.
 
-It's some some combination of anger/irritability, anxiety and depression, the three stress emotions.
+It's some combination of anger/irritability, anxiety and depression, the three stress emotions.
 
 ---
 class: img-left-full
@@ -176,7 +183,7 @@ class: img-left-full
 
 Acute stress comes from demands and pressures of the recent past and anticipated demands and pressures of the near future.
 
-Acute stress is thrilling and exciting in small doses, but too much is exhausting. It causes....
+Acute stress is thrilling and exciting in small doses.
 
 ---
 class: img-left-full
@@ -189,20 +196,20 @@ class: img-left-full
 
 - Muscular problems
 
+- Sweaty palms, rapid heartbeat, cold hands/feet
+
 - Stomach, gut, and bowel problems
 
-- Sweaty palms, rapid heartbeat, cold hands/feet
 
 ???
 
-Emotional distress — the three stress emotions: anger/irritability, anxiety, and depression.
+Temporary overarousal leads to a variety of effects, many of which you are familiar with. 
 
-Muscular problems including headaches, back pain, jaw pain and muscular tension.
+Emotional distress happens: anger or irritability, anxiety, and depression.
 
-A variety of stomach conditions that often end up in Pepto Bismol commercials.
+Muscular problems are usually tension-related: headaches, back pain, and jaw pain.
 
-Temporary overarousal leads to a variety of physical effects, many of which you are familiar with. Think of the Enimem song "lose yourself" without the spaghetti on your mom's sweater.
-(Elevation in blood pressure, rapid heartbeat, sweaty palms, heart palpitations, dizziness, migraine headaches, cold hands or feet, shortness of breath and chest pain.)
+A variety of stomach conditions result. I'll spare the details here.
 
 Acute stress can crop up in anyone's life, and it is highly treatable and manageable.
 
@@ -224,8 +231,9 @@ class: img-caption
 ![Excited puppy](images/puppy2.jpg)
 
 ???
+The first type? Type A personalities.
 
-Type A's have an "excessive competitive drive, aggressiveness, impatience, and a harrying sense of time urgency." In addition there is a "free-floating, but well-rationalized form of hostility, and almost always a deep-seated insecurity." These folks have a higher risk of cardiac issues.
+Type A's have an "excessive competitive drive, aggressiveness, impatience, and a harrying sense of time urgency." In addition, there is a "free-floating, but well-rationalized form of hostility, and almost always a deep-seated insecurity." These folks have a higher risk of cardiac issues.
 
 ---
 class: img-caption
@@ -233,8 +241,9 @@ class: img-caption
 ![Red Lemur](images/redlemur1.jpg)
 
 ???
+The second type? Worry warts.
 
-"Worry warts" see disaster around every corner and pessimistically forecast catastrophe in every situation. The world is a dangerous, unrewarding, punitive place where something awful is always about to happen. These "awfulizers" also tend to be over aroused and tense, but are more anxious and depressed than angry and hostile.
+"Worry warts" see disaster around every corner and pessimistically forecast catastrophe in every situation. The world is a dangerous, unrewarding, punitive place where something awful is always about to happen. These "awful-izers" also tend to be over-aroused and tense, but are more anxious and depressed than angry and hostile.
 
 ---
 class: img-caption, no-footer
@@ -242,6 +251,7 @@ class: img-caption, no-footer
 # Chronic Stress
 
 ???
+The third kind of stress is chronic stress.
 
 Chronic Stress is serious stuff.  Like, change your brain chemistry permanently kind of stuff.
 
@@ -402,7 +412,7 @@ Then, think of an alternative!
 
 ???
 
-Our first exercise is the cognitive model. Using the first stressful situation you thought of, start by writing how the the situation starts.
+Our first exercise is the cognitive model. Using the first stressful situation you thought of, start by writing how the situation starts.
 
 Try to write out the thoughts that immediately come to mind in reaction to this situation.
 
@@ -429,8 +439,13 @@ class: img-caption
 # (Some of) My irrational thoughts
 
 ???
+About five years ago, I survived an office mass shooting.
 
 I have trouble with loud noises sometimes.
+
+I had to work very hard to combat the reactions that my mind and bad had to loud sounds in the weeks and months after everything happened.
+
+Things are better now, but I'm still a work in progress.
 
 ---
 class: img-caption
@@ -465,50 +480,29 @@ class: img-caption
 
 ???
 
-(Depending on time) Would anyone like to share their irrational thought? I'll share my example afterwards.
-
----
-class: img-caption
-![Red Panda](images/redpanda1.jpg)
-# The MCSA Situation
-
-???
-
-Our company discovered an issue with our participation in the Microsoft Partner program.
-
-We were short several employees with MCSA certifications.
-
-We discovered this much later than we would have liked.
-
-After agreeing to help, I was flooded with anxiety. I thought everyone was counting on me now.
-
----
-class: img-left
-![I passed!](images/Ross-MCSA1.jpg)
-# Result of my behavior:
-
-## MCSA:
-
-## Web Applications!
+(Depending on time) Would anyone like to share their irrational thought? 
 
 ---
 class: img-left
 
 ![Japanese Red Squirrel](images/japanese-red-squirrel1.jpg)
 
-# Using CBT concepts to make better requests.
-
-When you make a request:
+# Using CBT concepts to make better requests!
 
 - Describe the situation
 
-- Mention your reactions/thoughts/feelings
+- Mention your reactions, thoughts, and feelings
 
 - Request the desired behavior
 
 ???
 
-You can use these same tools to ask for things more effectively. Make sure your request addresses the situation, talks about the effect, and leads you to request the change or desired action.
+You can use these same tools to ask for things more effectively. 
+
+Make sure: 
+- your request addresses the situation, 
+- talks about the effect, 
+- and leads you to request the change or desired action.
 
 ---
 class: img-caption
@@ -519,7 +513,7 @@ class: img-caption
 
 Each of our lives is a story.
 
-Our story is how we make sense of what is happening around us, as well as what's happening inside of us.
+Our story is how we make sense of what is happening around us, as well as what's happening inside us.
 
 We tell this story to ourselves, often without realizing it.
 

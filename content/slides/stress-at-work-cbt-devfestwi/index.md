@@ -12,23 +12,6 @@ themes:
 classes:
 - feature-qrcode
 ---
-background-image: url(images/FF22SponsorSlide.png)
-background-size: cover
-
-???
-
-# Welcome to Forward Fest!
-
-- Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.-
----
-background-image: url(images/DevFestWI-sponsors.png)
-background-size: cover
-
-???
-
-# Welcome to DevFest WI!
-## Thanks so much, sponsors!
----
 class: title, smokescreen, shelf, no-footer
 background-image: url(images/leo-serrat-533922-unsplash.jpg)
 
@@ -50,6 +33,7 @@ class: img-left
 - Luther College Alumnus - Psychology / French majors
 - Forward Fest Board Member
 - Admin, Madison, WI Slack
+- Organizer, Startup Weekend Madison 2024
 - Forward Madison FC Fan
 - Survivor
 

@@ -23,7 +23,7 @@ In this session, you will learn about what Cognitive Behavioral Therapy is, and 
 We will go over tips and tricks to deal with workplace stressors, big and small. I will share my experiences with workplace trauma and stress to give you some perspective.
 You will leave this session with tools to handle your stress at work, helping you to handle situations that may have seemed impossible before.
 
-Below are some links to resources that I found helpful in preparing for this talk.  I would like to extend special thanks to [Sue Gill, PHD](http://www.madisontherapy.com/about.html) and [Susan Levin, PsyD](http://susanlevinpsyd.com/), for their assistance over the last year.
+Below are some links to resources that I found helpful in preparing for this talk.  I would like to extend special thanks to [Sue Gill, PHD](http://www.madisontherapy.com/about.html) and [Susan Levin, PsyD](http://susanlevinpsyd.com/), for their assistance over the last five years.
 
 - [Here](https://www.apa.org/helpcenter/stress-kinds) is a page from the American Psychological association describing the different types of stress.
 

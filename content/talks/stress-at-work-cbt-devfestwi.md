@@ -50,3 +50,5 @@ Below are some links to resources that I found helpful in preparing for this tal
 
 - [How to grow from your pain](https://markmanson.net/how-to-grow-from-your-pain). An article about life after trauma from [Mark Manson](https://markmanson.net/), author of [The Subtle Art of Not Giving a F*ck](https://markmanson.net/books/subtle-art).
 
+Here's a picture of me at the UW Memorial Union right after my talk:
+![2019 Lanyard](/img/confs/2023/devFest2023-MemorialUnion.jpg)

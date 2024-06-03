@@ -1,10 +1,10 @@
 ---
-title: 'Finding Your Voice'
+title: 'Finding Your Voice - Becoming a speaker'
 date: "2024-05-22T02:21:49Z"
 url: "/talks/finding-your-voice/"
-event: ""
-location: ""
-site: ""
+event: "DevFest WI 2024"
+location: "Memorial Union, University of Wisconsin-Madison, 800 Langdon St, Madison, WI 53703"
+site: "https://www.devfestwi.com/2024/schedule"
 video: ""
 slides: "/slides/finding-your-voice/"
 thumbnail: "/talks/images/devfest-coloredpencil.png"

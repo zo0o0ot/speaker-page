@@ -3,7 +3,8 @@ title: Finding Your Voice
 date: "2024-05-22T02:25:18Z"
 url: "/slides/finding-your-voice/"
 image: "/slides/finding-your-voice/cover.jpg"
-description: "Slides for DevFest WI 2023 talk about Stress and Cognitive Behavioral Therapy - August 24, 2023 in Madison, WI."
+thumbnail: "/talks/images/devfest-coloredpencil.png"
+description: "Slides for DevFest WI 2024 talk about becoming a tech speaker - August 22, 2024 in Madison, WI."
 ratio: "16:9"
 themes:
 - apron
@@ -12,18 +13,26 @@ themes:
 classes:
 - feature-qrcode
 ---
+background-image: url(images/FindYourVoice.png)
+background-size: cover
+
+???
+
+# Finding your voice! Image slide.
+
+- Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.
+
+---
 class: title, smokescreen, shelf, no-footer
-background-image: url(images/DevFestWI-sponsors.png)
+background-image: url(images/FindYourVoice.png)
 
-# Stress at Work
+# Finding Your Voice
 
-## Changing the Narrative with Cognitive Therapy
+## Becoming a (tech) speaker
 
 ???
 
 Make sure you're in the right room! Which is funny, since there's only one room where talks are happening.
-
----
 
 ---
 class: img-left

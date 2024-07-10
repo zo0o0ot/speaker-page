@@ -63,4 +63,58 @@ Hi. I'm Ross.
 Slides are at https://rosslarson.com/slides/ or you can scan the QR code.
 
 - Ask questions anytime
+---
+# Let's find our voices, together
+- Learning about yourself
+- Getting comfortable with speaking
+- Submitting talks to conferences
+- Getting accepted and preparing to speak
 
+???
+
+Hey folks.  Here's the outline of the time we're spending together.
+---
+# Learning about yourself
+
+???
+
+Who you are helps give you the unique perspective that other people want to hear.
+---
+# What's unique about you?
+
+???
+
+Think about the things that are unique with you
+
+---
+# What are you proud of?
+
+???
+
+Think of something that you've done recently that you're proud of.
+
+---
+# What do you want to learn?
+
+???
+
+Think about what you would like to learn.
+---
+# What could you passionately discuss RIGHT NOW?
+
+???
+
+What's on your mind right now that you could talk about for 5 minutes with no preparation?
+---
+# Find your why.
+
+???
+
+Why do you want to speak?
+---
+# Be the person you needed when you were younger.
+
+???
+
+What's the advice you needed to hear? Who did you need when you were starting out?  Maybe, you can be that person.
+---

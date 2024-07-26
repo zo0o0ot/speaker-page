@@ -135,3 +135,34 @@ Why do you want to speak?
 
 What's the advice you needed to hear? Who did you need when you were starting out?  Maybe, you can be that person.
 ---
+# Getting comfortable speaking in front of people
+
+???
+
+You should realize by now that you definitely have insight and information to share.  Now, let's go over some ways to become more at ease with speaking in front of people.
+
+---
+# Play a game!
+
+???
+
+One of the ways to get better at speaking is to play games that encourage you to think and synthesize on your feet. There are games that you can play to get better at this.  [Ultraspeaking](https://app.ultraspeaking.com/games/dashboard) has games like this.
+---
+# Turn on your camera, and speak for 3-5 minutes about anything.
+
+???
+
+Strangely enough, one of the best ways to get more comfortable speaking is to record yourself doing it.  One way to do it is to do it and then delete the recording, and the other way is to look at the video and  
+---
+# Turn on your camera, and speak for 3-5 minutes about anything.
+
+???
+
+Strangely enough, one of the best ways to get more comfortable speaking is to record yourself doing it.  One way to do it is to do it and then delete the recording, and the other way is to look at the video and  
+---
+# Find a meetup, and ask to speak!
+
+???
+
+Another way to get more comfortable with speaking is to just go and do it.  Sure, it starts a bit scary, but it gets easier, and you get better! 
+---

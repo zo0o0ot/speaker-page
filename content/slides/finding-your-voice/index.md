@@ -39,7 +39,7 @@ Make sure you're in the right room! Which is funny, since there's only one room 
 class: img-left
 # About Me
 
-![Selfie](images/ross1.jpg)
+![Selfie](images/Ross-July2024-1080.png)
 
 - Software Developer at Paradigm
 - Luther College Alumnus - Psychology / French majors

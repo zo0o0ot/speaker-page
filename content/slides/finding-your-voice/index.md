@@ -65,17 +65,22 @@ Slides are at https://rosslarson.com/slides/ or you can scan the QR code.
 
 - Ask questions anytime
 ---
-# You can do this.
+background-image: url(images/we-need-you-point-2.png)
+
 
 ???
 
 I'm going to start with the main point. You can do this. I'd like to help show you how.
 ---
+class: col-2
+
 # Let's find our voices, together
 - Learning about yourself
 - Getting comfortable speaking in public
 - Submitting talks to conferences
 - Getting accepted and preparing to speak
+
+![people-together](images/people-background.png)
 
 ???
 
@@ -85,27 +90,34 @@ Here's the outline of the time we're spending together.
 - I'm going to talk about the process of submitting to conferences
 - I'm also going to review the process from getting accepted to being ready to speak.
 ---
-# Learning about yourself
+class: img-caption
+# Learning about yourself - The Lens
 
+![lenses](images/types-of-camera-lenses-featured-800x420.webp)
 ???
 
 - Who you are helps give you the unique perspective that other people want to hear.
 - You and your experiences are the lens that you use to view and present a subject.
----
-# What's unique about you?
-
-???
 
 Think about 3-5 things that are unique about you.
 The combination of seemingly common things might make you unique.
 Examples:
-- Where and how you grew up
+- Where, when, and how you grew up
 - What you chose to study
 - What you spend your time doing (job, hobbies)
+- Groups you belong to
+- These things are the lens 
 
 ---
+class: col-2
 # What are you proud of?
 
+- Achievements
+- Interesting hacks
+- Overcoming challenges
+- Reinvention
+
+![award](images/award.png# maxw-5)
 ???
 
 Think of something that you've done recently that you're proud of.
@@ -166,3 +178,8 @@ Strangely enough, one of the best ways to get more comfortable speaking is to re
 
 Another way to get more comfortable with speaking is to just go and do it.  Sure, it starts a bit scary, but it gets easier, and you get better! 
 ---
+ ### Credits
+- Picture of a finger based on Uncle Sam index finger from [pngegg](https://www.pngegg.com/en/png-skbnq)
+- Picture of people silhouettes from [pngegg](https://www.pngegg.com/en/png-zvrmp)
+- Camera lenses from [Petapixel guide on camera lenses](https://petapixel.com/types-of-camera-lenses/)
+- Award ribbon from [pngegg](https://www.pngegg.com/en/png-ipdkr)

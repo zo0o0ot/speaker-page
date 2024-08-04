@@ -132,6 +132,7 @@ class: img-left
 
 - Learn a language or framework
 - Improve a11y on a site or app
+- Shoehorn AI into something
 - Start a new meetup group
 
 ???
@@ -175,13 +176,8 @@ One of the ways to get better at speaking is to play games that encourage you to
 
 ???
 
-Strangely enough, one of the best ways to get more comfortable speaking is to record yourself doing it.  One way to do it is to do it and then delete the recording, and the other way is to look at the video and  
----
-# Turn on your camera, and speak for 3-5 minutes about anything.
+One of the best ways to get more comfortable speaking is to record yourself doing it.  One way to do it is to do it and then delete the recording, and the other way is to look at the video and mute the sound.
 
-???
-
-Strangely enough, one of the best ways to get more comfortable speaking is to record yourself doing it.  One way to do it is to do it and then delete the recording, and the other way is to look at the video and  
 ---
 # Find a meetup, and ask to speak!
 

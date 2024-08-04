@@ -118,16 +118,27 @@ class: col-2
 - Reinvention
 
 ![award](images/award.png# maxw-5)
+
 ???
 
-Think of something that you've done recently that you're proud of.
+- Think of something that you've done recently that you're proud of.
+- Insights about things that make you proud could be useful to others. 
 
 ---
-# What do you want to learn?
+class: img-left
+# What do you want to learn or to do?
+
+![books](images/stack-of-books.png)
+
+- Learn a language or framework
+- Improve a11y on a site or app
+- Start a new meetup group
 
 ???
 
-Think about what you would like to learn.
+Think about what you would like to learn. 
+- I can tell you from experience that there is no motivation quite like discussing the topic in front of other people.
+- Think about what you would to if you weren't afraid, then do that.
 ---
 # What could you passionately discuss RIGHT NOW?
 
@@ -141,7 +152,7 @@ What's on your mind right now that you could talk about for 5 minutes with no pr
 
 Why do you want to speak?
 ---
-# Be the person you needed when you were younger.
+# Have some advice? Be the person you needed when you were younger.
 
 ???
 
@@ -160,7 +171,7 @@ You should realize by now that you definitely have insight and information to sh
 
 One of the ways to get better at speaking is to play games that encourage you to think and synthesize on your feet. There are games that you can play to get better at this.  [Ultraspeaking](https://app.ultraspeaking.com/games/dashboard) has games like this.
 ---
-# Turn on your camera, and speak for 3-5 minutes about anything.
+# Turn on your camera/phone, and speak for 3-5 minutes about anything.
 
 ???
 
@@ -178,8 +189,9 @@ Strangely enough, one of the best ways to get more comfortable speaking is to re
 
 Another way to get more comfortable with speaking is to just go and do it.  Sure, it starts a bit scary, but it gets easier, and you get better! 
 ---
- ### Credits
-- Picture of a finger based on Uncle Sam index finger from [pngegg](https://www.pngegg.com/en/png-skbnq)
-- Picture of people silhouettes from [pngegg](https://www.pngegg.com/en/png-zvrmp)
+ ### Image Credits
+- Pointing finger based on Uncle Sam index finger from [pngegg](https://www.pngegg.com/en/png-skbnq)
+- People silhouettes from [pngegg](https://www.pngegg.com/en/png-zvrmp)
 - Camera lenses from [Petapixel guide on camera lenses](https://petapixel.com/types-of-camera-lenses/)
 - Award ribbon from [pngegg](https://www.pngegg.com/en/png-ipdkr)
+- Stack of books from [pngegg](https://www.pngegg.com/en/png-exeli)

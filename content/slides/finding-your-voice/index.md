@@ -39,7 +39,7 @@ Make sure you're in the right room! Which is funny, since there's only one room 
 class: img-left
 # About Me
 
-![Selfie](images/Ross-July2024-1080.png)
+![Selfie](images/Ross-July2024-1080.png# maxh-6)
 
 - Software Developer at Paradigm
 - Luther College Alumnus - Psychology / French majors
@@ -141,17 +141,43 @@ Think about what you would like to learn.
 - I can tell you from experience that there is no motivation quite like discussing the topic in front of other people.
 - Think about what you would to if you weren't afraid, then do that.
 ---
-# What could you passionately discuss RIGHT NOW?
+class: img-right
+# 3 subjects you could tell me about, TODAY?
+
+![books](images/nms.jpg# maxh-6)
+
+- Explain for 5 minutes
+- Doesn't have to be tech
+- Something that has your interest
+- Consider the audience
+
 
 ???
 
 What's on your mind right now that you could talk about for 5 minutes with no preparation?
+
+- It can be any topic
+- It just needs to capture your interest
+- When you speak, consider if your audience is completely unfamiliar with the subject, has beginner knowledge, or has similar knowledge to you
+
 ---
-# Find your why.
+class: img-caption
+ # Find your why.
+
+![q](images/q4.png)
 
 ???
 
 Why do you want to speak?
+- For better job prospects?
+- For confidence?
+- For the community?
+- To learn?
+- To teach?
+- To connect?
+- To share?
+
+Ultimately, you're going to need to come up with your own reason.
 ---
 # Have some advice? Be the person you needed when you were younger.
 
@@ -191,3 +217,5 @@ Another way to get more comfortable with speaking is to just go and do it.  Sure
 - Camera lenses from [Petapixel guide on camera lenses](https://petapixel.com/types-of-camera-lenses/)
 - Award ribbon from [pngegg](https://www.pngegg.com/en/png-ipdkr)
 - Stack of books from [pngegg](https://www.pngegg.com/en/png-exeli)
+- Screenshot by me from the game [No Man's Sky](https://www.nomanssky.com/) by Hello Games
+- Question mark from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/c/c8/Question_mark_1.svg)

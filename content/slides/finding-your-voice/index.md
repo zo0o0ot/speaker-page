@@ -199,10 +199,27 @@ class:img-caption
 One of the ways to get better at speaking is to play games that encourage you to think and synthesize on your feet. There are games that you can play to get better at this.  [Ultraspeaking](https://app.ultraspeaking.com/games/dashboard) has games like this.
 ---
 class:img-caption
+# Make a Lightning Talk!
+![lightning](images/lightning.png)
+???
+
+A lightning talk is:
+- a short, often five to ten-minute, focused presentation. 
+
+These talks quickly: 
+ - share a new idea 
+ - spark interest 
+ - bring insight
+ - or breakdown a topic
+---
+class:img-caption
 # Turn on your camera/phone, and talk.
 ![autocomplete-game](images/filmYourself.png)
+
 ???
-Turn on your camera/phone, and speak for 3-5 minutes about anything.
+- Turn on your camera/phone, 
+- give your lightning talk, or just speak for 3-5 minutes about anything.
+- Speak as if you're talking to a friend.
 
 One of the best ways to get more comfortable speaking is to record yourself doing it.  One way to do it is to do it and then delete the recording, and the other way is to look at the video and mute the sound.
 ---
@@ -228,6 +245,7 @@ class:img-caption
 - The first time is a bit scary, but it gets easier, and you get better! 
 - Note: this advice is easier if it's the year 2019 or before, but we're working on it.
 ---
+class:compact
  ### Image Credits
 - Pointing finger based on Uncle Sam index finger from [pngegg](https://www.pngegg.com/en/png-skbnq)
 - People silhouettes from [pngegg](https://www.pngegg.com/en/png-zvrmp)
@@ -237,7 +255,8 @@ class:img-caption
 - Screenshot by me from the game [No Man's Sky](https://www.nomanssky.com/) by Hello Games
 - Question mark from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/c/c8/Question_mark_1.svg)
 - Speaker on cube from [pngegg](https://www.pngegg.com/en/png-iqbqz)
+- lightning from [pngegg](https://www.pngegg.com/en/png-bemds)
 - gif of game is from [Ultraspeaking](https://app.ultraspeaking.com/games/dashboard)
-- selfie video is from Self-Recording Video Tutorial on (University of Rochester Youtube channel)[https://youtu.be/BgUAlw4myrs?si=3uCsxzWdK3-IP8Xv]
+- selfie from Self-Recording Video Tutorial on [University of Rochester Youtube channel](https://youtu.be/BgUAlw4myrs?si=3uCsxzWdK3-IP8Xv)
 - Video of me, courtesy of my face
 - Picture is of Madhackers meetup in 2019, picture taken by me

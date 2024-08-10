@@ -176,40 +176,57 @@ Why do you want to speak?
 - To teach?
 - To connect?
 - To share?
-
+- What's the advice you needed to hear? Who did you need when you were starting out?  Maybe, you can be that person.
 Ultimately, you're going to need to come up with your own reason.
 ---
-# Have some advice? Be the person you needed when you were younger.
-
-???
-
-What's the advice you needed to hear? Who did you need when you were starting out?  Maybe, you can be that person.
----
+class: img-caption
 # Getting comfortable speaking in front of people
+![speaker](images/speaker2.png)
 
 ???
+You should realize by now that you definitely have insight and information to share. 
 
-You should realize by now that you definitely have insight and information to share.  Now, let's go over some ways to become more at ease with speaking in front of people.
+You have found the power of the glow, and you know what you want to talk about.
+
+Let's get more comfortable talking about it.
 
 ---
+class:img-caption
 # Play a game!
-
+![autocomplete-game](images/autocomplete-speaking.gif)
 ???
 
 One of the ways to get better at speaking is to play games that encourage you to think and synthesize on your feet. There are games that you can play to get better at this.  [Ultraspeaking](https://app.ultraspeaking.com/games/dashboard) has games like this.
 ---
-# Turn on your camera/phone, and speak for 3-5 minutes about anything.
-
+class:img-caption
+# Turn on your camera/phone, and talk.
+![autocomplete-game](images/filmYourself.png)
 ???
+Turn on your camera/phone, and speak for 3-5 minutes about anything.
 
 One of the best ways to get more comfortable speaking is to record yourself doing it.  One way to do it is to do it and then delete the recording, and the other way is to look at the video and mute the sound.
-
 ---
+class:img-caption
+# Review your footage.
+![me-speaking](images/ross-speaking.webp)
+???
+- Review yourself in one of three ways:
+- Sound only
+- Video only
+- Video and sound
+- Try to figure out if there are habits that you would like to stop, or ways to be better
+---
+class:img-caption
 # Find a meetup, and ask to speak!
+
+![meetup-2019](images/meetup2019.webp)
 
 ???
 
-Another way to get more comfortable with speaking is to just go and do it.  Sure, it starts a bit scary, but it gets easier, and you get better! 
+- Another way to get more comfortable with speaking is to offer to do it at a meetup.  
+- Find a meetup, contact the organizer, and ask if they need any speakers.
+- The first time is a bit scary, but it gets easier, and you get better! 
+- Note: this advice is easier if it's the year 2019 or before, but we're working on it.
 ---
  ### Image Credits
 - Pointing finger based on Uncle Sam index finger from [pngegg](https://www.pngegg.com/en/png-skbnq)
@@ -219,3 +236,8 @@ Another way to get more comfortable with speaking is to just go and do it.  Sure
 - Stack of books from [pngegg](https://www.pngegg.com/en/png-exeli)
 - Screenshot by me from the game [No Man's Sky](https://www.nomanssky.com/) by Hello Games
 - Question mark from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/c/c8/Question_mark_1.svg)
+- Speaker on cube from [pngegg](https://www.pngegg.com/en/png-iqbqz)
+- gif of game is from [Ultraspeaking](https://app.ultraspeaking.com/games/dashboard)
+- selfie video is from Self-Recording Video Tutorial on (University of Rochester Youtube channel)[https://youtu.be/BgUAlw4myrs?si=3uCsxzWdK3-IP8Xv]
+- Video of me, courtesy of my face
+- Picture is of Madhackers meetup in 2019, picture taken by me

@@ -388,5 +388,6 @@ class:compact
 ---
 class:compact
  ### Image Credits - Page 2
-- CFP message courtesy of [DevFestWI CFP](https://www.devfestwi.com/news/call-for-speakers-2024)
+- CFP image message courtesy of [DevFestWI CFP blog](https://www.devfestwi.com/news/call-for-speakers-2024)
 - Tree of hands from [pngegg](https://www.pngegg.com/en/png-ptkna)
+- Mind map of this topic from me on [coggle](https://coggle.it/diagram/Zkv4VAQxRwpIgG65/t/finding-your-voice-becoming-a-speaker/381b7a555829d4004b5c861428f79e9a2313948d34539c577f43753033fb36f3)

@@ -71,6 +71,9 @@ background-image: url(images/we-need-you-point-2.png)
 ???
 
 I'm going to start with the main point. You can do this. I'd like to help show you how.
+
+- Say it with me.
+- "I have something of value to share with others"
 ---
 class: col-2
 
@@ -240,10 +243,80 @@ class:img-caption
 
 ???
 
-- Another way to get more comfortable with speaking is to offer to do it at a meetup.  
+- Another way to get more comfortable speaking is to offer to do it at a meetup.  
 - Find a meetup, contact the organizer, and ask if they need any speakers.
 - The first time is a bit scary, but it gets easier, and you get better! 
 - Note: this advice is easier if it's the year 2019 or before, but we're working on it.
+---
+class:img-caption
+# Submitting to conferences
+![talk-submissions](images/submissions.png)
+
+???
+
+OK. You're getting comfortable speaking.  Let's bring this experience to a conference!
+
+Some quick notes:
+- Not all submissions get accepted.  That's normal.
+- It's good to put some effort at this stage of the process.
+- It's common to submit more than one idea to a conference.
+---
+class:img-left-full
+# The CFP Process
+![proceess-tbd](images/submissions.png)
+---
+class: img-caption
+# Tracking your ideas
+![talk-submissions](images/talk-repo.png)
+
+???
+Here's a tip. Track your ideas somewhere.  
+
+- It's easier to look at a list of topics than to try to make them up from scratch the next time you see a call for presenters.
+- I use markdown and GitHub 
+- You can use anything as long as you can access it, add to it, and edit it. 
+---
+class:img-right-full
+# Idea format:
+
+- Title 
+- Format
+- Description
+- Audience
+- Outcomes / Conclusions
+- Outline
+- Mind Map / Links
+- Submitted / Accepted / Given
+
+
+
+![idea-sample](images/idea-sample.png)
+
+???
+
+Not all CFP processes will send you a copy of what you write, so it's good to store somewhere.
+- Title : A brief memorable description
+- Format : How long is this talk? Is it a workshop? Lightning talk?
+- Description : 3-5 sentences describing the content and goals of the talk.
+- Audience : Who are the people you are trying to reach? Job? Experience level?
+- Outcomes / Conclusions : What should people learn or be able to do at the end of the talk?
+- Outline : What's the general structure?
+- Mind Map / Links : Links to any related material or articles, or a mind map
+- Submitted / Accepted / Given : Where have submitted this talk? 
+---
+class:img-caption
+# Finding a CFP (Call for Presenters)
+![devfest-cfp](images/devfest-cfp.png)
+???
+You want to present. Conferences need presenters.  What happens?
+- Usually, you find a CFP, or call for presenters.
+- A CFP usually indicates the date, the place, and sometimes the preferred subjects for presentation.
+- There is usually a deadline.  Pay attention to that.
+- Check your calendar, and look at your list of ideas. It's time to get to work.
+---
+class:img-caption
+# Submitting an idea
+![devfest-cfp](images/devfest-cfp.png)
 ---
 class:compact
  ### Image Credits
@@ -260,3 +333,5 @@ class:compact
 - selfie from Self-Recording Video Tutorial on [University of Rochester Youtube channel](https://youtu.be/BgUAlw4myrs?si=3uCsxzWdK3-IP8Xv)
 - Video of me, courtesy of my face
 - Picture is of Madhackers meetup in 2019, picture taken by me
+- Submission page is a partial list of my submissions to THAT Conference.
+- Talk ideas page is a screenshot of my [talk ideas repo](https://github.com/zo0o0ot/talk-spot), based off of [mercedesb](https://github.com/mercedesb/talk-spot)

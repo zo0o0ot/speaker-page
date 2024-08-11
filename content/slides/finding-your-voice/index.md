@@ -263,7 +263,27 @@ Some quick notes:
 ---
 class:img-left-full
 # The CFP Process
-![proceess-tbd](images/submissions.png)
+- Refine your ideas/topics
+- Find Calls for Speakers / CFPs
+- Understand your due dates
+- Find mentors and community
+- Submit your topic(s)
+- Find out the selectioned topics
+
+![process](images/checklist.png)
+
+???
+
+If you want to speak, it's good to know the process to follow to become a speaker.
+Generally, a few steps follow.
+- We've been working on the idea and speaking process so far.
+- Next, find places that are looking for speakers.
+- Understand what they want, and when they want it.
+- Get any help from the organizers or community
+- Then submit your stuff ON TIME!
+- Hopefully, things go well from there.
+
+Let's go into the process in some more detail.
 ---
 class: img-caption
 # Tracking your ideas
@@ -272,9 +292,10 @@ class: img-caption
 ???
 Here's a tip. Track your ideas somewhere.  
 
-- It's easier to look at a list of topics than to try to make them up from scratch the next time you see a call for presenters.
+- It's easier to look at a list of ideas and refined topics than to try to make them up from scratch the next time you see a call for presenters.
 - I use markdown and GitHub 
 - You can use anything as long as you can access it, add to it, and edit it. 
+- Not all CFP processes will send you a copy of what you write, so it's good to store somewhere.
 ---
 class:img-right-full
 # Idea format:
@@ -293,8 +314,8 @@ class:img-right-full
 ![idea-sample](images/idea-sample.png)
 
 ???
+What I'm showing you isn't a standard thing, but it is what I use to track my ideas.
 
-Not all CFP processes will send you a copy of what you write, so it's good to store somewhere.
 - Title : A brief memorable description
 - Format : How long is this talk? Is it a workshop? Lightning talk?
 - Description : 3-5 sentences describing the content and goals of the talk.
@@ -308,10 +329,10 @@ class:img-caption
 # Finding a CFP (Call for Presenters)
 ![devfest-cfp](images/devfest-cfp.png)
 ???
-You want to present. Conferences need presenters.  What happens?
+You have ideas. You want to present. Conferences need presenters.  What happens?
 - Usually, you find a CFP, or call for presenters.
 - A CFP usually indicates the date, the place, and sometimes the preferred subjects for presentation.
-- There is usually a deadline.  Pay attention to that.
+- There is usually a deadline, several months before the conference.  Pay attention to that.
 - Check your calendar, and look at your list of ideas. It's time to get to work.
 ---
 class:img-caption

@@ -356,6 +356,13 @@ Good question.
 - Ask for feedback, then listen to the suggestions. Lather, rinse, repeat!
 ---
 class:img-caption
+# Oh, wait. I got accepted? Now what?
+![mind map](images/spongebob.png)
+???
+# Congrats, you got accepted! Now what?
+- Well, let's get you ready for your talk.
+---
+class:img-caption
 # The Mind Map
 ![mind map](images/mind-map.png)
 ???

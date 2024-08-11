@@ -374,6 +374,14 @@ Not everyone does this, but I get value from making a mind map.
 - Connect supporting information on your points
 - Link related blog posts or videos, if applicable.
 ---
+background-image: url(images/groovy-template.png)
+background-size: cover
+
+???
+# Picking the template
+- Don't put in too much effort here.
+- Match your personality, but don't let it detract from your message.
+---
 class:compact
  ### Image Credits
 - Pointing finger based on Uncle Sam index finger from [pngegg](https://www.pngegg.com/en/png-skbnq)
@@ -397,5 +405,6 @@ class:compact
  ### Image Credits - Page 2
 - CFP image message courtesy of [DevFestWI CFP blog](https://www.devfestwi.com/news/call-for-speakers-2024)
 - Tree of hands from [pngegg](https://www.pngegg.com/en/png-ptkna)
-- Mind map of this topic from me on [coggle](https://coggle.it/diagram/Zkv4VAQxRwpIgG65/t/finding-your-voice-becoming-a-speaker/381b7a555829d4004b5c861428f79e9a2313948d34539c577f43753033fb36f3)
 - Picture of spongebob from [pngegg](https://www.pngegg.com/en/png-wgowq).
+- Mind map of this topic from me on [coggle](https://coggle.it/diagram/Zkv4VAQxRwpIgG65/t/finding-your-voice-becoming-a-speaker/381b7a555829d4004b5c861428f79e9a2313948d34539c577f43753033fb36f3)
+- Groovy template from [Slidesgo](https://slidesgo.com/theme/groovy-aesthetic-consulting)

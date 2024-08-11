@@ -323,21 +323,49 @@ What I'm showing you isn't a standard thing, but it is what I use to track my id
 - Outcomes / Conclusions : What should people learn or be able to do at the end of the talk?
 - Outline : What's the general structure?
 - Mind Map / Links : Links to any related material or articles, or a mind map
-- Submitted / Accepted / Given : Where have submitted this talk? 
+- Submitted / Accepted / Given : Where have you submitted this talk? Track the progress.
 ---
 class:img-caption
-# Finding a CFP (Call for Presenters)
+# Finding a CfP (Call for Presenters)
 ![devfest-cfp](images/devfest-cfp.png)
 ???
 You have ideas. You want to present. Conferences need presenters.  What happens?
-- Usually, you find a CFP, or call for presenters.
+- Usually, you find a CFP, or call for presenters/papers.
 - A CFP usually indicates the date, the place, and sometimes the preferred subjects for presentation.
 - There is usually a deadline, several months before the conference.  Pay attention to that.
 - Check your calendar, and look at your list of ideas. It's time to get to work.
 ---
 class:img-caption
-# Submitting an idea
-![devfest-cfp](images/devfest-cfp.png)
+# Submitting a talk
+![that-submission](images/submitting3.png)
+???
+- Some conferences have something like a google form
+- Other conferences have more complex interfaces
+- Determine if your entry can be edited, or if it should be considered complete on submission.
+- If you're new, it is 100% OK to ask for feedback before you submit.
+---
+class:img-caption
+# Finding mentors and help
+![hand-tree](images/hand-tree.png)
+???
+# How do I ask for help?
+Good question.
+- First, look for the official channels. Does the CFP list any email address?
+- Next, look for any official conference Slack or Discord channels, and social media
+- Then, use anyone that you know in your personal network.
+- Ask for feedback, then listen to the suggestions. Lather, rinse, repeat!
+---
+class:img-caption
+# The Mind Map
+![mind map](images/mind-map.png)
+???
+Not everyone does this, but I get value from making a mind map.
+- It helps me understand my main points before I make slides
+- It also helps me understand how much time I might want to spend on each concept
+- Generally, you put the main topic at the center
+- Connect your main point to the center
+- Connect supporting information on your points
+- Link related blog posts or videos, if applicable.
 ---
 class:compact
  ### Image Credits
@@ -356,3 +384,9 @@ class:compact
 - Picture is of Madhackers meetup in 2019, picture taken by me
 - Submission page is a partial list of my submissions to THAT Conference.
 - Talk ideas page is a screenshot of my [talk ideas repo](https://github.com/zo0o0ot/talk-spot), based off of [mercedesb](https://github.com/mercedesb/talk-spot)
+- Talk format image is of my FindingYourVoice.md markdown file on [GitHub](https://github.com/zo0o0ot/talk-spot/blob/master/SoftSkills/FindingYourVoice.md)
+---
+class:compact
+ ### Image Credits - Page 2
+- CFP message courtesy of [DevFestWI CFP](https://www.devfestwi.com/news/call-for-speakers-2024)
+- Tree of hands from [pngegg](https://www.pngegg.com/en/png-ptkna)

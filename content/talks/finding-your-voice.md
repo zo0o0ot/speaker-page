@@ -16,7 +16,7 @@ description: ""
 Day: Thur, Aug 22 
 
 # Finding your voice - Becoming a (tech) speaker
-(Note: Slides are still in progress) This is an overview of steps that you can take to find your own voice and take the steps to feel more comfortable becoming a public speaker.
+This is an overview of steps that you can take to find your own voice and take the steps to feel more comfortable becoming a public speaker.
 
 ## Format
 Regular session 
@@ -42,7 +42,7 @@ This presentation covers several topics:
 - [Mind Map in Coggle](https://coggle.it/diagram/Zkv4VAQxRwpIgG65/t/finding-your-voice-becoming-a-speaker/381b7a555829d4004b5c861428f79e9a2313948d34539c577f43753033fb36f3)
 
 ## Links
-- [Virtual Coffee challenge - Finding your voice](https://virtualcoffee.io/monthlychallenges/apr-2024)
+- [Virtual Coffee Challenge - Finding your voice](https://virtualcoffee.io/monthlychallenges/apr-2024)
 - [Virtual Coffee Lightning Talk Guide](https://virtualcoffee.io/assets/pdfs/lightning-talk-guide.pdf)
 - VC Lightning talks from [2023](https://youtube.com/playlist?list=PLh9uT23TA65jtVEGgWo-DNVAcq7PnDV2r&si=L5r9djkxGLXGcjmC), [2022](https://youtube.com/playlist?list=PLh9uT23TA65gwNgoeeZ21XWlxLOwxs3Ls&si=FX3xBXJGdVryeFQn), and [2021](https://youtube.com/playlist?list=PLh9uT23TA65infGqUUaVibI0IssI0G6NY&si=chWy3mb2GB3YpiDU)
 - [Ultraspeaking blog](https://ultraspeaking.com/blog/) - Note: Ultraspeaking is a very high-cost speaking consulting service, but they also have some excellent free resources that do not require a large financial outlay.

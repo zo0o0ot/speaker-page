@@ -500,14 +500,32 @@ class:img-caption
 ???
 Questions?
 ---
-class:img-caption
-# Questions?
-![questions](images/questions.png)
+class: img-right-full
+
+![ross](images/ross-devfest.jpg)
+# Thanks!
+
+Slides are at:
+
+https://rosslarson.com/slides/
+
+Additional resource links at:
+https://rosslarson.com/talks/
+
+- @rosslarsonWI
+
+- hello@rosslarson.com
+
 ???
-Thank you!?
+
+Thanks for coming!
+
+Let me know if you want more information.
+
 ---
 class:compact
  ### Image Credits
+- Bullhorn and paint was partially AI generated, partially edited by me.
 - Pointing finger based on Uncle Sam index finger from [pngegg](https://www.pngegg.com/en/png-skbnq)
 - People silhouettes from [pngegg](https://www.pngegg.com/en/png-zvrmp)
 - Camera lenses from [Petapixel guide on camera lenses](https://petapixel.com/types-of-camera-lenses/)
@@ -523,10 +541,10 @@ class:compact
 - Picture is of Madhackers meetup in 2019, picture taken by me
 - Submission page is a partial list of my submissions to THAT Conference.
 - Talk ideas page is a screenshot of my [talk ideas repo](https://github.com/zo0o0ot/talk-spot), based off of [mercedesb](https://github.com/mercedesb/talk-spot)
-- Talk format image is of my FindingYourVoice.md markdown file on [GitHub](https://github.com/zo0o0ot/talk-spot/blob/master/SoftSkills/FindingYourVoice.md)
 ---
 class:compact
  ### Image Credits - Page 2
+- Talk format image is of my FindingYourVoice.md markdown file on [GitHub](https://github.com/zo0o0ot/talk-spot/blob/master/SoftSkills/FindingYourVoice.md)
 - CFP image message courtesy of [DevFestWI CFP blog](https://www.devfestwi.com/news/call-for-speakers-2024)
 - Tree of hands from [pngegg](https://www.pngegg.com/en/png-ptkna)
 - Picture of spongebob from [pngegg](https://www.pngegg.com/en/png-wgowq).
@@ -536,3 +554,4 @@ class:compact
 - Backpack picture from [pngegg](https://www.pngegg.com/en/png-efytp)
 - Picture of me presenting from [THAT Conference 2022 flickr](https://www.flickr.com/photos/thatconference/albums/72177720301774062/)
 - Question marks from [pngegg](https://www.pngegg.com/en/png-bwrce)
+- Picture of me at DevFest WI 2023.

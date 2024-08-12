@@ -268,7 +268,8 @@ class:img-left-full
 - Understand your due dates
 - Find mentors and community
 - Submit your topic(s)
-- Find out the selectioned topics
+- Find out the selected topics
+- Attend the event
 
 ![process](images/checklist.png)
 
@@ -321,7 +322,7 @@ What I'm showing you isn't a standard thing, but it is what I use to track my id
 - Description : 3-5 sentences describing the content and goals of the talk.
 - Audience : Who are the people you are trying to reach? Job? Experience level?
 - Outcomes / Conclusions : What should people learn or be able to do at the end of the talk?
-- Outline : What's the general structure?
+- Outline : What's the general structure of your talk?
 - Mind Map / Links : Links to any related material or articles, or a mind map
 - Submitted / Accepted / Given : Where have you submitted this talk? Track the progress.
 ---
@@ -336,15 +337,6 @@ You have ideas. You want to present. Conferences need presenters.  What happens?
 - Check your calendar, and look at your list of ideas. It's time to get to work.
 ---
 class:img-caption
-# Submitting a talk
-![that-submission](images/submitting3.png)
-???
-- Some conferences have something like a google form
-- Other conferences have more complex interfaces
-- Determine if your entry can be edited, or if it should be considered complete on submission.
-- If you're new, it is 100% OK to ask for feedback before you submit.
----
-class:img-caption
 # Finding mentors and help
 ![hand-tree](images/hand-tree.png)
 ???
@@ -354,6 +346,15 @@ Good question.
 - Next, look for any official conference Slack or Discord channels, and social media
 - Then, use anyone that you know in your personal network.
 - Ask for feedback, then listen to the suggestions. Lather, rinse, repeat!
+---
+class:img-caption
+# Submitting a talk
+![that-submission](images/submitting3.png)
+???
+- Some conferences have something like a google form
+- Other conferences have more complex interfaces
+- Determine if your entry can be edited, or if it should be considered complete on submission.
+- If you're new, it is 100% OK to ask for feedback before you submit.
 ---
 class:img-caption
 # Oh, wait. I got accepted? Now what?
@@ -373,6 +374,8 @@ Not everyone does this, but I get value from making a mind map.
 - Connect your main point to the center
 - Connect supporting information on your points
 - Link related blog posts or videos, if applicable.
+- Once most of the map is done, see where most of the content is.
+- Plan your slides around the most important points on the map.
 ---
 background-image: url(images/groovy-template.png)
 background-size: cover
@@ -380,7 +383,128 @@ background-size: cover
 ???
 # Picking the template
 - Don't put in too much effort here.
-- Match your personality, but don't let it detract from your message.
+- Match your personality and subject matter, but don't let it detract from your message.
+---
+class:col-2
+# Making your slides
+
+- Don't put everything up on your slides.
+- If you can read your presentation directly off your slides, you don't have slides, you have notes.
+- If too much information is on your slides, then the audience doesn't know whether to pay attention to the slides, or to you.
+- Images can help break up text or add context to your point.
+
+- Large amounts of text on screen can be distracting.
+- It's often better to have one slide with one point compared to one slide with six different points on it.
+- Let's face it, attention spans aren't as good as they used to be.
+- Plus, you can add more personality in slides with only some text.
+
+???
+
+class:col-2
+# Making your slides
+
+- Don't put everything up on your slides.
+- If you can read your presentation directly off your slides, you don't have slides, you have notes.
+- If too much information is on your slides, then the audience doesn't know whether to pay attention to the slides, or to you.
+- Images can help break up text or add context to your point.
+
+- Large amounts of text on screen can be distracting.
+- It's often better to have one slide with one point compared to one slide with six different points on it.
+- Let's face it, attention spans aren't as good as they used to be.
+- Plus, you can add more personality in slides with only some text.
+---
+class:img-left-full
+
+# Slides - Best Practices
+- Less is more
+- Main points on screen
+- Make bulleted lists if needed
+- Images add context
+- Write notes!
+- Contact info / how to access slides
+
+ 
+![person presenting](images/presentation.png)
+???
+- This slide isn't as busy as the last slide.
+- Only the most useful information goes on the slide.  YOU give the context.
+- The slide helps you.
+- Different slide formats are good for different content.
+- Presentation notes help you communicate the most important information.
+- Put a slide asking for questions and thanking the audience and leave your contact information
+---
+class:img-right-full,fit-h1
+# The night before the presentation
+![checklist](images/checklist.png)
+- Clothes
+- Tech
+- Practice
+- Timer
+- Review / Pack
+- Sleep
+???
+- Pick out clothes that are comfortable and help you feel confident
+- Verify if you need to bring your own tech for presenting or if it will be provided
+- Practice your slides so that you have a good idea how it's going to go.
+- Run a practice run with a timer and set general time goals on when you should get to points in your presentation.
+- That way you can understand if you're rushing or falling behind on the day.
+- Make any last minute changes, and pack your bag
+- Try to get some good sleep
+---
+class:img-left-full
+# What's in your bag?
+![backpack](images/backpack.png)
+
+- Medicine
+- Breath mints
+- Lozenges
+- Water bottle
+- Laptop / Tablet
+- Charger / Adapters
+- Business cards
+
+???
+# What should be in your bag?
+- Generally, have things with you that keep you confident and healthy.
+- Also have the things that you need to present. If you have handouts, make sure to have plenty.
+- Some folks bring business cards.  If not, plan out a way to keep contact with people that you meet.
+- That might be as simple as a piece of paper.
+
+---
+class:img-caption
+# Presentation Day
+![Ross presenting](images/net-interactive-001.jpg)
+???
+- OK, it's presentation day. 
+- There are always nerves. It's natural.
+- Hopefully, you got some sleep the night before.
+- Make good food choices.
+- Listen to your body.
+- Tell yourself "I can do this."
+- Leading up to your talk, figure out if you need to "amp up" or "chill out". Give yourself that.
+---
+class:img-caption
+# Presenting
+![questions](images/laptop-view.jpg)
+???
+- Speak clearly and confidently
+- Allow your practice and work to shine through
+- Drink water if your mouth gets dry or throat hurts
+- Communicate concepts, not specific words
+- Be aware of the clock
+- Leave time for questions
+---
+class:img-caption
+# Questions?
+![questions](images/questions.png)
+???
+Questions?
+---
+class:img-caption
+# Questions?
+![questions](images/questions.png)
+???
+Thank you!?
 ---
 class:compact
  ### Image Credits
@@ -408,3 +532,7 @@ class:compact
 - Picture of spongebob from [pngegg](https://www.pngegg.com/en/png-wgowq).
 - Mind map of this topic from me on [coggle](https://coggle.it/diagram/Zkv4VAQxRwpIgG65/t/finding-your-voice-becoming-a-speaker/381b7a555829d4004b5c861428f79e9a2313948d34539c577f43753033fb36f3)
 - Groovy template from [Slidesgo](https://slidesgo.com/theme/groovy-aesthetic-consulting)
+- Presentation icon from [pngegg](https://www.pngegg.com/en/png-emctc)
+- Backpack picture from [pngegg](https://www.pngegg.com/en/png-efytp)
+- Picture of me presenting from [THAT Conference 2022 flickr](https://www.flickr.com/photos/thatconference/albums/72177720301774062/)
+- Question marks from [pngegg](https://www.pngegg.com/en/png-bwrce)

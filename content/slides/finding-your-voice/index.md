@@ -224,7 +224,7 @@ class:img-caption
 - give your lightning talk, or just speak for 3-5 minutes about anything.
 - Speak as if you're talking to a friend.
 
-One of the best ways to get more comfortable speaking is to record yourself doing it.  One way to do it is to do it and then delete the recording, and the other way is to look at the video and mute the sound.
+One of the best ways to get more comfortable speaking is to record yourself doing it.  One way to do it is to do it and then delete the recording, but I would suggest keeping at least one recording.
 ---
 class:img-caption
 # Review your footage.
@@ -391,6 +391,7 @@ class:col-2
 - Don't put everything up on your slides.
 - If you can read your presentation directly off your slides, you don't have slides, you have notes.
 - If too much information is on your slides, then the audience doesn't know whether to pay attention to the slides, or to you.
+- Vamos los flamencos!
 - Images can help break up text or add context to your point.
 
 - Large amounts of text on screen can be distracting.
@@ -400,7 +401,6 @@ class:col-2
 
 ???
 
-class:col-2
 # Making your slides
 
 - Don't put everything up on your slides.
@@ -409,7 +409,7 @@ class:col-2
 - Images can help break up text or add context to your point.
 
 - Large amounts of text on screen can be distracting.
-- It's often better to have one slide with one point compared to one slide with six different points on it.
+- It's often better to have one slide with one point compared to one slide with nine different points on it.
 - Let's face it, attention spans aren't as good as they used to be.
 - Plus, you can add more personality in slides with only some text.
 ---
@@ -467,6 +467,7 @@ class:img-left-full
 # What should be in your bag?
 - Generally, have things with you that keep you confident and healthy.
 - Also have the things that you need to present. If you have handouts, make sure to have plenty.
+- Make sure your have power cables or any adapters that you might need.
 - Some folks bring business cards.  If not, plan out a way to keep contact with people that you meet.
 - That might be as simple as a piece of paper.
 
@@ -540,10 +541,10 @@ class:compact
 - Video of me, courtesy of my face
 - Picture is of Madhackers meetup in 2019, picture taken by me
 - Submission page is a partial list of my submissions to THAT Conference.
-- Talk ideas page is a screenshot of my [talk ideas repo](https://github.com/zo0o0ot/talk-spot), based off of [mercedesb](https://github.com/mercedesb/talk-spot)
 ---
 class:compact
  ### Image Credits - Page 2
+- Talk ideas page is a screenshot of my [talk ideas repo](https://github.com/zo0o0ot/talk-spot), based off of [mercedesb](https://github.com/mercedesb/talk-spot)
 - Talk format image is of my FindingYourVoice.md markdown file on [GitHub](https://github.com/zo0o0ot/talk-spot/blob/master/SoftSkills/FindingYourVoice.md)
 - CFP image message courtesy of [DevFestWI CFP blog](https://www.devfestwi.com/news/call-for-speakers-2024)
 - Tree of hands from [pngegg](https://www.pngegg.com/en/png-ptkna)

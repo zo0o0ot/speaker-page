@@ -483,6 +483,7 @@ class:img-caption
 - Listen to your body.
 - Tell yourself "I can do this."
 - Leading up to your talk, figure out if you need to "amp up" or "chill out". Give yourself that.
+- Put your phone into "Do Not Disturb" mode before you go on stage.
 ---
 class:img-caption
 # Presenting
@@ -501,10 +502,21 @@ class:img-caption
 ???
 Questions?
 ---
+background-image: url(images/we-need-you-point-2.png)
+
+
+???
+
+- In conclusion, I want to remind you that you can do this.
+- Speaking in public is something that you can do.  
+- I believe in you!
+
+---
 class: img-right-full
 
 ![ross](images/ross-devfest.jpg)
 # Thanks!
+
 
 Slides are at:
 

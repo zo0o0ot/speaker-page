@@ -1,6 +1,6 @@
 ---
 title: 'Finding Your Voice - Becoming a speaker'
-date: "2024-05-22T02:21:49Z"
+date: "2024-08-22T12:21:49Z"
 url: "/talks/finding-your-voice/"
 event: "DevFest WI 2024"
 location: "Memorial Union, University of Wisconsin-Madison, 800 Langdon St, Madison, WI 53703"
@@ -51,3 +51,9 @@ This presentation covers several topics:
 - [Video - How to get your first gig at a tech conference](https://youtu.be/0-BkCkAiso8?si=4QoWftFF0y239-x6)
 - [Ali Abdaal - How I became a better speaker](https://youtu.be/jeSkdpQQtz4?si=QK4pD7JyVKMP_Q3f)
 - [Brooke Jamieson - How to become a tech conference speaker](https://youtu.be/u5ub-KP_2N4?si=41EMXNqZ8DevuJko)
+
+## Pictures
+Here's a selfie of me before the session:
+![Selfie from DevFest WI 2024](/img/confs/2024/devfest24-selfie.jpg)
+Here's a picture of me giving the presentation:
+![Presenting at DevFest WI 2024](/img/confs/2024/devfest24-ross.jpg)

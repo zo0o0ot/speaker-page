@@ -48,7 +48,9 @@ class: img-left
 - Forward Madison FC Fan
 - Survivor
 
-@rosslarsonWI
+![Youtube](images/icons/youtube.png# maxw-2) [@TanookiZoot](https://www.youtube.com/@TanookiZoot/videos)
+
+![Twitter](images/icons/twitter.png# maxw-2) @rosslarsonWI
 
 hello@rosslarson.com
 
@@ -142,12 +144,12 @@ class: img-left
 
 Think about what you would like to learn. 
 - I can tell you from experience that there is no motivation quite like discussing the topic in front of other people.
-- Think about what you would to if you weren't afraid, then do that.
+- Think about what you would do if you weren't afraid, then do that.
 ---
 class: img-right
-# 3 subjects you could tell me about, TODAY?
+# 3 subjects you could tell me about _today_?
 
-![books](images/nms.jpg# maxh-6)
+![books](images/CastNChill.png# maxh-6)
 
 - Explain for 5 minutes
 - Doesn't have to be career-related
@@ -175,10 +177,8 @@ Why do you want to speak?
 - For better job prospects?
 - For confidence?
 - For the community?
-- To learn?
-- To teach?
-- To connect?
-- To share?
+- To learn? To teach?
+- To connect? To share?
 - What's the advice you needed to hear? Who did you need when you were starting out?  Maybe, you can be that person.
 Ultimately, you're going to need to come up with your own reason.
 ---
@@ -192,6 +192,12 @@ You should realize by now that you definitely have insight and information to sh
 You have found the power of the glow, and you know what you want to talk about.
 
 Let's get more comfortable talking about it.
+
+---
+class:img-caption
+# Read a book, or join a group! 
+![10days](images/10days.png)
+???
 
 ---
 class:img-caption
@@ -433,6 +439,36 @@ class:img-left-full
 - Presentation notes help you communicate the most important information.
 - Put a slide asking for questions and thanking the audience and leave your contact information
 ---
+class: img-left
+# Impress Mode vs. Express Mode
+
+![impress-express](images/impress-express.jpg# maxh-6)
+
+Speaking to impress:
+
+- Seeks external validation
+- "Cosplaying" success
+
+Speaking to express:
+- Seeks authenticity
+- Aims to be helpful
+
+???
+
+When you speak, it's natural to want people to like you.
+However, don't speak to IMpress, speak to EXpress.
+
+Impress mode:
+- Seeks external validation
+- Tough to measure
+- Fleeting, chasing the opinions of others
+
+Express mode: 
+- Internal motivation
+- Seeks to be true to yourself
+- Aims to help
+
+---
 class:img-right-full,fit-h1
 # The night before the presentation
 ![checklist](images/checklist.png)
@@ -520,10 +556,11 @@ class: img-right-full
 
 Slides are at:
 
-https://rosslarson.com/slides/
+[rosslarson.com/slides/](https://rosslarson.com/slides/)
 
 Additional resource links at:
-https://rosslarson.com/talks/
+
+[rosslarson.com/talks/](https://rosslarson.com/talks/)
 
 - @rosslarsonWI
 
@@ -564,6 +601,7 @@ class:compact
 - Mind map of this topic from me on [coggle](https://coggle.it/diagram/Zkv4VAQxRwpIgG65/t/finding-your-voice-becoming-a-speaker/381b7a555829d4004b5c861428f79e9a2313948d34539c577f43753033fb36f3)
 - Groovy template from [Slidesgo](https://slidesgo.com/theme/groovy-aesthetic-consulting)
 - Presentation icon from [pngegg](https://www.pngegg.com/en/png-emctc)
+- Impress Mode picture from [Michael Gendler](https://www.linkedin.com/posts/michaelgendler_most-people-get-stuck-in-impress-mode-when-activity-7315423039456702464--w5g)
 - Backpack picture from [pngegg](https://www.pngegg.com/en/png-efytp)
 - Picture of me presenting from [THAT Conference 2022 flickr](https://www.flickr.com/photos/thatconference/albums/72177720301774062/)
 - Question marks from [pngegg](https://www.pngegg.com/en/png-bwrce)

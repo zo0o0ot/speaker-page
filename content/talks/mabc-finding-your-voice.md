@@ -1,14 +1,14 @@
 ---
 title: 'Finding Your Voice - Becoming a speaker'
 date: "2025-06-01T12:21:49Z"
-url: "/talks/finding-your-voice/"
+url: "/talks/mabc-finding-your-voice/"
 event: "MABC, July 2025"
 location: "1226 Williamson Street, Madison, WI 53703"
 site: "https://madisonconsultants.com/event-6161882"
 video: ""
 slides: "/slides/finding-your-voice-mabc/"
 thumbnail: "/talks/images/MABC-Live.jpg"
-image: "/talks/images/unionCeiling.png"
+image: "/talks/images/MABC2.png"
 description: ""
 ---
 ## MABC Live! July 10, 2025

@@ -1,7 +1,7 @@
 ---
 title: Finding Your Voice
 date: "2024-05-22T02:25:18Z"
-url: "/slides/finding-your-voice/"
+url: "/slides/finding-your-voice-mabc/"
 image: "/slides/finding-your-voice/cover.jpg"
 thumbnail: "/talks/images/MABC-Live.jpg"
 description: "Slides for the July 2025 MABC Live talk about becoming a speaker in Madison, WI."
@@ -195,9 +195,15 @@ Let's get more comfortable talking about it.
 
 ---
 class:img-caption
-# Read a book, or join a group! 
-![10days](images/10days.png)
+# Read a book, or create a practice group! 
+![10days](images/that_small_group.jpg)
+
 ???
+
+Books and small groups are one way to get these skills.
+- Daniel Scheufler has a book called 10 Days for Better Presentations, as well as a followup called 10 More Days for Better Presentations.
+- You could create an MABC small group studying that book
+- Another option is to join an existing group like Toastmasters
 
 ---
 class:img-caption

@@ -13,7 +13,7 @@ themes:
 classes:
 - feature-qrcode
 ---
-background-image: url(images/FindYourVoice.png)
+background-image: url(images/MABC_logo_horizontal2.png)
 background-size: cover
 
 ???
@@ -29,7 +29,7 @@ background-image: url(images/FindYourVoice.png)
 
 # Finding Your Voice
 
-## Becoming a speaker
+## Becoming a public speaker
 
 ???
 

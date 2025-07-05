@@ -1,5 +1,5 @@
 ---
-title: 'Finding Your Voice - Becoming a speaker'
+title: 'Finding Your Voice - Becoming a public speaker'
 date: "2025-06-01T12:21:49Z"
 url: "/talks/mabc-finding-your-voice/"
 event: "MABC, July 2025"
@@ -15,7 +15,7 @@ description: ""
 
 Day: Thur, July 10 
 
-# Finding your voice - Becoming a speaker
+# Finding your voice - Becoming a public speaker
 This is an overview of steps that you can take to find your own voice and take the steps to feel more comfortable becoming a public speaker.
 
 ## Format

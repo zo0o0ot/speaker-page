@@ -28,6 +28,9 @@ Everyone has unique interests, perspectives, and experience.  This session will 
 *Who is the audience?*
 People who would like to become more comfortable with public speaking.
 
+## Registration Link
+[MABC Live!](https://madisonconsultants.com/event-6161882)
+
 ## Outcomes/Conclusions
 Give people confidence, inspire them to share their perspectives, and get them involved in our community.
 

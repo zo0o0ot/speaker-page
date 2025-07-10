@@ -259,6 +259,7 @@ class:img-caption
 - Find a meetup, contact the organizer, and ask if they need any speakers.
 - The first time is a bit scary, but it gets easier, and you get better! 
 - Note: this advice is easier if it's the year 2019 or before, but we're working on it.
+- If you can't find a meetup, make one!
 ---
 class:img-caption
 # Submitting to conferences

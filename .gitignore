@@ -6,6 +6,7 @@
 # Generated files by hugo
 public/
 resources/_gen/
+hugo.exe
 
 # sample slides from adirondack
 content/slides/adirondack/

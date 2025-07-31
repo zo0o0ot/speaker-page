@@ -18,7 +18,7 @@ background-size: cover
 
 ???
 
-# Finding your voice! Image slide.
+# Mindfulness at Work! Image slide.
 
 - Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.
 - Press C to open a new linked window, and press P to view presenter notes.

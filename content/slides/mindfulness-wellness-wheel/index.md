@@ -65,13 +65,15 @@ Slides are at https://rosslarson.com/slides/ or you can scan the QR code.
 - Ask questions anytime
 
 ---
-background-image: url(images/agenda-slide2.jpg)
-
+class: img-left
 # Agenda
 
-- An introduction to mindfulness and the RAIN method.
-- A description of the Wellness Wheel and an overview of the dimensions of wellness
-- A self-assessment to help give you a snapshot of your current status
+![Checklist](images/checklist.png)
+
+- Mindfulness
+- The RAIN method
+- The Wellness Wheel
+- Self-assessment
 - A roadmap to an experimental mindset
 
 ???
@@ -83,8 +85,112 @@ Today, we will:
 - A roadmap to an experimental mindset
 - And.... Leave with no problems!
 
-I want each of you to think of one situation that brings you stress, and one situation that's been causing you a lot of anxiety lately.  We'll be working on them later.
+---
+class: img-right
+# Fist of Five voting
+![Fist of Five vote](images/fistOfFive.webp)
 
+How familiar are you with:
+
+- Mindfulness
+- The Wellness Wheel
+
+???
+
+Before we get too far into things, I'd like to get some fist of five votes from the crowd.
+I'm going to use these votes to help understand the level of detail in my introductions.
+
+From fist to five, how familiar are you with:
+- Mindfulness
+- The Wellness Wheel
+
+---
+ # What is Mindfulness?
+
+???
+
+Mindfulness is a bunch of stuff.
+---
+# What is NOT Mindfulness?
+
+???
+
+Other stuff is not mindfulness.
+---
+# The RAIN Method.
+
+---
+# The Wellness Wheel
+---
+background-image: url(images/wheels/ww3.png)
+background-size: cover
+
+???
+
+3 aspects
+---
+background-image: url(images/wheels/ww4.png)
+background-size: cover
+
+???
+
+4 aspects
+---
+background-image: url(images/wheels/ww5.png)
+background-size: cover
+
+???
+
+5 aspects
+---
+background-image: url(images/wheels/ww6.png)
+background-size: cover
+
+???
+
+6 aspects
+---
+background-image: url(images/wheels/ww7.png)
+background-size: cover
+
+???
+
+7 aspects
+---
+background-image: url(images/wheels/ww8.png)
+background-size: cover
+
+???
+
+8 aspects
+---
+background-image: url(images/wheels/ww9.png)
+background-size: cover
+
+???
+
+9 aspects
+---
+background-image: url(images/wheels/ww10.png)
+background-size: cover
+
+???
+
+10 aspects
+---
+background-image: url(images/wheels/ww12.png)
+background-size: cover
+
+???
+
+12 aspects
+---
+background-image: url(images/wheels/ww8-unh.png)
+background-size: cover
+
+???
+
+I'm going to use the UNH Wellness Chart, and explain those aspects.
 ---
 class: img-left
 # Wellness Quiz!
@@ -100,4 +206,5 @@ class:compact
  ### Image Credits
 - Ridiculous image of meditating folks from iStock.
 - Cartoon headshot of me was a commission from [Reverent Geek](https://reverentgeek.com/)
-- 
+- Checklist image from [pngegg](https://www.pngegg.com/en/png-tukaa)
+- Fist of Five image from [MeetingNotes.com](https://meetingnotes.com/blog/fist-to-five-voting)

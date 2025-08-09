@@ -117,6 +117,11 @@ Mindfulness is a bunch of stuff.
 
 Other stuff is not mindfulness.
 ---
+class: img-caption
+# The River and  the River's Edge
+
+![waterfall](images/waterfall.jpg)
+---
 # The RAIN Method.
 
 ---
@@ -208,6 +213,7 @@ class:compact
 - Cartoon headshot of me was a commission from [Reverent Geek](https://reverentgeek.com/)
 - Checklist image from [pngegg](https://www.pngegg.com/en/png-tukaa)
 - Fist of Five image from [MeetingNotes.com](https://meetingnotes.com/blog/fist-to-five-voting)
+- Image of waterfall from Embarrass river taken by Ross Larson in Pella, WI
 - 3 aspects image from [Stephen J. Costello](https://www.cambridgescholars.com/product/978-1-5275-8882-0)
 - 4 aspects image from [Courtney Pennell](https://www.dal.ca/faculty/health/news-events/news/2025/04/21/courtney_pennell_lighting_the_path.html)
 - 5 aspects image from [Dr. Lisa Hautly](https://lisahautly.com/blog/health-wellbeing-in-a-nutshell)
@@ -218,5 +224,4 @@ class:compact
 - 10 aspects image from [LSU](https://www.lsu.edu/student-affairs/wellness.php)
 - 12 aspects image from [Colleen Kachmann](https://www.colleenkachmann.com/health-coaching-tools-the-wellness-wheel/)
 - UNH wellness wheel courtesy of the [University of New Hampshire Extension](https://extension.unh.edu/health-well-being/programs/wellness-wheel-assessment)
-- 
 - 

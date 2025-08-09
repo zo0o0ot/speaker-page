@@ -105,22 +105,99 @@ From fist to five, how familiar are you with:
 - The Wellness Wheel
 
 ---
+class: img-left
  # What is Mindfulness?
+![brain](images/brain-borders.png)
+
+- Present Moment Awareness
+- Non-Judgmental Acceptance
+- Focus
+- Observation
+- Self-Regulation
 
 ???
 
-Mindfulness is a bunch of stuff.
+Present Moment Awareness: 
+- Being fully engaged in what you're doing, sensing, and feeling
+- Here and now 
+- Not letting your mind wander.
+
+Non-Judgmental Acceptance: 
+- Observe your experiences without labeling them as good or bad, right or wrong.
+- This allows for a sense of calm 
+- Helps you avoid getting swept away by negative emotions.
+
+Focus: 
+- Bringing attention to a particular object, such as:
+- Breath, Bodily Sensations, or the Sounds around you.
+
+Observing Thoughts and Emotions:
+- Acknowledge the presence of thoughts and emotions 
+- Observe them as they arise and pass, like clouds drifting across the sky.
+
+Self-Regulation: 
+- Learning to guide your attention back to the present when your mind inevitably wanders
 ---
-# What is NOT Mindfulness?
+class: img-left
+# What ISN'T Mindfulness?
+
+![brain](images/floating-dude.png)
+
+- One specific method
+- A quick fix
+- Buddism
+- Pro- or Anti-religion
+- Emotional suppression
+- Floating in the air
 
 ???
 
-Other stuff is not mindfulness.
+So, what isn't mindfulness?
+- It's not one specific method, like meditiation
+- It's not a quick fix that you do once and change your life forever
+- Some of the origins of mindfulness are rooted in Buddism, but mindfulness is not specifically or only Buddhist
+- You can be religious or non-religious and partice mindfulness. It can coexist with your existing practices.
+- You're not just suppressing or escaping your thoughts and emotions. You're still allowed to have thoughts.
+- You don't suddenly start floating if you do it right. It may feel awkward the first few times you do it, but it's worth it to keep going.
 ---
 class: img-caption
 # The River and  the River's Edge
 
 ![waterfall](images/waterfall.jpg)
+
+???
+
+The best way I've found to understand mindfulness is thinking about it this way:
+
+Mindfulness River: 
+
+Flowing Nature:
+- The mind is like a river, constantly flowing with thoughts, sensations, and emotions. 
+
+Transient Thoughts:
+- Just as the water in a river is always changing, our thoughts and feelings are not permanent and are constantly shifting. 
+
+Acceptance and Non-Judgment:
+- A mindfulness practice that uses the "river" metaphor encourages acceptance of this flow without getting caught up in or judging the thoughts. 
+
+Example:
+Activities might involve simply observing the "river" of your mind, noticing the thoughts and feelings as they arise and pass away, without trying to control or change them, according to a Facebook group dedicated to mindful practices. 
+
+River's Edge:
+
+Observational Stance:
+- This metaphor encourages the practitioner to step back and observe the "river" of their mind from a place of detachment, like standing on the riverbank. 
+
+Non-Identification:
+- The "river's edge" helps one recognize that thoughts and feelings are separate from oneself. You are not your thoughts, but rather the observer of your thoughts. 
+Inner Peace:
+- By observing the thoughts as they pass, practitioners can cultivate a sense of inner peace and reduce identification with negative or overwhelming thoughts. 
+
+Example:
+Guided meditations may involve visualizing thoughts as leaves floating on the river, allowing them to pass without engaging with them. 
+
+In essence: The "river" metaphor emphasizes the continuous flow of experience, while the "river's edge" metaphor emphasizes the ability to observe that flow without being swept away by it.
+
 ---
 # The RAIN Method.
 
@@ -213,6 +290,8 @@ class:compact
 - Cartoon headshot of me was a commission from [Reverent Geek](https://reverentgeek.com/)
 - Checklist image from [pngegg](https://www.pngegg.com/en/png-tukaa)
 - Fist of Five image from [MeetingNotes.com](https://meetingnotes.com/blog/fist-to-five-voting)
+- Brain image from [pngegg](https://www.pngegg.com/en/png-zkjjn)
+- Head with colors coming out image from [pngegg](https://www.pngegg.com/en/png-bazwi)
 - Image of waterfall from Embarrass river taken by Ross Larson in Pella, WI
 - 3 aspects image from [Stephen J. Costello](https://www.cambridgescholars.com/product/978-1-5275-8882-0)
 - 4 aspects image from [Courtney Pennell](https://www.dal.ca/faculty/health/news-events/news/2025/04/21/courtney_pennell_lighting_the_path.html)
@@ -223,5 +302,9 @@ class:compact
 - 9 aspects image from [Soha Wellness](https://sohawellness.com/the-wellness-wheel-a-practical-tool-for-a-better-life/)
 - 10 aspects image from [LSU](https://www.lsu.edu/student-affairs/wellness.php)
 - 12 aspects image from [Colleen Kachmann](https://www.colleenkachmann.com/health-coaching-tools-the-wellness-wheel/)
+
+
+---
+class:compact
+ ### Image Credits, continued
 - UNH wellness wheel courtesy of the [University of New Hampshire Extension](https://extension.unh.edu/health-well-being/programs/wellness-wheel-assessment)
-- 

@@ -197,9 +197,101 @@ Example:
 Guided meditations may involve visualizing thoughts as leaves floating on the river, allowing them to pass without engaging with them. 
 
 In essence: The "river" metaphor emphasizes the continuous flow of experience, while the "river's edge" metaphor emphasizes the ability to observe that flow without being swept away by it.
+---
+class: img-right
+# Ways to be mindful!
+![mindful examples](images/mindfulness-12-ways-to-practice-mindfulness-with-kids-2.webp)
+
+- Formal practices
+ - Meditation
+ - Yoga
+ - Guided exercises
+ - 5-4-3-2-1
+
+- Informal practices
+ - Mindful eating, listening, walking
+ - Journaling
+ - Doodling
+---
+background-image: url(images/mindfulness-quadrants.png)
+background-size: cover
+
+???
+
+# Mindfulness quadrants
+
+Given the number of different ways to express mindfulness, I decided to make a chart to help organize activities based on:
+- How informal / formal the activity is
+- How much technology is involved.
+
+This is a busy slide, so I'm going to explain each quadrant individually.
 
 ---
+class: img-caption
+# Informal / Low Tech
+![informal-low-tech](images/activities-Informal-LowTech.png)
+
+???
+
+Informal / Low Tech - You could do this stuff in the 1800s:
+- Walks, journaling, being aware of the world around you
+
+---
+class: img-caption
+# Informal / High Tech
+![informal-high-tech](images/activities-Informal-HighTech.png)
+
+???
+
+Informal / High Tech - Technology is involved but not providing structure:
+- Listening to music to be contemplative
+- Longplay youtube videos (like a 4 hour train ride in Norway in the snow)
+- Playing a game like "Sprit City: Lofi Sessions" that plays lofi music and encourages you to chill or journal
+
+---
+class: img-caption
+# Formal / Low Tech
+![formal-low-tech](images/activities-Formal-LowTech.png)
+
+???
+
+Formal / Low Tech - Structured, but not linked to Tech
+- Formal meditation
+- Yoga
+- Guided exercises like 5-4-3-2-1, RAIN, and Body Scans
+ - 5-4-3-2-1 See/Hear/Touch/Smell/Taste
+
+---
+class: img-caption
+# Formal / High Tech
+![formal-high-tech](images/activities-Formal-HighTech.png)
+
+???
+
+Formal / High Tech - Structured, facilitated by technology
+- Calm mobile app
+- Headspace mobile app
+- PLAYNE / INWARD - mediation facilitation video games on Steam 
+- VR? 
+---
+class: roomy, img-left
 # The RAIN Method.
+![rain](images/rain.png)
+
+- Recognize
+- Allow
+- Investigate
+- Nurture
+
+???
+
+The acronym RAIN is an easy-to-remember tool for practicing mindfulness and compassion using the following four steps:
+
+- Recognize what is happening;
+- Allow the experience to be there, just as it is;
+- Investigate with interest and care;
+- Nurture with self-compassion.
+
 
 ---
 # The Wellness Wheel
@@ -293,6 +385,18 @@ class:compact
 - Brain image from [pngegg](https://www.pngegg.com/en/png-zkjjn)
 - Head with colors coming out image from [pngegg](https://www.pngegg.com/en/png-bazwi)
 - Image of waterfall from Embarrass river taken by Ross Larson in Pella, WI
+- 12 ways to practice mindfulness from [Kate Hadfeld and Sarah Pecorino](https://www.thepathway2success.com/12-simple-ways-to-practice-mindfulness/)
+- Mindfulness quadrants created by Ross Larson, using images from multiple sources:
+ - [thepathway2success.com](https://www.thepathway2success.com/12-simple-ways-to-practice-mindfulness/)
+ - [PLAYNE](https://www.playne.co/) / [INWARD](https://store.steampowered.com/app/1545430/Inward/) / [Calm](https://www.calm.com/) / [Headspace](https://www.headspace.com/) 
+ - [Spirit City: Lofi Sessions](https://mooncubegames.com/#spiritcity)
+ - Mindfulness practices from [Simply Psychology](https://www.simplypsychology.org/what-is-mindfulness.html)
+ - Norway Train screenshot from [RailCowGirl on Youtube](https://www.youtube.com/@RailCowGirl)
+- Rain cloud image from [pngeegg](https://www.pngegg.com/en/png-slhrh)
+
+---
+class:compact
+ ### Image Credits, continued
 - 3 aspects image from [Stephen J. Costello](https://www.cambridgescholars.com/product/978-1-5275-8882-0)
 - 4 aspects image from [Courtney Pennell](https://www.dal.ca/faculty/health/news-events/news/2025/04/21/courtney_pennell_lighting_the_path.html)
 - 5 aspects image from [Dr. Lisa Hautly](https://lisahautly.com/blog/health-wellbeing-in-a-nutshell)
@@ -302,9 +406,4 @@ class:compact
 - 9 aspects image from [Soha Wellness](https://sohawellness.com/the-wellness-wheel-a-practical-tool-for-a-better-life/)
 - 10 aspects image from [LSU](https://www.lsu.edu/student-affairs/wellness.php)
 - 12 aspects image from [Colleen Kachmann](https://www.colleenkachmann.com/health-coaching-tools-the-wellness-wheel/)
-
-
----
-class:compact
- ### Image Credits, continued
 - UNH wellness wheel courtesy of the [University of New Hampshire Extension](https://extension.unh.edu/health-well-being/programs/wellness-wheel-assessment)

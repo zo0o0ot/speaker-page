@@ -94,6 +94,7 @@ How familiar are you with:
 
 - Mindfulness
 - The Wellness Wheel
+- SMART Goals
 
 ???
 
@@ -103,6 +104,7 @@ I'm going to use these votes to help understand the level of detail in my introd
 From fist to five, how familiar are you with:
 - Mindfulness
 - The Wellness Wheel
+- SMART Goals
 
 ---
 class: img-left
@@ -366,14 +368,72 @@ background-size: cover
 
 I'm going to use the UNH Wellness Chart, and explain those aspects.
 ---
-class: img-left
+class: img-right
+# 8 Aspects of Wellness
+![wellness](images/8aspects.png)
+- Social
+- Financial
+- Physical
+- Emotional
+- Spiritual
+- Intellectual
+- Environmental
+- Occupational
+
+???
+
+- Social
+ - Feeling supported in healthy, close relationships with family and friends
+- Financial
+ - Living within your means and balancing spending in the present and the future
+- Physical
+ - Physical activity, healthy diet, good sleep, etc.
+- Emotional
+ - Feeling good about yourself, recognizing your stress/anxiety, asking for help, feeling comfortable with saying "no"
+- Spiritual
+ - Sense of meaning and purpose, clear sense of right/wrong, compassion and goodwill
+- Intellectual
+ - Curiosity, openness to new ideas, critical thinking, learning new things
+- Environmental
+ - Spending time in nature, keeping a good home/work environment, green living
+- Occupational
+ - Having goals and finding purpose in work, using your skills effectively, healthy work/life balance
+---
+class: compact, img-left
 # Wellness Quiz!
 
 ![qr-code](images/unh-qr2.png)
 
-Take the quiz at https://unhextension.datahubs.org/ or you can scan the QR code.
+Scan the QR code or take the quiz at https://unhextension.datahubs.org/
 
-- Ask questions anytime
+- 5 : I am extremely satisfied
+- 4 : I am very satisfied but can do a bit more
+- 3 : I feel satisfied but can make some improvements
+- 2 : I am very unsatisfied and need to prioritize
+- 1 : I am extremely unsatisfied and need to take actionable steps to improve
+
+???
+
+Let's take a wellness quiz!
+- This Wellness Wheel Assessment was created by Michelle Kroll, PhD. for the University of New Hampshire extension, but anyone can take it! Let's take advantage of that.
+- It asks for demographic informaiton at the end, but you can opt out of that if you don't feel comfortable.
+- Let me know if you have any issues accessing the quiz.
+---
+class: img-caption
+# 
+![smart](images/smart-goals.png)
+
+???
+
+- You now have an overall idea of your wellness
+- Maybe, you want to make some changes.
+- SMART goals are one way.
+
+1. Specific: Clearly define what you want to achieve. Avoid vague statements. 
+2. Measurable: How will you track progress and know when you've achieved the goal? 
+3. Achievable: Ensure the goal is realistic and attainable given your resources and circumstances. 
+4. Relevant: Ensure the goal aligns with your overall objectives and priorities. 
+5. Time-bound: Set a deadline for achieving the goal
 
 ---
 class:compact
@@ -407,3 +467,5 @@ class:compact
 - 10 aspects image from [LSU](https://www.lsu.edu/student-affairs/wellness.php)
 - 12 aspects image from [Colleen Kachmann](https://www.colleenkachmann.com/health-coaching-tools-the-wellness-wheel/)
 - UNH wellness wheel courtesy of the [University of New Hampshire Extension](https://extension.unh.edu/health-well-being/programs/wellness-wheel-assessment)
+- Head with arrows image from [pngegg](https://www.pngegg.com/en/png-ymmrv)
+- SMART Goals from [pngegg](https://www.pngegg.com/en/png-iuncz)

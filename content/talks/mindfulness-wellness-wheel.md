@@ -45,10 +45,12 @@ This presentation covers several topics:
 - [RAIN Method - Recognize, allow, investigate, nurture](https://www.tarabrach.com/rain/)
 - [PLAYNE - a meditation app on Steam](https://www.playne.co/)
 - [Inward, a free meditation app](https://store.steampowered.com/app/1545430/Inward/)
+- [University of New Hampshire Wellness Wheel Assessment info](https://extension.unh.edu/health-well-being/programs/wellness-wheel-assessment) and [wellness assessment](https://unhextension.datahubs.org/)
 - [Princeton UMatter Wellness Wheel and assessment tool](https://umatter.princeton.edu/action/caring-yourself/wellness-wheel-assessment)
 - [A framework for understanding (and meeting) your wants and needs - Forrest Hanson](https://youtu.be/VzaTmW3tixg?si=haBa83mNB3q8YuzB)
 - [Toxic productivity culture](https://youtu.be/PDcLSt7bUvA?si=ThgILViuDPSVTg91)
 - [You don't need a 10 year plan. You need to experiment. - Big Think](https://youtu.be/R_TnZJpCULI?si=nWxh7YqcYLUel2KV)
+- [The Half-Year Reset Youtube Video](https://youtu.be/31k6O2nQgHg?si=194IFQ0A1IDpOb_i) and [Worksheet PDF](https://drive.google.com/file/d/1qXPd2333U9VPdG5gfOUaq-JdTpJuVfhY/view)
 
 ## Pictures
 

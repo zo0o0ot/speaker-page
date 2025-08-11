@@ -276,9 +276,9 @@ Formal / High Tech - Structured, facilitated by technology
 - PLAYNE / INWARD - mediation facilitation video games on Steam 
 - VR? 
 ---
-class: roomy, img-left
-# The RAIN Method.
-![rain](images/rain.png)
+class: roomy, img-left-full
+![rain](images/rain-brach.png)
+# The RAIN Method
 
 - Recognize
 - Allow
@@ -287,6 +287,8 @@ class: roomy, img-left
 
 ???
 
+The Rain method was created by Dr. Tara Branch, PhD.
+
 The acronym RAIN is an easy-to-remember tool for practicing mindfulness and compassion using the following four steps:
 
 - Recognize what is happening;
@@ -294,7 +296,9 @@ The acronym RAIN is an easy-to-remember tool for practicing mindfulness and comp
 - Investigate with interest and care;
 - Nurture with self-compassion.
 
+It's a way to take a frustrating work scenario, allow yourself to process the feelings and situations.
 
+You can do this on your own, or find a guided mindfulness video about it on Youtube. Either way is fine.
 ---
 # The Wellness Wheel
 ---
@@ -434,7 +438,50 @@ class: img-caption
 3. Achievable: Ensure the goal is realistic and attainable given your resources and circumstances. 
 4. Relevant: Ensure the goal aligns with your overall objectives and priorities. 
 5. Time-bound: Set a deadline for achieving the goal
+---
+class: img-left-full
+![half-year-reset](images/half-year-reset.png)
+# An Alternative: The Half-Year (August) Reset!
+- Half mindfulness, Half SMART!
+- Clear your mind
+- Recognize your previous goals and results
+- Assess your successes and failures
+- Create an ideal scenario and order your goals
+- Envision your success and create systems
+- Link to worksheet available on [my site](https://drive.google.com/file/d/1qXPd2333U9VPdG5gfOUaq-JdTpJuVfhY/view)!
+???
+SMART Goals are great, but with the tools you have, we might be able to go further.
+Author, Illustrator, and Youtuber Campbell Walker (AKA struthless) created a workbook that you could use.
+- It's half mindfulness exercise, half goal setting.
+---
+class:img-caption
+# Questions?
+![questions](images/questions.png)
+???
+Questions?
+---
+class: img-right-full
 
+![ross](images/ross-devfest.jpg)
+# Thanks!
+
+
+Slides are at:
+
+https://rosslarson.com/slides/
+
+Additional resource links at:
+https://rosslarson.com/talks/
+
+- @rosslarsonWI
+
+- hello@rosslarson.com
+
+???
+
+Thanks for coming!
+
+Let me know if you want more information.
 ---
 class:compact
  ### Image Credits
@@ -452,7 +499,7 @@ class:compact
  - [Spirit City: Lofi Sessions](https://mooncubegames.com/#spiritcity)
  - Mindfulness practices from [Simply Psychology](https://www.simplypsychology.org/what-is-mindfulness.html)
  - Norway Train screenshot from [RailCowGirl on Youtube](https://www.youtube.com/@RailCowGirl)
-- Rain cloud image from [pngeegg](https://www.pngegg.com/en/png-slhrh)
+- RAIN cover from [Dr. Tara Brach](https://www.tarabrach.com/rain/)
 
 ---
 class:compact

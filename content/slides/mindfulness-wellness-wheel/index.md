@@ -147,7 +147,7 @@ class: img-left
 
 - One specific method
 - A quick fix
-- Buddism
+- Buddhism
 - Pro- or Anti-religion
 - Emotional suppression
 - Floating in the air
@@ -155,10 +155,10 @@ class: img-left
 ???
 
 So, what isn't mindfulness?
-- It's not one specific method, like meditiation
+- It's not one specific method, like meditation
 - It's not a quick fix that you do once and change your life forever
-- Some of the origins of mindfulness are rooted in Buddism, but mindfulness is not specifically or only Buddhist
-- You can be religious or non-religious and partice mindfulness. It can coexist with your existing practices.
+- Some of the origins of mindfulness are rooted in Buddhism, but mindfulness is not specifically or only Buddhist
+- You can be religious or non-religious and practice mindfulness. It can coexist with your existing practices.
 - You're not just suppressing or escaping your thoughts and emotions. You're still allowed to have thoughts.
 - You don't suddenly start floating if you do it right. It may feel awkward the first few times you do it, but it's worth it to keep going.
 ---
@@ -247,7 +247,7 @@ class: img-caption
 
 Informal / High Tech - Technology is involved but not providing structure:
 - Listening to music to be contemplative
-- Longplay youtube videos (like a 4 hour train ride in Norway in the snow)
+- Long-play youtube videos (like a 4 hour train ride in Norway in the snow)
 - Playing a game like "Sprit City: Lofi Sessions" that plays lofi music and encourages you to chill or journal
 
 ---
@@ -312,28 +312,27 @@ background-size: cover
 
 ???
 
-3 aspects
+Buddhism does not regard the body and the mind or spirit as being two entirely separate entities. The body and mind or spirit combine and interact in a complex way to constitute an individual.
 ---
 background-image: url(images/wheels/ww4.png)
 background-size: cover
 
 ???
 
-4 aspects
----
-background-image: url(images/wheels/ww5.png)
-background-size: cover
+Some Native American cultures have a wholistic model guided by the medicine wheel:
+- Mental
+- Emotional
+- Physical
+- Spiritual well-being.
 
-???
-
-5 aspects
 ---
 background-image: url(images/wheels/ww6.png)
 background-size: cover
 
 ???
 
-6 aspects
+Dr. Bill Hettler is often credited with creating the first widely adopted version of the Wellness Wheel in the late 1970s.
+- Other wellness experts have expanded upon Dr. Hettler's original model of 6 aspects
 ---
 background-image: url(images/wheels/ww7.png)
 background-size: cover
@@ -408,7 +407,7 @@ class: img-right
 - Occupational
  - Having goals and finding purpose in work, using your skills effectively, healthy work/life balance
 ---
-class: compact, img-left
+class: img-left
 # Wellness Quiz!
 
 ![qr-code](images/unh-qr2.png)
@@ -425,7 +424,7 @@ Scan the QR code or take the quiz at https://unhextension.datahubs.org/
 
 Let's take a wellness quiz!
 - This Wellness Wheel Assessment was created by Michelle Kroll, PhD. for the University of New Hampshire extension, but anyone can take it! Let's take advantage of that.
-- It asks for demographic informaiton at the end, but you can opt out of that if you don't feel comfortable.
+- It asks for demographic information at the end, but you can opt out of that if you don't feel comfortable.
 - Let me know if you have any issues accessing the quiz.
 ---
 class: img-caption
@@ -512,7 +511,6 @@ class:compact
 - Wellness image from the [Universities of Wisconsin](https://flex.wisconsin.edu/wellbeing-wellness/)
 - 3 aspects image from [Stephen J. Costello](https://www.cambridgescholars.com/product/978-1-5275-8882-0)
 - 4 aspects image from [Courtney Pennell](https://www.dal.ca/faculty/health/news-events/news/2025/04/21/courtney_pennell_lighting_the_path.html)
-- 5 aspects image from [Dr. Lisa Hautly](https://lisahautly.com/blog/health-wellbeing-in-a-nutshell)
 - 6 aspects image from [Manna Project](https://www.mannaproject.org/usblog/2020/12/7/the-dimensions-of-wellness)
 - 7 aspects image from [ClassPass](https://classpass.com/blog/how-to-create-a-wellness-wheel/)
 - 8 aspects image from [Vanderbilt University](https://news.vumc.org/2024/09/18/nurse-wellness-website-relaunched/)

@@ -159,11 +159,11 @@ So, what isn't mindfulness?
 - It's not a quick fix that you do once and change your life forever
 - Some of the origins of mindfulness are rooted in Buddhism, but mindfulness is not specifically or only Buddhist
 - You can be religious or non-religious and practice mindfulness. It can coexist with your existing practices.
-- You're not just suppressing or escaping your thoughts and emotions. You're still allowed to have thoughts.
-- You don't suddenly start floating if you do it right. It may feel awkward the first few times you do it, but it's worth it to keep going.
+- You're not just suppressing or escaping your thoughts and emotions. You're still allowed to have feelings.
+- You don't suddenly start floating if you do it right. It may feel awkward the first few times you do it, but it's worth it to keep going. You may already be doing some of the practices!
 ---
 class: img-caption
-# The River and  the River's Edge
+# The River and The Riverbank
 
 ![waterfall](images/waterfall.jpg)
 
@@ -171,34 +171,13 @@ class: img-caption
 
 The best way I've found to understand mindfulness is thinking about it this way:
 
-Mindfulness River: 
-
-Flowing Nature:
 - The mind is like a river, constantly flowing with thoughts, sensations, and emotions. 
-
-Transient Thoughts:
 - Just as the water in a river is always changing, our thoughts and feelings are not permanent and are constantly shifting. 
 
-Acceptance and Non-Judgment:
-- A mindfulness practice that uses the "river" metaphor encourages acceptance of this flow without getting caught up in or judging the thoughts. 
+- Instead of always being in the middle of the river,
+- Step back and observe the "river" of their mind from a place of detachment, like standing on the riverbank. 
+- By observing the thoughts as they pass, you can cultivate a sense of inner peace and reduce identification with negative or overwhelming thoughts. 
 
-Example:
-Activities might involve simply observing the "river" of your mind, noticing the thoughts and feelings as they arise and pass away, without trying to control or change them, according to a Facebook group dedicated to mindful practices. 
-
-River's Edge:
-
-Observational Stance:
-- This metaphor encourages the practitioner to step back and observe the "river" of their mind from a place of detachment, like standing on the riverbank. 
-
-Non-Identification:
-- The "river's edge" helps one recognize that thoughts and feelings are separate from oneself. You are not your thoughts, but rather the observer of your thoughts. 
-Inner Peace:
-- By observing the thoughts as they pass, practitioners can cultivate a sense of inner peace and reduce identification with negative or overwhelming thoughts. 
-
-Example:
-Guided meditations may involve visualizing thoughts as leaves floating on the river, allowing them to pass without engaging with them. 
-
-In essence: The "river" metaphor emphasizes the continuous flow of experience, while the "river's edge" metaphor emphasizes the ability to observe that flow without being swept away by it.
 ---
 class: img-right
 # Ways to be mindful!
@@ -214,6 +193,12 @@ class: img-right
  - Mindful eating, listening, walking
  - Journaling
  - Doodling
+
+???
+
+ # There are a variety of ways to be mindful.
+ Generally, there's two categories- Formal and informal practices.
+ - That basically describes how much structure there is to the activity.
 ---
 background-image: url(images/mindfulness-quadrants.png)
 background-size: cover
@@ -222,7 +207,7 @@ background-size: cover
 
 # Mindfulness quadrants
 
-Given the number of different ways to express mindfulness, I decided to make a chart to help organize activities based on:
+Given the number of different ways to express mindfulness, and because I like charts, I decided to make a chart to help organize activities based on:
 - How informal / formal the activity is
 - How much technology is involved.
 
@@ -457,6 +442,25 @@ class: img-left-full
 SMART Goals are great, but with the tools you have, we might be able to go further.
 Author, Illustrator, and Youtuber Campbell Walker (AKA struthless) created a workbook that you could use.
 - It's half mindfulness exercise, half goal setting.
+- I have some copies available, and a link to the worksheet is available.
+---
+class: roomy, img-right-full
+![mind](images/mind-bubbles.png)
+# Conclusion
+
+- We are full of thoughts and feelings
+- Know the tools to be mindful
+- Be aware of different wellness aspects
+- Work at loving the life you have
+
+???
+
+- You and I are full of a lot of different thoughts and feelings.
+- Those thoughts and feelings follow us in and out of our work
+- I hope that I've given you some tools
+ - To find calm in the storm
+ - To experience life at the riverbank
+- To make yourself a more balanced, healthy person and employee.
 ---
 class:img-caption
 # Questions?

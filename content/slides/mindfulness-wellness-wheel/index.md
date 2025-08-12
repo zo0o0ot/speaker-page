@@ -107,7 +107,7 @@ From fist to five, how familiar are you with:
 - SMART Goals
 
 ---
-class: img-left
+class: roomy, img-left
  # What is Mindfulness?
 ![brain](images/brain-borders.png)
 
@@ -300,7 +300,12 @@ It's a way to take a frustrating work scenario, allow yourself to process the fe
 
 You can do this on your own, or find a guided mindfulness video about it on Youtube. Either way is fine.
 ---
-# The Wellness Wheel
+class: img-caption
+# Wellness
+![UW-wellness](images/uw-wellness.png)
+???
+# Wellness
+Moving on, let's discuss wellness.... and wheels.
 ---
 background-image: url(images/wheels/ww3.png)
 background-size: cover
@@ -504,6 +509,7 @@ class:compact
 ---
 class:compact
  ### Image Credits, continued
+- Wellness image from the [Universities of Wisconsin](https://flex.wisconsin.edu/wellbeing-wellness/)
 - 3 aspects image from [Stephen J. Costello](https://www.cambridgescholars.com/product/978-1-5275-8882-0)
 - 4 aspects image from [Courtney Pennell](https://www.dal.ca/faculty/health/news-events/news/2025/04/21/courtney_pennell_lighting_the_path.html)
 - 5 aspects image from [Dr. Lisa Hautly](https://lisahautly.com/blog/health-wellbeing-in-a-nutshell)
@@ -516,3 +522,6 @@ class:compact
 - UNH wellness wheel courtesy of the [University of New Hampshire Extension](https://extension.unh.edu/health-well-being/programs/wellness-wheel-assessment)
 - Head with arrows image from [pngegg](https://www.pngegg.com/en/png-ymmrv)
 - SMART Goals from [pngegg](https://www.pngegg.com/en/png-iuncz)
+- Half-Year Reset cover from [Campbell Walker](https://drive.google.com/file/d/1qXPd2333U9VPdG5gfOUaq-JdTpJuVfhY/view)
+- Question marks from [pngegg](https://www.pngegg.com/en/png-bwrce)
+- Picture of me at DevFest WI 2023.

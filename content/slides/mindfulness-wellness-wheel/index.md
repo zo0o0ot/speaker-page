@@ -525,5 +525,6 @@ class:compact
 - Head with arrows image from [pngegg](https://www.pngegg.com/en/png-ymmrv)
 - SMART Goals from [pngegg](https://www.pngegg.com/en/png-iuncz)
 - Half-Year Reset cover from [Campbell Walker](https://drive.google.com/file/d/1qXPd2333U9VPdG5gfOUaq-JdTpJuVfhY/view)
+- Mind bubbles from [pngegg](https://www.pngegg.com/en/png-yhdqe)
 - Question marks from [pngegg](https://www.pngegg.com/en/png-bwrce)
 - Picture of me at DevFest WI 2023.

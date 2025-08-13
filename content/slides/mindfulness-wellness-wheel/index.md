@@ -33,8 +33,7 @@ background-image: url(images/iStock_meditateDesk.jpg)
 
 ???
 
-Make sure you're in the right room! Which is funny, since there's only one room where talks are happening.
-
+I think that this picture is ridiculous, but I wanted to share it.
 ---
 class: img-left
 # About Me
@@ -291,6 +290,8 @@ class: img-caption
 ???
 # Wellness
 Moving on, let's discuss wellness.... and wheels.
+
+The roots come from religious and cultural practice, but we've come a long way from there.
 ---
 background-image: url(images/wheels/ww3.png)
 background-size: cover
@@ -353,13 +354,15 @@ background-size: cover
 ???
 
 12 aspects
+
+I'm not entirely sure that "Home Cooking" deserves its own wellness slice, but I think we can all agree that some of these aspects of wellness are a bit arbitrary, and that our view of wellness may evolve over time.
 ---
 background-image: url(images/wheels/ww8-unh.png)
 background-size: cover
 
 ???
 
-I'm going to use the UNH Wellness Chart, and explain those aspects.
+In the meantime, I'm going to use the UNH Wellness Chart, and explain those aspects.
 ---
 class: img-right
 # 8 Aspects of Wellness

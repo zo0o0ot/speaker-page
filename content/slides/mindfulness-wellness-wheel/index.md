@@ -271,7 +271,7 @@ class: roomy, img-left-full
 
 ???
 
-The Rain method was created by Dr. Tara Branch, PhD.
+The Rain method was created by Dr. (TARR-uh BROCK) Tara Brach
 
 The acronym RAIN is an easy-to-remember tool for practicing mindfulness and compassion using the following four steps:
 
@@ -319,6 +319,7 @@ background-size: cover
 
 Dr. Bill Hettler is often credited with creating the first widely adopted version of the Wellness Wheel in the late 1970s.
 - Other wellness experts have expanded upon Dr. Hettler's original model of 6 aspects
+- If you feel like you've seen a lot of different wellness wheels, it's probably because you have.
 ---
 background-image: url(images/wheels/ww7.png)
 background-size: cover
@@ -346,7 +347,7 @@ background-size: cover
 
 ???
 
-10 aspects
+10 aspects - This is from LSU and it's interesting that sexual wellness is its own aspect.
 ---
 background-image: url(images/wheels/ww12.png)
 background-size: cover
@@ -362,7 +363,7 @@ background-size: cover
 
 ???
 
-In the meantime, I'm going to use the UNH Wellness Chart, and explain those aspects.
+In the meantime, I'm going to use the Wellness Wheel from the University of New Hampshire, and explain those aspects. I'll explain my reasoning for choosing this wheel shortly.
 ---
 class: img-right
 # 8 Aspects of Wellness
@@ -415,6 +416,29 @@ Let's take a wellness quiz!
 - It asks for demographic information at the end, but you can opt out of that if you don't feel comfortable.
 - Let me know if you have any issues accessing the quiz.
 ---
+background-image: url(images/wheels/ww8-unh.png)
+background-size: cover
+
+???
+
+Now that we've taken this quiz again, let's take another look at the wellness wheel.
+- First of all, I want to communicate that perfection on the wheel is impossible, and that's OK.
+- That being said, were there any surprises? Did it bring up any questions?
+
+---
+background-image: url(images/NewYearOprah.png)
+background-size: cover
+???
+
+This quote by Oprah seems to capture the fact that our society seems to express that the only acceptable time to think about ourselves and to make goals is:
+- On either New Year's Eve or New Year's Day, 
+- probably while either drunk or hungover.  
+- I think that's bullshit.
+- Spending a day setting goals and then a year living your life is a recipe for failure every year.
+- Society tells us over and over that we are broken and not enough, and then tries to sell us a quick fix, or a momentary distraction. 
+- We are capable of thinking more clearly and acting with more purpose than that.
+- We can be more mindful about our careers and lives than that.
+---
 class: img-caption
 # 
 ![smart](images/smart-goals.png)
@@ -430,11 +454,22 @@ class: img-caption
 3. Achievable: Ensure the goal is realistic and attainable given your resources and circumstances. 
 4. Relevant: Ensure the goal aligns with your overall objectives and priorities. 
 5. Time-bound: Set a deadline for achieving the goal
+
+Personally, I've had pretty good luck with setting one or two SMART goals, but I often forget to set new ones.
+---
+background-image: url(images/atomic-habits-fullscreen.jpg)
+background-size: cover
+???
+
+- Another way to think about change is in terms of habits.
+- Atomic Habits by James Clear could easily be its own presentation, but I wanted to put forth two points about the book:
+- Small changes compound into large results over time
+- The best way to create behavior change is to integrate it into your identity, meaning who you tell yourself that you are will eventually be who you are.
 ---
 class: img-left-full
 ![half-year-reset](images/half-year-reset.png)
 # An Alternative: The Half-Year (August) Reset!
-- Half mindfulness, Half SMART!
+- A combination of tools!
 - Clear your mind
 - Recognize your previous goals and results
 - Assess your successes and failures
@@ -442,10 +477,25 @@ class: img-left-full
 - Envision your success and create systems
 - Link to worksheet available on [my site](https://drive.google.com/file/d/1qXPd2333U9VPdG5gfOUaq-JdTpJuVfhY/view)!
 ???
-SMART Goals are great, but with the tools you have, we might be able to go further.
-Author, Illustrator, and Youtuber Campbell Walker (AKA struthless) created a workbook that you could use.
+SMART Goals are and Atomic Habits are great, but with the tools we have, we might be able to go further.
+- Author, Illustrator, and YouTuber Campbell Walker (AKA struthless) created a workbook that you could use.
 - It's half mindfulness exercise, half goal setting.
-- I have some copies available, and a link to the worksheet is available.
+- I have some copies available, and a link to the worksheet is available. We're not going to go through this whole exercise, but I'd like to show you the steps.
+- If you forget what I have to say about it, he has a youtube video that describes it, so I'd suggest checking that out.
+---
+background-image: url(images/reset-emptyheadQR.png)
+background-size: cover
+???
+
+# Empty your head
+- The first part of the half year reset is an activity to clear your mind through unstructured journaling. If you feel like one of the other mindfulness exercises works to help with that or if you want to do something instead of this, feel free. 
+- Also, here's the QR code to this PDF if that's interesting to you.
+---
+background-image: url(images/reset-emptyheadQR.png)
+background-size: cover
+???
+# Remember your goals versus reality
+
 ---
 class: roomy, img-right-full
 ![mind](images/mind-bubbles.png)
@@ -469,7 +519,11 @@ class:img-caption
 # Questions?
 ![questions](images/questions.png)
 ???
-Questions?
+I wanted to leave some extra time here for questions because:
+- It's important to know what's important to you
+- I want to help you where you're at
+- I've been in my own head about this for a while, so I'd love to hear your perspectives.
+- Please let me know if you have questions about any of this material.
 ---
 class: img-right-full
 
@@ -526,8 +580,14 @@ class:compact
 - 12 aspects image from [Colleen Kachmann](https://www.colleenkachmann.com/health-coaching-tools-the-wellness-wheel/)
 - UNH wellness wheel courtesy of the [University of New Hampshire Extension](https://extension.unh.edu/health-well-being/programs/wellness-wheel-assessment)
 - Head with arrows image from [pngegg](https://www.pngegg.com/en/png-ymmrv)
+- Oprah quote about the New Year from [pngegg](https://www.pngegg.com/en/png-xqwcl)
 - SMART Goals from [pngegg](https://www.pngegg.com/en/png-iuncz)
-- Half-Year Reset cover from [Campbell Walker](https://drive.google.com/file/d/1qXPd2333U9VPdG5gfOUaq-JdTpJuVfhY/view)
+- Atomic habits picture from [James Clear](https://jamesclear.com/atomic-habits)
+- Half-Year Reset cover and pages from [Campbell Walker](https://drive.google.com/file/d/1qXPd2333U9VPdG5gfOUaq-JdTpJuVfhY/view)
 - Mind bubbles from [pngegg](https://www.pngegg.com/en/png-yhdqe)
+
+---
+class:compact
+ ### Image Credits, continued
 - Question marks from [pngegg](https://www.pngegg.com/en/png-bwrce)
-- Picture of me at DevFest WI 2023.
+- Picture of me is from DevFest WI 2023 at the UW Madison Memorial Union.

@@ -50,6 +50,7 @@ This presentation covers several topics:
 - [A framework for understanding (and meeting) your wants and needs - Forrest Hanson](https://youtu.be/VzaTmW3tixg?si=haBa83mNB3q8YuzB)
 - [Toxic productivity culture](https://youtu.be/PDcLSt7bUvA?si=ThgILViuDPSVTg91)
 - [You don't need a 10 year plan. You need to experiment. - Big Think](https://youtu.be/R_TnZJpCULI?si=nWxh7YqcYLUel2KV)
+- [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits)
 - [The Half-Year Reset Youtube Video](https://youtu.be/31k6O2nQgHg?si=194IFQ0A1IDpOb_i) and [Worksheet PDF](https://drive.google.com/file/d/1qXPd2333U9VPdG5gfOUaq-JdTpJuVfhY/view)
 
 ## Pictures

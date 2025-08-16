@@ -22,7 +22,8 @@ background-size: cover
 
 - Background images don't appear to scale correctly unless I also apply "background-size: cover" to the slide.
 - Press C to open a new linked window, and press P to view presenter notes.
-
+- F11 to go into borderless mode on Windows
+- ctrl + cmd + F should be borderless mode in Mac
 ---
 class: title, smokescreen, shelf, no-footer
 background-image: url(images/iStock_meditateDesk.jpg)

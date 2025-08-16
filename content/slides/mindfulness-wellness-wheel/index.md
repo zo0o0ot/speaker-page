@@ -475,7 +475,7 @@ class: img-left-full
 - Assess your successes and failures
 - Create an ideal scenario and order your goals
 - Envision your success and create systems
-- Link to worksheet available on [my site](https://drive.google.com/file/d/1qXPd2333U9VPdG5gfOUaq-JdTpJuVfhY/view)!
+
 ???
 SMART Goals are and Atomic Habits are great, but with the tools we have, we might be able to go further.
 - Author, Illustrator, and YouTuber Campbell Walker (AKA struthless) created a workbook that you could use.
@@ -488,13 +488,53 @@ background-size: cover
 ???
 
 # Empty your head
-- The first part of the half year reset is an activity to clear your mind through unstructured journaling. If you feel like one of the other mindfulness exercises works to help with that or if you want to do something instead of this, feel free. 
-- Also, here's the QR code to this PDF if that's interesting to you.
+- Here's the QR code to this PDF if that's useful to you.
+- The first part of the half year reset is an activity to clear your mind through unstructured journaling. If you feel like one of the other structured or unstructured mindfulness exercises works to help with that, feel free. 
 ---
-background-image: url(images/reset-emptyheadQR.png)
+background-image: url(images/reset-step2-4.png)
 background-size: cover
 ???
 # Remember your goals versus reality
+- Think about what you wanted 6 months ago, or at the beginning of the year.
+- Write down what actually happened.
+ - Extenuating circumstances happen. My mom died in March. Some things happen that we can't plan for.
+ - This isn't to make ourselves feel bad, just to be honest and non-judgemental.
+- Next, we think about why some goals succeeded, and some failed.
+ - Sometimes the reasons can help us understand the results.
+ - In the places where you succeeded, take the win! It's OK to be proud of success.
+---
+background-image: url(images/reset-step5-8.png)
+background-size: cover
+???
+# What are the ideal outcomes? Why?
+- Find your ideal scenario of how you want the rest of the year to go.
+ - What things do you want to happen and why?
+- Next take your ideal scenario and rank the goals by importance.
+ - Some goals will be more important, and that's OK
+ - When time is limited, this will help you focus on the most important things.
+# Identity and goals.
+- Who do you need to be to accomplish your goals? 
+ - What would you need to believe about yourself?
+ - What would you need to do more?
+ - What would you need to do less?
+ - Write down some ideas, and see if you can shorten it into a sentence.
+- Create a system to realistically hit your goals over the next 6 months.
+ - "You do not rise to the level of your goals, you fall to the level of your habits".
+ - Here's where the atomic habits and SMART goals come back in.
+ - Plan for average and rough days, not just the best-case scenario.
+---
+background-image: url(images/reset-step9-11.png)
+background-size: cover
+???
+# Planning for tough times
+- What will you do when things get tough?
+ - Prepare for difficult times. What systems, rewards, and tactics might you need?
+ - Remember, you're allowed to bribe yourself with things you love to get results!
+- Why do you deserve this?
+ - I think you guys are great, but my words can't be the only ones that you use to create change.
+ - You deserve a life with meaning and happiness. Find the reasons and words that help you get there.
+- Take action
+ - Turn this desire into action, and create momentum for yourself!
 
 ---
 class: roomy, img-right-full
@@ -504,7 +544,9 @@ class: roomy, img-right-full
 - We are full of thoughts and feelings
 - Know the tools to be mindful
 - Be aware of different wellness aspects
-- Work at loving the life you have
+- Work toward:
+ - Loving the life you live 
+ - Living the life you love.
 
 ???
 

@@ -52,6 +52,7 @@ This presentation covers several topics:
 - [You don't need a 10 year plan. You need to experiment. - Big Think](https://youtu.be/R_TnZJpCULI?si=nWxh7YqcYLUel2KV)
 - [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits)
 - [The Half-Year Reset Youtube Video](https://youtu.be/31k6O2nQgHg?si=194IFQ0A1IDpOb_i) and [Worksheet PDF](https://drive.google.com/file/d/1qXPd2333U9VPdG5gfOUaq-JdTpJuVfhY/view)
+- Madison-based [Healthy Minds Innovations](https://hminnovations.org/), makers of the Healthy Minds program for [Android](https://play.google.com/store/apps/details?id=com.healthyminds&hl=en_US) and [Apple](https://apps.apple.com/us/app/healthy-minds-program/id1326310617)
 
 ## Pictures
 

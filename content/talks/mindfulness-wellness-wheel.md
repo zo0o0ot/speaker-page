@@ -1,6 +1,6 @@
 ---
 title: Mindfulness at Work- A Practical Guide to the Wellness Wheel
-date: "2025-07-30T20:35:58-05:00"
+date: "2025-08-19T15:35:58-05:00"
 url: "/talks/mindfulness-wellness-wheel/"
 event: "DevFest WI 2025"
 location: "Memorial Union, University of Wisconsin-Madison, 800 Langdon St, Madison, WI 53703"
@@ -56,4 +56,4 @@ This presentation covers several topics:
 
 ## Pictures
 
-TBD!
+![Ross selfie](/img/confs/2025/devfest2025-ross.jpg)
